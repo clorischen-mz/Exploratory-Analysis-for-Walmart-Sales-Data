@@ -37,7 +37,7 @@ This project focuses on analyzing UniMarket sales data to identify top-performin
 > **`month_name`**: Extract the month (Jan, Feb, Mar, etc.) to analyze which months have the highest sales and profits.
 
 ### 3. Exploratory Data Analysis (EDA)
-Exploratory data analysis is conducted to answer key questions and meet the objectives of the project, providing deeper insights into sales performance and trends.
+> Exploratory data analysis is conducted to answer key questions and meet the objectives of the project, providing deeper insights into sales performance and trends.
 
 ## Insights
 ### 1. Product Analysis
