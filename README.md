@@ -15,12 +15,12 @@ This project focuses on analyzing Meijer sales data to identify top-performing b
 | `product_line`            | Product line of the purchased item              | `VARCHAR(50)`   |
 | `unit_price`              | Price per product                               | `DECIMAL(10, 2)` |
 | `quantity`                | Quantity of product sold                        | `INT`            |
-| `VAT`                     | Tax on the purchase                             | `FLOAT(6, 4)`    |
+| `tax_pct`                 | Tax on the purchase                             | `FLOAT(6, 4)`    |
 | `total`                   | Total cost of the purchase                      | `DECIMAL(12, 4)` |
 | `date`                    | Date of the purchase                            | `DATE`           |
 | `time`                    | Time of the purchase                            | `TIMESTAMP`      |
-| `payment_method`          | Method of payment                               | `VARCHAR(15)`    |
+| `payment`                 | Method of payment                               | `VARCHAR(15)`    |
 | `cogs`                    | Cost of Goods Sold                              | `DECIMAL(10, 2)` |
-| `gross_margin_percentage`  | Percentage of gross margin                      | `FLOAT(11, 9)`   |
+| `gross_margin_pct`        | Percentage of gross margin                      | `FLOAT(11, 9)`   |
 | `gross_income`            | Gross income generated                          | `DECIMAL(12, 4)` |
 | `rating`                  | Customer rating                                 | `FLOAT(2, 1)`    |
