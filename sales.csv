@@ -1,0 +1,996 @@
+invoice_id,branch,city,customer_type,gender,product_line,unit_price,quantity,tax_pct,total,date,time,payment,cogs,gross_margin_pct,gross_income,rating
+101-17-6199,West,Yorktown,Not member,Male,Electronics,50.79,7,28.4424,383.9724,3/13/2023 0:00,19:44:00,Cash,320.53,4.761904716,28.4424,7
+101-81-4070,South,Newtown,Member,Female,Health and Wellness,67.82,2,10.8512,146.4912,1/17/2023 0:00,12:36:00,Credit Card,125.64,4.761904716,10.8512,4.9
+102-06-2002,South,Newtown,Member,Male,Automotive,30.25,5,12.1,163.35,3/20/2023 0:00,17:52:00,Mobile app,126.25,4.761904716,12.1,6.1
+102-77-2261,South,Newtown,Member,Male,Health and Wellness,70.31,7,39.3736,531.5436,3/5/2023 0:00,18:02:00,Cash,457.17,4.761904716,39.3736,4.2
+105-10-6182,West,Yorktown,Member,Male,Clothing and Apparel,26.48,2,4.2368,57.1968,2/27/2023 0:00,12:22:00,Credit Card,42.96,4.761904716,4.2368,6.6
+105-31-1824,West,Yorktown,Member,Male,Automotive,74.52,7,41.7312,563.3712,2/1/2023 0:00,15:10:00,Cash,486.64,4.761904716,41.7312,8.5
+106-35-6779,West,Yorktown,Member,Male,Groceries,49.34,2,7.8944,106.5744,3/27/2023 0:00,11:26:00,Mobile app,88.68,4.761904716,7.8944,5.8
+109-28-2512,East,McCordsville,Member,Female,Clothing and Apparel,102.61,6,49.2528,664.9128,1/7/2023 0:00,15:01:00,Credit Card,585.66,4.761904716,49.2528,9.9
+109-86-4363,East,McCordsville,Member,Female,Automotive,65.08,7,36.4448,492.0048,2/14/2023 0:00,11:36:00,Cash,420.56,4.761904716,36.4448,4.5
+110-05-6330,South,Newtown,Not member,Female,Electronics,44.43,6,21.3264,287.9064,3/25/2023 0:00,20:18:00,Cash,236.58,4.761904716,21.3264,9.4
+110-48-7033,East,McCordsville,Member,Male,Clothing and Apparel,37.62,4,12.0384,162.5184,1/29/2023 0:00,14:12:00,Mobile app,130.48,4.761904716,12.0384,9
+114-35-5271,East,McCordsville,Not member,Female,Sports and Outdoors,62.91,8,40.2624,543.5424,2/7/2023 0:00,15:06:00,Mobile app,463.28,4.761904716,40.2624,8.1
+115-38-7388,South,Newtown,Member,Female,Clothing and Apparel,15.18,8,9.7152,131.1552,3/30/2023 0:00,12:51:00,Cash,81.44,4.761904716,9.7152,9.5
+115-99-4379,East,McCordsville,Member,Female,Clothing and Apparel,59.73,7,33.4488,451.5588,3/14/2023 0:00,19:02:00,Cash,383.11,4.761904716,33.4488,8.5
+118-62-1812,South,Newtown,Member,Female,Groceries,83.38,4,26.6816,360.2016,3/24/2023 0:00,17:56:00,Mobile app,313.52,4.761904716,26.6816,7.9
+120-06-4233,South,Newtown,Not member,Male,Sports and Outdoors,35.61,6,17.0928,230.7528,3/12/2023 0:00,20:36:00,Mobile app,183.66,4.761904716,17.0928,9.3
+120-54-2248,East,McCordsville,Not member,Female,Electronics,33.86,5,13.544,182.844,1/22/2023 0:00,18:08:00,Cash,144.3,4.761904716,13.544,8
+122-61-9553,South,Newtown,Not member,Female,Sports and Outdoors,56.32,9,40.5504,547.4304,3/14/2023 0:00,19:33:00,Mobile app,461.88,4.761904716,40.5504,5.6
+123-19-1176,West,Yorktown,Member,Male,Health and Wellness,63.22,8,40.4608,546.2208,1/27/2023 0:00,20:33:00,Credit Card,465.76,4.761904716,40.4608,8.4
+123-35-4896,South,Newtown,Not member,Female,Automotive,51.66,9,37.1952,502.1352,2/17/2023 0:00,19:11:00,Credit Card,419.94,4.761904716,37.1952,5.3
+124-31-1458,West,Yorktown,Member,Female,Sports and Outdoors,84.59,3,20.3016,274.0716,1/8/2023 0:00,14:30:00,Mobile app,238.77,4.761904716,20.3016,6.6
+125-45-2293,West,Yorktown,Not member,Female,Clothing and Apparel,104.1,6,49.968,674.568,1/19/2023 0:00,13:11:00,Mobile app,594.6,4.761904716,49.968,4.2
+126-54-1082,West,Yorktown,Member,Female,Groceries,26.54,9,19.1088,257.9688,1/7/2023 0:00,11:44:00,Cash,193.86,4.761904716,19.1088,8.8
+127-47-6963,West,Yorktown,Not member,Male,Health and Wellness,56.71,4,18.1472,244.9872,3/9/2023 0:00,13:53:00,Cash,206.84,4.761904716,18.1472,9.8
+129-29-8530,West,Yorktown,Member,Male,Automotive,67.62,5,27.048,365.148,3/10/2023 0:00,19:15:00,Credit Card,313.1,4.761904716,27.048,7
+130-67-4723,West,Yorktown,Member,Male,Electronics,53.5,6,25.68,346.68,1/11/2023 0:00,13:57:00,Credit Card,291,4.761904716,25.68,9.4
+130-98-8941,South,Newtown,Not member,Male,Clothing and Apparel,69.26,7,38.7856,523.6056,2/9/2023 0:00,10:00:00,Mobile app,449.82,4.761904716,38.7856,5.7
+131-15-8856,South,Newtown,Member,Female,Electronics,77.52,8,49.6128,669.7728,3/30/2023 0:00,19:26:00,Cash,580.16,4.761904716,49.6128,4
+131-70-8179,West,Yorktown,Member,Female,Health and Wellness,97.09,3,23.3016,314.5716,2/17/2023 0:00,16:27:00,Mobile app,276.27,4.761904716,23.3016,4.2
+132-23-6451,West,Yorktown,Member,Male,Health and Wellness,25.97,5,10.388,140.238,1/4/2023 0:00,13:21:00,Mobile app,104.85,4.761904716,10.388,7.8
+132-32-9879,East,McCordsville,Member,Female,Sports and Outdoors,98.96,4,31.6672,427.5072,3/9/2023 0:00,18:00:00,Mobile app,375.84,4.761904716,31.6672,9.5
+133-14-7229,South,Newtown,Not member,Male,Health and Wellness,67.87,2,10.8592,146.5992,1/1/2023 0:00,11:43:00,Mobile app,125.74,4.761904716,10.8592,5
+133-77-3154,East,McCordsville,Member,Male,Clothing and Apparel,65.18,4,20.8576,281.5776,2/16/2023 0:00,18:04:00,Cash,240.72,4.761904716,20.8576,9.4
+134-54-4720,East,McCordsville,Not member,Female,Sports and Outdoors,47.42,8,30.3488,409.7088,1/30/2023 0:00,13:58:00,Credit Card,339.36,4.761904716,30.3488,5.7
+134-75-2619,West,Yorktown,Member,Male,Sports and Outdoors,24.32,7,13.6192,183.8592,3/25/2023 0:00,18:51:00,Mobile app,135.24,4.761904716,13.6192,6.9
+135-13-8269,East,McCordsville,Member,Female,Electronics,83.88,2,13.4208,181.1808,1/26/2023 0:00,16:04:00,Mobile app,157.76,4.761904716,13.4208,9.1
+135-84-8019,West,Yorktown,Not member,Female,Clothing and Apparel,82.93,9,59.7096,806.0796,2/27/2023 0:00,16:10:00,Credit Card,701.37,4.761904716,59.7096,7.6
+136-08-6195,West,Yorktown,Not member,Female,Groceries,74.96,8,47.9744,647.6544,2/15/2023 0:00,17:01:00,Cash,559.68,4.761904716,47.9744,6.4
+137-63-5492,South,Newtown,Not member,Male,Sports and Outdoors,63.76,10,51.008,688.608,1/29/2023 0:00,14:26:00,Credit Card,587.6,4.761904716,51.008,9
+137-74-8729,South,Newtown,Not member,Female,Clothing and Apparel,17.19,8,11.0016,148.5216,3/13/2023 0:00,12:47:00,Credit Card,97.52,4.761904716,11.0016,6.8
+138-17-5109,West,Yorktown,Member,Female,Groceries,94.21,9,67.8312,915.7212,1/15/2023 0:00,15:42:00,Credit Card,802.89,4.761904716,67.8312,6.5
+139-20-0155,East,McCordsville,Member,Male,Sports and Outdoors,45.3,10,36.24,489.24,1/24/2023 0:00,17:37:00,Cash,403,4.761904716,36.24,7
+139-32-4183,West,Yorktown,Member,Female,Automotive,102.48,9,73.7856,996.1056,3/14/2023 0:00,14:19:00,Credit Card,877.32,4.761904716,73.7856,7.4
+139-52-2867,South,Newtown,Not member,Female,Clothing and Apparel,27.51,7,15.4056,207.9756,2/13/2023 0:00,10:50:00,Cash,157.57,4.761904716,15.4056,4.8
+142-63-6033,East,McCordsville,Not member,Male,Groceries,97.36,5,38.944,525.744,3/20/2023 0:00,19:17:00,Credit Card,461.8,4.761904716,38.944,4.9
+142-72-4741,South,Newtown,Member,Male,Clothing and Apparel,98.2,2,15.712,212.112,2/28/2023 0:00,18:37:00,Cash,186.4,4.761904716,15.712,6
+144-51-6085,West,Yorktown,Member,Male,Groceries,75.74,4,24.2368,327.1968,1/5/2023 0:00,16:05:00,Cash,282.96,4.761904716,24.2368,4.4
+145-94-9061,East,McCordsville,Not member,Female,Electronics,93.36,5,37.344,504.144,1/25/2023 0:00,19:48:00,Mobile app,441.8,4.761904716,37.344,9.6
+146-09-5432,West,Yorktown,Member,Male,Electronics,40.04,9,28.8288,389.1888,2/9/2023 0:00,19:17:00,Credit Card,315.36,4.761904716,28.8288,4.6
+148-41-7930,South,Newtown,Not member,Male,Health and Wellness,104.96,7,58.7776,793.4976,1/23/2023 0:00,10:33:00,Credit Card,699.72,4.761904716,58.7776,6.1
+148-82-2527,South,Newtown,Member,Female,Groceries,17.12,10,13.696,184.896,3/5/2023 0:00,13:44:00,Cash,121.2,4.761904716,13.696,8.4
+149-14-0304,South,Newtown,Member,Female,Health and Wellness,33.5,8,21.44,289.44,2/6/2023 0:00,14:24:00,Mobile app,228,4.761904716,21.44,6.6
+149-15-7606,East,McCordsville,Member,Male,Automotive,42.32,9,30.4704,411.3504,3/6/2023 0:00,15:31:00,Credit Card,335.88,4.761904716,30.4704,5.1
+149-61-1929,West,Yorktown,Not member,Male,Automotive,69.19,10,55.352,747.252,1/19/2023 0:00,14:08:00,Credit Card,641.9,4.761904716,55.352,6.7
+149-71-6266,East,McCordsville,Member,Male,Automotive,83.07,9,59.8104,807.4404,1/28/2023 0:00,12:43:00,Credit Card,702.63,4.761904716,59.8104,4.5
+150-89-8043,West,Yorktown,Not member,Male,Automotive,49.65,3,11.916,160.866,2/14/2023 0:00,15:04:00,Mobile app,133.95,4.761904716,11.916,6.2
+151-16-1484,West,Yorktown,Member,Male,Sports and Outdoors,37.25,4,11.92,160.92,2/13/2023 0:00,12:38:00,Credit Card,129,4.761904716,11.92,6.5
+151-27-8496,South,Newtown,Not member,Female,Sports and Outdoors,61.13,4,19.5616,264.0816,1/19/2023 0:00,11:43:00,Credit Card,224.52,4.761904716,19.5616,8.6
+151-33-7434,East,McCordsville,Not member,Female,Electronics,72.77,1,5.8216,78.5916,2/4/2023 0:00,20:43:00,Cash,67.77,4.761904716,5.8216,6.5
+152-03-4217,East,McCordsville,Not member,Female,Groceries,16.28,9,11.7216,158.2416,3/17/2023 0:00,11:55:00,Cash,101.52,4.761904716,11.7216,4.3
+152-08-9985,East,McCordsville,Member,Male,Health and Wellness,69.36,9,49.9392,674.1792,3/12/2023 0:00,12:09:00,Cash,579.24,4.761904716,49.9392,8.6
+152-68-2907,West,Yorktown,Not member,Male,Electronics,57.2,3,13.728,185.328,2/15/2023 0:00,13:30:00,Cash,156.6,4.761904716,13.728,9.5
+153-58-4872,South,Newtown,Member,Female,Electronics,79.89,4,25.5648,345.1248,3/1/2023 0:00,15:32:00,Credit Card,299.56,4.761904716,25.5648,4.2
+154-74-7179,East,McCordsville,Not member,Male,Automotive,59.45,1,4.756,64.206,2/26/2023 0:00,19:24:00,Credit Card,54.45,4.761904716,4.756,7.9
+154-87-7367,South,Newtown,Not member,Male,Groceries,70.26,8,44.9664,607.0464,3/15/2023 0:00,14:04:00,Credit Card,522.08,4.761904716,44.9664,6.3
+155-45-3814,South,Newtown,Member,Female,Sports and Outdoors,93.55,8,59.872,808.272,3/19/2023 0:00,15:29:00,Credit Card,708.4,4.761904716,59.872,4.7
+156-20-0370,East,McCordsville,Not member,Female,Sports and Outdoors,30.45,1,2.436,32.886,3/10/2023 0:00,18:10:00,Cash,25.45,4.761904716,2.436,5.1
+156-95-3964,West,Yorktown,Not member,Female,Electronics,60.39,4,19.3248,260.8848,3/25/2023 0:00,15:19:00,Credit Card,221.56,4.761904716,19.3248,8
+157-13-5295,West,Yorktown,Member,Male,Health and Wellness,56.94,10,45.552,614.952,3/9/2023 0:00,18:24:00,Credit Card,519.4,4.761904716,45.552,6.5
+160-22-2687,West,Yorktown,Member,Female,Health and Wellness,100.95,5,40.38,545.13,1/23/2023 0:00,14:21:00,Credit Card,479.75,4.761904716,40.38,8.8
+162-48-8011,West,Yorktown,Member,Female,Electronics,49.59,5,19.836,267.786,2/10/2023 0:00,15:10:00,Mobile app,222.95,4.761904716,19.836,8.5
+162-65-8559,South,Newtown,Member,Male,Electronics,73.98,1,5.9184,79.8984,1/21/2023 0:00,20:13:00,Mobile app,68.98,4.761904716,5.9184,4.8
+163-56-7055,South,Newtown,Member,Male,Clothing and Apparel,53.71,1,4.2968,58.0068,3/26/2023 0:00,19:20:00,Mobile app,48.71,4.761904716,4.2968,4.1
+166-19-2553,West,Yorktown,Member,Male,Automotive,94.06,6,45.1488,609.5088,1/18/2023 0:00,17:26:00,Mobile app,534.36,4.761904716,45.1488,9.9
+169-52-4504,West,Yorktown,Not member,Female,Sports and Outdoors,20.69,3,4.9656,67.0356,3/14/2023 0:00,14:13:00,Cash,47.07,4.761904716,4.9656,5.8
+172-42-8274,East,McCordsville,Not member,Female,Sports and Outdoors,43.27,2,6.9232,93.4632,3/2/2023 0:00,18:18:00,Cash,76.54,4.761904716,6.9232,5.8
+173-50-1108,East,McCordsville,Member,Female,Automotive,25.18,4,8.0576,108.7776,2/13/2023 0:00,12:14:00,Cash,80.72,4.761904716,8.0576,5
+173-57-2300,South,Newtown,Member,Male,Automotive,77.88,2,12.4608,168.2208,3/13/2023 0:00,12:51:00,Mobile app,145.76,4.761904716,12.4608,6.1
+173-82-9529,East,McCordsville,Not member,Female,Clothing and Apparel,42.95,10,34.36,463.86,1/26/2023 0:00,14:51:00,Mobile app,379.5,4.761904716,34.36,9.7
+174-36-3675,South,Newtown,Member,Male,Electronics,104.37,2,16.6992,225.4392,2/14/2023 0:00,17:29:00,Mobile app,198.74,4.761904716,16.6992,5.2
+174-64-0215,East,McCordsville,Not member,Male,Automotive,74.74,10,59.792,807.192,3/5/2023 0:00,17:49:00,Credit Card,697.4,4.761904716,59.792,8.9
+174-75-0888,East,McCordsville,Not member,Male,Sports and Outdoors,26.58,9,19.1376,258.3576,3/14/2023 0:00,12:32:00,Mobile app,194.22,4.761904716,19.1376,7.3
+175-54-2529,West,Yorktown,Member,Male,Electronics,27.17,8,17.3888,234.7488,3/3/2023 0:00,17:01:00,Cash,177.36,4.761904716,17.3888,9.6
+176-64-7711,East,McCordsville,Not member,Male,Electronics,37.32,3,8.9568,120.9168,3/27/2023 0:00,19:11:00,Cash,96.96,4.761904716,8.9568,4.3
+176-78-1170,South,Newtown,Member,Male,Health and Wellness,38.81,3,9.3144,125.7444,1/26/2023 0:00,15:11:00,Credit Card,101.43,4.761904716,9.3144,7.3
+181-82-6255,East,McCordsville,Not member,Female,Groceries,21.37,6,10.2576,138.4776,2/8/2023 0:00,10:58:00,Mobile app,98.22,4.761904716,10.2576,7
+181-94-6432,South,Newtown,Member,Male,Clothing and Apparel,74.33,2,11.8928,160.5528,2/5/2023 0:00,19:05:00,Credit Card,138.66,4.761904716,11.8928,9.7
+182-52-7000,West,Yorktown,Member,Female,Automotive,32.04,4,10.2528,138.4128,1/1/2023 0:00,20:26:00,Credit Card,108.16,4.761904716,10.2528,6.9
+182-69-8360,East,McCordsville,Not member,Female,Sports and Outdoors,28.65,4,9.168,123.768,1/30/2023 0:00,13:32:00,Cash,94.6,4.761904716,9.168,4
+182-88-2763,East,McCordsville,Member,Male,Electronics,84.91,3,20.3784,275.1084,3/20/2023 0:00,19:28:00,Cash,239.73,4.761904716,20.3784,5
+183-21-3799,South,Newtown,Not member,Female,Sports and Outdoors,82.63,9,59.4936,803.1636,2/19/2023 0:00,15:14:00,Credit Card,698.67,4.761904716,59.4936,7.2
+183-56-6882,South,Newtown,Member,Female,Electronics,104.42,4,33.4144,451.0944,2/6/2023 0:00,10:42:00,Credit Card,397.68,4.761904716,33.4144,7.5
+186-09-3669,South,Newtown,Member,Female,Health and Wellness,86.51,1,6.9208,93.4308,1/22/2023 0:00,10:57:00,Credit Card,81.51,4.761904716,6.9208,9.2
+186-43-8965,West,Yorktown,Member,Female,Groceries,52.68,2,8.4288,113.7888,2/24/2023 0:00,10:10:00,Cash,95.36,4.761904716,8.4288,4.1
+186-71-5196,West,Yorktown,Member,Female,Electronics,84.54,2,13.5264,182.6064,3/27/2023 0:00,16:30:00,Credit Card,159.08,4.761904716,13.5264,6.2
+186-79-9562,East,McCordsville,Not member,Male,Health and Wellness,76.77,7,42.9912,580.3812,3/29/2023 0:00,14:06:00,Mobile app,502.39,4.761904716,42.9912,8.9
+187-83-5490,West,Yorktown,Member,Male,Sports and Outdoors,25.77,4,8.2464,111.3264,1/31/2023 0:00,13:47:00,Mobile app,83.08,4.761904716,8.2464,4.7
+188-55-0967,East,McCordsville,Member,Male,Health and Wellness,71.47,10,57.176,771.876,1/15/2023 0:00,15:01:00,Credit Card,664.7,4.761904716,57.176,5
+189-08-9157,South,Newtown,Not member,Female,Clothing and Apparel,36.73,9,26.4456,357.0156,1/8/2023 0:00,16:17:00,Cash,285.57,4.761904716,26.4456,5.9
+189-17-4241,West,Yorktown,Not member,Female,Clothing and Apparel,92.67,2,14.8272,200.1672,3/10/2023 0:00,12:17:00,Cash,175.34,4.761904716,14.8272,7.7
+189-40-5216,South,Newtown,Not member,Male,Sports and Outdoors,101.37,7,56.7672,766.3572,1/9/2023 0:00,11:40:00,Credit Card,674.59,4.761904716,56.7672,6
+189-52-0236,West,Yorktown,Not member,Male,Sports and Outdoors,104.55,7,58.548,790.398,3/14/2023 0:00,12:07:00,Credit Card,696.85,4.761904716,58.548,7.6
+189-55-2313,South,Newtown,Not member,Female,Clothing and Apparel,67.18,10,53.744,725.544,1/31/2023 0:00,10:33:00,Credit Card,621.8,4.761904716,53.744,6
+189-98-2939,South,Newtown,Not member,Male,Clothing and Apparel,83.55,9,60.156,812.106,3/1/2023 0:00,13:22:00,Credit Card,706.95,4.761904716,60.156,7.2
+190-14-3147,East,McCordsville,Not member,Female,Health and Wellness,22.97,4,7.3504,99.2304,2/23/2023 0:00,20:43:00,Credit Card,71.88,4.761904716,7.3504,6.4
+190-59-3964,East,McCordsville,Member,Male,Electronics,52.16,5,20.864,281.664,2/3/2023 0:00,14:35:00,Cash,235.8,4.761904716,20.864,6
+191-10-6171,East,McCordsville,Not member,Female,Clothing and Apparel,44.62,7,24.9872,337.3272,1/25/2023 0:00,13:18:00,Mobile app,277.34,4.761904716,24.9872,7.5
+191-29-0321,East,McCordsville,Member,Female,Clothing and Apparel,24.77,10,19.816,267.516,2/27/2023 0:00,18:57:00,Cash,197.7,4.761904716,19.816,5
+192-98-7397,South,Newtown,Not member,Male,Clothing and Apparel,17.78,1,1.4224,19.2024,1/8/2023 0:00,14:11:00,Credit Card,12.78,4.761904716,1.4224,9.5
+195-06-0432,West,Yorktown,Member,Male,Groceries,86.01,3,20.6424,278.6724,1/13/2023 0:00,12:55:00,Cash,243.03,4.761904716,20.6424,9.3
+196-01-2849,South,Newtown,Member,Female,Clothing and Apparel,78.38,7,43.8928,592.5528,2/10/2023 0:00,13:56:00,Mobile app,513.66,4.761904716,43.8928,9.5
+197-77-7132,East,McCordsville,Member,Male,Sports and Outdoors,96.56,8,61.7984,834.2784,1/12/2023 0:00,18:22:00,Credit Card,732.48,4.761904716,61.7984,6
+198-66-9832,East,McCordsville,Member,Female,Clothing and Apparel,77.04,2,12.3264,166.4064,2/4/2023 0:00,19:38:00,Mobile app,144.08,4.761904716,12.3264,9.5
+198-84-7132,East,McCordsville,Member,Male,Clothing and Apparel,45.61,9,32.8392,443.3292,1/2/2023 0:00,13:40:00,Mobile app,365.49,4.761904716,32.8392,7
+199-75-8169,West,Yorktown,Member,Male,Automotive,20.81,10,16.648,224.748,3/6/2023 0:00,12:27:00,Cash,158.1,4.761904716,16.648,8.6
+200-16-5952,South,Newtown,Member,Male,Electronics,70.65,2,11.304,152.604,1/17/2023 0:00,16:46:00,Mobile app,131.3,4.761904716,11.304,6
+200-40-6154,East,McCordsville,Member,Male,Groceries,70.91,6,34.0368,459.4968,2/9/2023 0:00,11:45:00,Mobile app,395.46,4.761904716,34.0368,5.7
+201-63-8275,South,Newtown,Member,Female,Automotive,72.99,7,40.8744,551.8044,2/17/2023 0:00,16:50:00,Credit Card,475.93,4.761904716,40.8744,5.7
+201-86-2184,East,McCordsville,Member,Female,Sports and Outdoors,31.26,7,17.5056,236.3256,2/2/2023 0:00,19:40:00,Mobile app,183.82,4.761904716,17.5056,9.9
+207-73-1363,East,McCordsville,Not member,Male,Health and Wellness,74.51,2,11.9216,160.9416,3/1/2023 0:00,12:15:00,Credit Card,139.02,4.761904716,11.9216,8.1
+209-61-0206,West,Yorktown,Not member,Female,Groceries,47.91,5,19.164,258.714,1/5/2023 0:00,17:29:00,Credit Card,214.55,4.761904716,19.164,6.1
+210-30-7976,East,McCordsville,Member,Female,Clothing and Apparel,27.32,4,8.7424,118.0224,3/14/2023 0:00,11:16:00,Credit Card,89.28,4.761904716,8.7424,4.1
+210-57-1719,East,McCordsville,Not member,Female,Health and Wellness,63.24,9,45.5328,614.6928,2/5/2023 0:00,12:34:00,Mobile app,524.16,4.761904716,45.5328,9.7
+210-67-5886,South,Newtown,Member,Female,Health and Wellness,103.21,3,24.7704,334.4004,2/5/2023 0:00,10:41:00,Cash,294.63,4.761904716,24.7704,7.8
+210-74-9613,South,Newtown,Not member,Male,Clothing and Apparel,102.26,4,32.7232,441.7632,3/16/2023 0:00,15:33:00,Credit Card,389.04,4.761904716,32.7232,6.8
+211-05-0490,South,Newtown,Member,Female,Sports and Outdoors,56.92,5,22.768,307.368,3/3/2023 0:00,13:42:00,Mobile app,259.6,4.761904716,22.768,7.5
+211-30-9270,South,Newtown,Not member,Male,Health and Wellness,22.41,5,8.964,121.014,1/28/2023 0:00,15:16:00,Cash,87.05,4.761904716,8.964,4.9
+212-62-1842,West,Yorktown,Not member,Male,Electronics,63.26,6,30.3648,409.9248,3/28/2023 0:00,16:44:00,Mobile app,349.56,4.761904716,30.3648,9.9
+213-32-1216,West,Yorktown,Not member,Female,Sports and Outdoors,71.06,6,34.1088,460.4688,1/23/2023 0:00,10:28:00,Mobile app,396.36,4.761904716,34.1088,7.3
+213-72-6612,West,Yorktown,Not member,Male,Electronics,48.25,2,7.72,104.22,3/20/2023 0:00,15:56:00,Mobile app,86.5,4.761904716,7.72,6.2
+214-17-6927,South,Newtown,Not member,Female,Electronics,21.48,6,10.3104,139.1904,2/7/2023 0:00,18:23:00,Credit Card,98.88,4.761904716,10.3104,9.9
+214-30-2776,East,McCordsville,Member,Female,Sports and Outdoors,39.49,5,15.796,213.246,3/11/2023 0:00,19:44:00,Cash,172.45,4.761904716,15.796,9
+217-58-1179,West,Yorktown,Member,Male,Groceries,67.65,4,21.648,292.248,1/5/2023 0:00,11:25:00,Mobile app,250.6,4.761904716,21.648,4.2
+218-59-9410,West,Yorktown,Member,Female,Groceries,77.42,3,18.5808,250.8408,3/29/2023 0:00,16:54:00,Credit Card,217.26,4.761904716,18.5808,8.2
+219-22-9386,East,McCordsville,Member,Male,Automotive,104.96,9,75.5712,1020.2112,3/9/2023 0:00,17:26:00,Credit Card,899.64,4.761904716,75.5712,4.2
+219-61-4139,South,Newtown,Not member,Male,Sports and Outdoors,88.08,1,7.0464,95.1264,1/23/2023 0:00,17:16:00,Credit Card,83.08,4.761904716,7.0464,6.4
+220-28-1851,West,Yorktown,Not member,Male,Groceries,39.73,2,6.3568,85.8168,3/1/2023 0:00,18:14:00,Credit Card,69.46,4.761904716,6.3568,9.7
+220-68-6701,West,Yorktown,Not member,Female,Groceries,82.47,4,26.3904,356.2704,3/17/2023 0:00,16:36:00,Mobile app,309.88,4.761904716,26.3904,4.2
+221-25-5073,West,Yorktown,Not member,Female,Electronics,79.66,4,25.4912,344.1312,3/4/2023 0:00,10:39:00,Mobile app,298.64,4.761904716,25.4912,8.5
+222-42-0244,East,McCordsville,Member,Female,Health and Wellness,77.11,9,55.5192,749.5092,1/28/2023 0:00,13:53:00,Credit Card,648.99,4.761904716,55.5192,7.7
+225-32-0908,South,Newtown,Not member,Female,Automotive,49.86,10,39.888,538.488,1/26/2023 0:00,19:54:00,Credit Card,448.6,4.761904716,39.888,8.2
+225-98-1496,South,Newtown,Not member,Female,Clothing and Apparel,32.02,3,7.6848,103.7448,3/2/2023 0:00,13:01:00,Cash,81.06,4.761904716,7.6848,7.1
+226-31-3081,South,Newtown,Not member,Female,Sports and Outdoors,20.28,5,8.112,109.512,3/8/2023 0:00,10:29:00,Mobile app,76.4,4.761904716,8.112,9.6
+226-34-0034,East,McCordsville,Not member,Female,Sports and Outdoors,18.78,4,6.0096,81.1296,1/10/2023 0:00,11:10:00,Credit Card,55.12,4.761904716,6.0096,9
+226-71-3580,South,Newtown,Not member,Female,Automotive,28.75,9,20.7,279.45,1/31/2023 0:00,12:02:00,Mobile app,213.75,4.761904716,20.7,9.5
+227-03-5010,West,Yorktown,Member,Female,Groceries,57.59,8,36.8576,497.5776,3/22/2023 0:00,19:20:00,Cash,420.72,4.761904716,36.8576,8.5
+227-07-4446,South,Newtown,Member,Female,Sports and Outdoors,83.13,10,66.504,897.804,2/10/2023 0:00,20:51:00,Credit Card,781.3,4.761904716,66.504,4.4
+227-50-3718,West,Yorktown,Not member,Male,Health and Wellness,19.62,5,7.848,105.948,3/4/2023 0:00,12:23:00,Mobile app,73.1,4.761904716,7.848,4.4
+227-78-1148,East,McCordsville,Not member,Female,Clothing and Apparel,77.84,7,43.5904,588.4704,2/15/2023 0:00,12:44:00,Mobile app,509.88,4.761904716,43.5904,8.4
+228-96-1411,South,Newtown,Member,Female,Electronics,103.7,8,66.368,895.968,3/4/2023 0:00,20:39:00,Credit Card,789.6,4.761904716,66.368,7.6
+232-11-3025,West,Yorktown,Not member,Male,Automotive,83.77,10,67.016,904.716,1/24/2023 0:00,10:04:00,Credit Card,787.7,4.761904716,67.016,6.4
+232-16-2483,South,Newtown,Member,Female,Automotive,73.12,1,5.8496,78.9696,1/7/2023 0:00,12:28:00,Credit Card,68.12,4.761904716,5.8496,6.8
+233-34-0817,South,Newtown,Member,Female,Sports and Outdoors,103.84,1,8.3072,112.1472,2/15/2023 0:00,11:21:00,Mobile app,98.84,4.761904716,8.3072,8.4
+233-67-5758,South,Newtown,Not member,Male,Health and Wellness,45.35,1,3.628,48.978,1/29/2023 0:00,13:46:00,Credit Card,40.35,4.761904716,3.628,6.2
+234-03-4040,East,McCordsville,Member,Female,Electronics,78.05,10,62.44,842.94,3/3/2023 0:00,12:25:00,Credit Card,730.5,4.761904716,62.44,8.7
+234-36-2483,East,McCordsville,Not member,Male,Health and Wellness,62.59,6,30.0432,405.5832,2/15/2023 0:00,13:51:00,Mobile app,345.54,4.761904716,30.0432,5.1
+234-65-2137,South,Newtown,Not member,Male,Groceries,100.58,10,80.464,1086.264,1/16/2023 0:00,13:32:00,Credit Card,955.8,4.761904716,80.464,4.8
+235-06-8510,South,Newtown,Member,Male,Groceries,90.72,3,21.7728,293.9328,1/24/2023 0:00,20:59:00,Credit Card,257.16,4.761904716,21.7728,5.1
+235-46-8343,South,Newtown,Member,Male,Electronics,32.66,10,26.128,352.728,2/14/2023 0:00,11:26:00,Cash,276.6,4.761904716,26.128,8.9
+236-27-1144,South,Newtown,Not member,Female,Electronics,21.31,9,15.3432,207.1332,3/26/2023 0:00,10:31:00,Credit Card,146.79,4.761904716,15.3432,8.4
+236-86-3015,South,Newtown,Member,Male,Groceries,18.98,1,1.5184,20.4984,2/4/2023 0:00,13:38:00,Credit Card,13.98,4.761904716,1.5184,9.8
+237-01-6122,South,Newtown,Member,Female,Groceries,85.79,9,61.7688,833.8788,2/1/2023 0:00,20:31:00,Credit Card,727.11,4.761904716,61.7688,9.5
+237-44-6163,West,Yorktown,Not member,Male,Sports and Outdoors,15.56,8,9.9584,134.4384,1/24/2023 0:00,17:43:00,Mobile app,84.48,4.761904716,9.9584,7.6
+238-45-6950,East,McCordsville,Member,Male,Electronics,58.72,1,4.6976,63.4176,3/1/2023 0:00,20:03:00,Credit Card,53.72,4.761904716,4.6976,6.4
+238-49-0436,West,Yorktown,Not member,Male,Health and Wellness,37.46,8,23.9744,323.6544,3/27/2023 0:00,13:48:00,Cash,259.68,4.761904716,23.9744,4.9
+239-10-7476,West,Yorktown,Not member,Female,Groceries,82.95,6,39.816,537.516,1/21/2023 0:00,16:37:00,Credit Card,467.7,4.761904716,39.816,8
+239-36-3640,East,McCordsville,Not member,Male,Sports and Outdoors,50.35,6,24.168,326.268,1/31/2023 0:00,13:44:00,Credit Card,272.1,4.761904716,24.168,6.1
+239-48-4278,West,Yorktown,Member,Male,Electronics,15.13,7,8.4728,114.3828,3/10/2023 0:00,19:35:00,Credit Card,70.91,4.761904716,8.4728,8.3
+241-11-2261,East,McCordsville,Not member,Female,Clothing and Apparel,84.86,7,47.5216,641.5416,1/10/2023 0:00,10:33:00,Cash,559.02,4.761904716,47.5216,5.5
+241-72-9525,East,McCordsville,Not member,Male,Automotive,56.91,10,45.528,614.628,2/16/2023 0:00,12:21:00,Mobile app,519.1,4.761904716,45.528,8.2
+241-96-5076,East,McCordsville,Member,Female,Groceries,54.1,2,8.656,116.856,1/8/2023 0:00,12:58:00,Cash,98.2,4.761904716,8.656,6.4
+242-11-3142,East,McCordsville,Member,Male,Clothing and Apparel,88.77,2,14.2032,191.7432,2/24/2023 0:00,19:57:00,Mobile app,167.54,4.761904716,14.2032,4.6
+242-55-6721,East,McCordsville,Not member,Male,Groceries,21.16,2,3.3856,45.7056,3/7/2023 0:00,11:49:00,Credit Card,32.32,4.761904716,3.3856,6.5
+243-47-2663,South,Newtown,Member,Male,Sports and Outdoors,23.77,6,11.4096,154.0296,1/28/2023 0:00,16:43:00,Cash,112.62,4.761904716,11.4096,5.5
+243-55-8457,West,Yorktown,Not member,Female,Electronics,79.44,10,63.552,857.952,2/27/2023 0:00,11:40:00,Credit Card,744.4,4.761904716,63.552,5.1
+244-08-0162,East,McCordsville,Not member,Female,Health and Wellness,39.21,10,31.368,423.468,1/2/2023 0:00,13:00:00,Mobile app,342.1,4.761904716,31.368,5.1
+246-11-3901,South,Newtown,Not member,Female,Sports and Outdoors,37.8,10,30.24,408.24,2/15/2023 0:00,12:12:00,Mobile app,328,4.761904716,30.24,6.2
+246-55-6923,South,Newtown,Member,Female,Groceries,40.79,9,29.3688,396.4788,3/10/2023 0:00,15:06:00,Cash,322.11,4.761904716,29.3688,5.1
+247-11-2470,West,Yorktown,Member,Female,Clothing and Apparel,27.32,4,8.7424,118.0224,3/1/2023 0:00,16:23:00,Cash,89.28,4.761904716,8.7424,4.4
+249-42-3782,West,Yorktown,Not member,Male,Health and Wellness,75.01,5,30.004,405.054,1/3/2023 0:00,11:36:00,Credit Card,350.05,4.761904716,30.004,5.5
+250-17-5703,West,Yorktown,Member,Male,Electronics,23.85,10,19.08,257.58,2/27/2023 0:00,18:24:00,Credit Card,188.5,4.761904716,19.08,5.6
+250-81-7186,South,Newtown,Not member,Female,Sports and Outdoors,104.69,1,8.3752,113.0652,2/27/2023 0:00,10:23:00,Cash,99.69,4.761904716,8.3752,8
+252-56-2699,West,Yorktown,Not member,Male,Electronics,48.19,10,38.552,520.452,2/7/2023 0:00,16:48:00,Credit Card,431.9,4.761904716,38.552,8.2
+253-12-6086,West,Yorktown,Member,Female,Automotive,103.4,7,57.904,781.704,3/12/2023 0:00,12:43:00,Credit Card,688.8,4.761904716,57.904,8.7
+254-31-0042,West,Yorktown,Member,Male,Sports and Outdoors,26.5,9,19.08,257.58,3/6/2023 0:00,12:46:00,Cash,193.5,4.761904716,19.08,7.8
+256-08-8343,West,Yorktown,Not member,Female,Groceries,61.53,4,19.6896,265.8096,3/4/2023 0:00,19:48:00,Credit Card,226.12,4.761904716,19.6896,5.5
+256-58-3609,South,Newtown,Member,Male,Clothing and Apparel,96.98,1,7.7584,104.7384,3/18/2023 0:00,15:29:00,Mobile app,91.98,4.761904716,7.7584,9.8
+257-60-7754,West,Yorktown,Not member,Female,Sports and Outdoors,55.23,4,17.6736,238.5936,1/8/2023 0:00,17:12:00,Mobile app,200.92,4.761904716,17.6736,9
+257-73-1380,South,Newtown,Member,Male,Automotive,87.93,4,28.1376,379.8576,1/20/2023 0:00,16:51:00,Credit Card,331.72,4.761904716,28.1376,9.6
+258-69-7810,South,Newtown,Not member,Female,Clothing and Apparel,41.85,5,16.74,225.99,1/26/2023 0:00,18:53:00,Mobile app,184.25,4.761904716,16.74,9.2
+258-92-7466,West,Yorktown,Not member,Female,Health and Wellness,40.68,5,16.272,219.672,2/6/2023 0:00,18:33:00,Cash,178.4,4.761904716,16.272,6.6
+261-12-8671,East,McCordsville,Not member,Female,Clothing and Apparel,65.96,2,10.5536,142.4736,1/25/2023 0:00,19:39:00,Cash,121.92,4.761904716,10.5536,4.9
+262-47-2794,East,McCordsville,Member,Male,Groceries,76.86,8,49.1904,664.0704,3/6/2023 0:00,15:07:00,Cash,574.88,4.761904716,49.1904,6.2
+263-10-3913,South,Newtown,Member,Male,Clothing and Apparel,54.04,9,38.9088,525.2688,1/9/2023 0:00,14:20:00,Cash,441.36,4.761904716,38.9088,8.6
+263-12-5321,West,Yorktown,Member,Male,Sports and Outdoors,97.6,7,54.656,737.856,2/27/2023 0:00,12:52:00,Credit Card,648.2,4.761904716,54.656,9.3
+263-87-5680,South,Newtown,Member,Female,Groceries,33.53,10,26.824,362.124,3/18/2023 0:00,17:38:00,Credit Card,285.3,4.761904716,26.824,7.8
+266-20-6657,South,Newtown,Member,Male,Electronics,60.04,7,33.6224,453.9024,3/12/2023 0:00,19:39:00,Credit Card,385.28,4.761904716,33.6224,5.2
+266-76-6436,South,Newtown,Member,Female,Electronics,43.6,3,10.464,141.264,3/28/2023 0:00,13:57:00,Credit Card,115.8,4.761904716,10.464,7.5
+267-62-7380,South,Newtown,Member,Male,Sports and Outdoors,87.34,10,69.872,943.272,3/29/2023 0:00,19:12:00,Credit Card,823.4,4.761904716,69.872,4.3
+268-03-6164,East,McCordsville,Not member,Male,Health and Wellness,101.11,1,8.0888,109.1988,1/25/2023 0:00,16:28:00,Credit Card,96.11,4.761904716,8.0888,7.8
+268-20-3585,South,Newtown,Not member,Female,Health and Wellness,18.85,9,13.572,183.222,2/4/2023 0:00,12:50:00,Credit Card,124.65,4.761904716,13.572,6
+268-27-6179,East,McCordsville,Member,Female,Clothing and Apparel,61.47,8,39.3408,531.1008,3/9/2023 0:00,14:57:00,Credit Card,451.76,4.761904716,39.3408,7.3
+269-04-5750,East,McCordsville,Member,Male,Clothing and Apparel,78.82,4,25.2224,340.5024,2/21/2023 0:00,18:31:00,Mobile app,295.28,4.761904716,25.2224,6.7
+269-10-8440,West,Yorktown,Member,Male,Health and Wellness,58.17,7,32.5752,439.7652,1/21/2023 0:00,18:01:00,Mobile app,372.19,4.761904716,32.5752,8.9
+271-77-8740,South,Newtown,Member,Female,Automotive,34.22,6,16.4256,221.7456,1/1/2023 0:00,11:40:00,Credit Card,175.32,4.761904716,16.4256,5
+271-88-8734,South,Newtown,Member,Female,Clothing and Apparel,102.21,10,81.768,1103.868,2/8/2023 0:00,13:00:00,Credit Card,972.1,4.761904716,81.768,8.7
+272-27-9238,South,Newtown,Not member,Female,Electronics,46.24,4,14.7968,199.7568,2/19/2023 0:00,16:23:00,Mobile app,164.96,4.761904716,14.7968,7.1
+272-65-1806,West,Yorktown,Not member,Female,Sports and Outdoors,65.88,9,47.4336,640.3536,1/15/2023 0:00,17:17:00,Credit Card,547.92,4.761904716,47.4336,4.7
+273-16-6619,East,McCordsville,Not member,Male,Groceries,38.2,2,6.112,82.512,3/15/2023 0:00,12:20:00,Cash,66.4,4.761904716,6.112,4.4
+273-84-2164,South,Newtown,Member,Male,Sports and Outdoors,17.05,5,6.82,92.07,2/16/2023 0:00,15:53:00,Credit Card,60.25,4.761904716,6.82,5.5
+274-05-5470,West,Yorktown,Member,Female,Electronics,78.47,4,25.1104,338.9904,2/23/2023 0:00,18:30:00,Mobile app,293.88,4.761904716,25.1104,6
+275-28-0149,West,Yorktown,Not member,Male,Automotive,68.69,1,5.4952,74.1852,2/25/2023 0:00,16:21:00,Mobile app,63.69,4.761904716,5.4952,6
+276-54-0879,East,McCordsville,Not member,Male,Automotive,102.74,4,32.8768,443.8368,3/12/2023 0:00,19:53:00,Credit Card,390.96,4.761904716,32.8768,6.4
+276-75-6884,West,Yorktown,Not member,Female,Health and Wellness,73.71,3,17.6904,238.8204,3/4/2023 0:00,10:05:00,Mobile app,206.13,4.761904716,17.6904,8.7
+277-35-5865,South,Newtown,Member,Female,Electronics,103.97,9,74.8584,1010.5884,3/9/2023 0:00,11:23:00,Credit Card,890.73,4.761904716,74.8584,6.7
+277-63-2961,East,McCordsville,Member,Male,Automotive,78.97,1,6.3176,85.2876,2/3/2023 0:00,15:53:00,Cash,73.97,4.761904716,6.3176,5.4
+278-86-2735,West,Yorktown,Not member,Female,Electronics,57.34,3,13.7616,185.7816,3/27/2023 0:00,14:03:00,Mobile app,157.02,4.761904716,13.7616,9.2
+278-97-7759,West,Yorktown,Member,Female,Sports and Outdoors,67.48,1,5.3984,72.8784,2/18/2023 0:00,20:29:00,Mobile app,62.48,4.761904716,5.3984,4.7
+279-62-1445,South,Newtown,Member,Female,Clothing and Apparel,17.54,1,1.4032,18.9432,2/21/2023 0:00,12:38:00,Mobile app,12.54,4.761904716,1.4032,8.2
+279-74-2924,East,McCordsville,Member,Male,Sports and Outdoors,77.17,1,6.1736,83.3436,1/4/2023 0:00,19:40:00,Mobile app,72.17,4.761904716,6.1736,6.1
+280-17-4359,South,Newtown,Member,Male,Health and Wellness,95.5,10,76.4,1031.4,1/25/2023 0:00,13:48:00,Credit Card,905,4.761904716,76.4,8.1
+280-35-5823,East,McCordsville,Member,Female,Groceries,91.72,1,7.3376,99.0576,1/17/2023 0:00,18:45:00,Credit Card,86.72,4.761904716,7.3376,7.9
+282-35-2475,East,McCordsville,Not member,Female,Automotive,98.31,2,15.7296,212.3496,3/25/2023 0:00,17:53:00,Mobile app,186.62,4.761904716,15.7296,6.3
+283-26-5248,South,Newtown,Member,Female,Electronics,103.52,10,82.816,1118.016,1/30/2023 0:00,20:23:00,Credit Card,985.2,4.761904716,82.816,4.5
+283-79-9594,East,McCordsville,Not member,Female,Electronics,53.51,7,29.9656,404.5356,1/25/2023 0:00,13:30:00,Cash,339.57,4.761904716,29.9656,5.2
+284-34-9626,East,McCordsville,Not member,Female,Groceries,82.04,3,19.6896,265.8096,2/11/2023 0:00,10:39:00,Cash,231.12,4.761904716,19.6896,7.2
+284-54-4231,South,Newtown,Member,Male,Automotive,85.93,1,6.8744,92.8044,1/19/2023 0:00,16:08:00,Cash,80.93,4.761904716,6.8744,9
+286-01-5402,West,Yorktown,Not member,Female,Automotive,45.23,7,25.3288,341.9388,3/30/2023 0:00,13:22:00,Mobile app,281.61,4.761904716,25.3288,9.6
+286-43-6208,South,Newtown,Not member,Female,Electronics,92.8,9,66.816,902.016,3/16/2023 0:00,19:08:00,Credit Card,790.2,4.761904716,66.816,9.2
+286-62-6248,East,McCordsville,Not member,Male,Clothing and Apparel,44.21,4,14.1472,190.9872,1/16/2023 0:00,20:03:00,Cash,156.84,4.761904716,14.1472,9
+286-75-7818,East,McCordsville,Not member,Male,Clothing and Apparel,74.08,2,11.8528,160.0128,1/31/2023 0:00,19:48:00,Cash,138.16,4.761904716,11.8528,6.9
+287-21-9091,West,Yorktown,Not member,Male,Groceries,79.67,9,57.3624,774.3924,1/22/2023 0:00,10:55:00,Credit Card,672.03,4.761904716,57.3624,9.4
+287-83-1405,West,Yorktown,Not member,Male,Health and Wellness,30.43,6,14.6064,197.1864,2/12/2023 0:00,19:01:00,Credit Card,152.58,4.761904716,14.6064,7
+288-38-3758,South,Newtown,Member,Female,Clothing and Apparel,89.87,3,21.5688,291.1788,1/25/2023 0:00,18:30:00,Credit Card,254.61,4.761904716,21.5688,7.4
+288-62-1085,West,Yorktown,Member,Male,Clothing and Apparel,43.54,5,17.416,235.116,1/9/2023 0:00,13:34:00,Credit Card,192.7,4.761904716,17.416,5.6
+289-15-7034,West,Yorktown,Member,Male,Automotive,87.33,4,27.9456,377.2656,1/11/2023 0:00,10:37:00,Cash,329.32,4.761904716,27.9456,7.5
+289-65-5721,East,McCordsville,Not member,Female,Clothing and Apparel,86.37,2,13.8192,186.5592,1/26/2023 0:00,19:28:00,Mobile app,162.74,4.761904716,13.8192,6.5
+290-68-2984,West,Yorktown,Not member,Male,Groceries,28.75,4,9.2,124.2,3/16/2023 0:00,11:22:00,Mobile app,95,4.761904716,9.2,5.2
+291-21-5991,East,McCordsville,Member,Male,Health and Wellness,66.29,5,26.516,357.966,3/29/2023 0:00,14:28:00,Mobile app,306.45,4.761904716,26.516,7
+291-32-1427,East,McCordsville,Member,Male,Clothing and Apparel,26.94,5,10.776,145.476,3/5/2023 0:00,12:29:00,Credit Card,109.7,4.761904716,10.776,5.3
+291-55-6563,West,Yorktown,Member,Female,Groceries,39.42,6,18.9216,255.4416,3/30/2023 0:00,12:45:00,Credit Card,206.52,4.761904716,18.9216,7.5
+291-59-1384,East,McCordsville,Not member,Male,Sports and Outdoors,65.3,1,5.224,70.524,2/28/2023 0:00,17:38:00,Mobile app,60.3,4.761904716,5.224,6
+296-11-7041,East,McCordsville,Member,Female,Health and Wellness,32.07,1,2.5656,34.6356,1/12/2023 0:00,20:07:00,Cash,27.07,4.761904716,2.5656,5.3
+299-29-0180,East,McCordsville,Member,Female,Groceries,57.18,7,32.0208,432.2808,3/9/2023 0:00,10:54:00,Mobile app,365.26,4.761904716,32.0208,9.3
+299-46-1805,East,McCordsville,Member,Female,Automotive,98.72,6,47.3856,639.7056,1/15/2023 0:00,16:19:00,Mobile app,562.32,4.761904716,47.3856,4.5
+300-71-4605,South,Newtown,Member,Male,Sports and Outdoors,91.04,5,36.416,491.616,2/25/2023 0:00,11:24:00,Credit Card,430.2,4.761904716,36.416,4.8
+301-11-9629,West,Yorktown,Not member,Female,Automotive,24.1,7,13.496,182.196,1/15/2023 0:00,10:43:00,Mobile app,133.7,4.761904716,13.496,9.7
+301-81-8610,East,McCordsville,Member,Male,Clothing and Apparel,30.42,8,19.4688,262.8288,3/19/2023 0:00,19:42:00,Cash,203.36,4.761904716,19.4688,6.7
+302-15-2162,South,Newtown,Member,Male,Health and Wellness,51.53,6,24.7344,333.9144,3/3/2023 0:00,10:54:00,Cash,279.18,4.761904716,24.7344,4.3
+303-96-2227,East,McCordsville,Not member,Female,Groceries,102.38,10,81.904,1105.704,3/2/2023 0:00,17:16:00,Credit Card,973.8,4.761904716,81.904,4.4
+305-03-2383,West,Yorktown,Not member,Female,Electronics,72.1,3,17.304,233.604,2/15/2023 0:00,10:36:00,Mobile app,201.3,4.761904716,17.304,7.5
+305-14-0245,East,McCordsville,Member,Female,Groceries,99.49,8,63.6736,859.5936,3/3/2023 0:00,19:00:00,Credit Card,755.92,4.761904716,63.6736,7.5
+305-18-3552,East,McCordsville,Member,Male,Groceries,65.38,10,52.304,706.104,2/12/2023 0:00,16:19:00,Credit Card,603.8,4.761904716,52.304,6
+305-89-2768,East,McCordsville,Member,Female,Groceries,26.9,3,6.456,87.156,1/9/2023 0:00,18:43:00,Credit Card,65.7,4.761904716,6.456,4.7
+307-04-2070,West,Yorktown,Member,Female,Clothing and Apparel,35.62,1,2.8496,38.4696,2/5/2023 0:00,14:14:00,Cash,30.62,4.761904716,2.8496,4.1
+307-83-9164,West,Yorktown,Member,Male,Groceries,65.01,4,20.8032,280.8432,1/25/2023 0:00,15:54:00,Mobile app,240.04,4.761904716,20.8032,4.5
+307-85-2293,East,McCordsville,Not member,Male,Groceries,55.28,5,22.112,298.512,3/7/2023 0:00,13:58:00,Credit Card,251.4,4.761904716,22.112,9.7
+308-39-1707,West,Yorktown,Not member,Female,Clothing and Apparel,17.09,1,1.3672,18.4572,1/26/2023 0:00,18:19:00,Cash,12.09,4.761904716,1.3672,8.2
+308-47-4913,West,Yorktown,Member,Female,Automotive,57.26,10,45.808,618.408,3/9/2023 0:00,12:45:00,Cash,522.6,4.761904716,45.808,6.2
+308-81-0538,West,Yorktown,Not member,Female,Clothing and Apparel,78.05,4,24.976,337.176,2/25/2023 0:00,17:16:00,Cash,292.2,4.761904716,24.976,4.9
+311-13-6971,East,McCordsville,Member,Male,Automotive,36.99,10,29.592,399.492,2/20/2023 0:00,15:18:00,Cash,319.9,4.761904716,29.592,9.9
+313-66-9943,East,McCordsville,Member,Female,Electronics,34.15,3,8.196,110.646,3/27/2023 0:00,20:29:00,Cash,87.45,4.761904716,8.196,7.3
+314-23-4520,South,Newtown,Member,Male,Health and Wellness,86.23,7,48.2888,651.8988,1/15/2023 0:00,20:44:00,Mobile app,568.61,4.761904716,48.2888,9
+315-22-5665,South,Newtown,Not member,Female,Groceries,78.56,10,62.848,848.448,2/24/2023 0:00,11:38:00,Credit Card,735.6,4.761904716,62.848,8
+316-01-3952,West,Yorktown,Not member,Female,Electronics,59.27,5,23.708,320.058,3/13/2023 0:00,14:16:00,Credit Card,271.35,4.761904716,23.708,4.6
+316-55-4634,East,McCordsville,Member,Male,Electronics,85.05,5,34.02,459.27,1/26/2023 0:00,12:45:00,Cash,400.25,4.761904716,34.02,9.4
+316-66-3011,West,Yorktown,Member,Female,Electronics,52.63,9,37.8936,511.5636,1/23/2023 0:00,12:35:00,Mobile app,428.67,4.761904716,37.8936,5
+316-68-6352,West,Yorktown,Member,Female,Electronics,41.36,2,6.6176,89.3376,1/21/2023 0:00,10:00:00,Mobile app,72.72,4.761904716,6.6176,7.1
+318-12-0304,West,Yorktown,Not member,Male,Clothing and Apparel,35.61,1,2.8488,38.4588,1/23/2023 0:00,12:20:00,Credit Card,30.61,4.761904716,2.8488,5.2
+318-68-5053,East,McCordsville,Not member,Female,Health and Wellness,81.99,6,39.3552,531.2952,2/27/2023 0:00,17:55:00,Mobile app,461.94,4.761904716,39.3552,6.1
+318-81-2368,South,Newtown,Not member,Female,Sports and Outdoors,51.2,1,4.096,55.296,3/19/2023 0:00,12:16:00,Mobile app,46.2,4.761904716,4.096,6.3
+319-50-3348,East,McCordsville,Not member,Female,Groceries,45.3,2,7.248,97.848,3/11/2023 0:00,15:30:00,Credit Card,80.6,4.761904716,7.248,4.4
+319-74-2561,West,Yorktown,Member,Female,Sports and Outdoors,99.64,3,23.9136,322.8336,2/21/2023 0:00,16:55:00,Mobile app,283.92,4.761904716,23.9136,5.5
+320-32-8842,South,Newtown,Member,Female,Electronics,27.62,1,2.2096,29.8296,3/17/2023 0:00,18:58:00,Mobile app,22.62,4.761904716,2.2096,6.4
+320-49-6392,South,Newtown,Not member,Female,Sports and Outdoors,35.24,1,2.8192,38.0592,3/4/2023 0:00,15:44:00,Mobile app,30.24,4.761904716,2.8192,8.4
+320-85-2052,East,McCordsville,Not member,Female,Automotive,39.81,1,3.1848,42.9948,1/14/2023 0:00,10:11:00,Cash,34.81,4.761904716,3.1848,7
+321-49-7382,East,McCordsville,Member,Male,Automotive,93.31,1,7.4648,100.7748,2/15/2023 0:00,17:38:00,Cash,88.31,4.761904716,7.4648,5.2
+322-02-2271,East,McCordsville,Not member,Female,Automotive,47.97,3,11.5128,155.4228,2/3/2023 0:00,11:46:00,Mobile app,128.91,4.761904716,11.5128,9.3
+324-41-6833,South,Newtown,Member,Female,Sports and Outdoors,35.2,8,22.528,304.128,3/3/2023 0:00,19:30:00,Credit Card,241.6,4.761904716,22.528,5.1
+324-92-3863,West,Yorktown,Member,Male,Sports and Outdoors,25.89,2,4.1424,55.9224,2/5/2023 0:00,18:45:00,Mobile app,41.78,4.761904716,4.1424,9.8
+325-77-6186,West,Yorktown,Member,Female,Groceries,95.65,10,76.52,1033.02,3/8/2023 0:00,10:53:00,Credit Card,906.5,4.761904716,76.52,7.3
+325-89-4209,West,Yorktown,Member,Male,Electronics,92.9,1,7.432,100.332,2/5/2023 0:00,19:42:00,Credit Card,87.9,4.761904716,7.432,6.7
+325-90-8763,South,Newtown,Member,Female,Sports and Outdoors,51.57,10,41.256,556.956,1/27/2023 0:00,13:58:00,Mobile app,465.7,4.761904716,41.256,7.6
+326-71-2155,South,Newtown,Not member,Female,Automotive,78.95,4,25.264,341.064,2/3/2023 0:00,10:02:00,Mobile app,295.8,4.761904716,25.264,6.1
+326-78-5178,South,Newtown,Member,Male,Electronics,96.4,7,53.984,728.784,2/3/2023 0:00,10:19:00,Credit Card,639.8,4.761904716,53.984,9.5
+327-40-9673,East,McCordsville,Member,Male,Automotive,77.6,6,37.248,502.848,1/13/2023 0:00,19:51:00,Mobile app,435.6,4.761904716,37.248,6.9
+329-62-1586,West,Yorktown,Not member,Male,Electronics,59.67,3,14.3208,193.3308,1/21/2023 0:00,18:00:00,Cash,164.01,4.761904716,14.3208,8.6
+333-23-2632,West,Yorktown,Member,Male,Health and Wellness,15.08,7,8.4448,114.0048,3/28/2023 0:00,20:14:00,Mobile app,70.56,4.761904716,8.4448,4.2
+333-73-7901,South,Newtown,Not member,Female,Health and Wellness,59.92,8,38.3488,517.7088,3/23/2023 0:00,13:24:00,Credit Card,439.36,4.761904716,38.3488,7.6
+334-64-2006,West,Yorktown,Member,Female,Groceries,75.32,2,12.0512,162.6912,3/24/2023 0:00,14:22:00,Credit Card,140.64,4.761904716,12.0512,9.6
+336-78-2147,South,Newtown,Member,Male,Groceries,68.91,8,44.1024,595.3824,3/13/2023 0:00,19:52:00,Cash,511.28,4.761904716,44.1024,4.6
+338-65-2210,South,Newtown,Member,Female,Health and Wellness,73.6,10,58.88,794.88,2/5/2023 0:00,19:57:00,Credit Card,686,4.761904716,58.88,9.1
+339-12-4827,East,McCordsville,Member,Female,Clothing and Apparel,78.96,1,6.3168,85.2768,1/5/2023 0:00,11:32:00,Cash,73.96,4.761904716,6.3168,5
+339-18-7061,South,Newtown,Member,Female,Clothing and Apparel,97.98,2,15.6768,211.6368,2/13/2023 0:00,15:06:00,Cash,185.96,4.761904716,15.6768,8
+339-38-9982,East,McCordsville,Member,Male,Clothing and Apparel,64.86,2,10.3776,140.0976,1/13/2023 0:00,14:55:00,Credit Card,119.72,4.761904716,10.3776,6.7
+339-96-8318,East,McCordsville,Member,Male,Clothing and Apparel,86.31,7,48.3336,652.5036,3/1/2023 0:00,19:49:00,Credit Card,569.17,4.761904716,48.3336,6.3
+340-21-9136,West,Yorktown,Member,Female,Automotive,45.05,4,14.416,194.616,1/25/2023 0:00,11:40:00,Mobile app,160.2,4.761904716,14.416,9.7
+340-66-0321,West,Yorktown,Member,Male,Sports and Outdoors,41.36,4,13.2352,178.6752,3/25/2023 0:00,13:07:00,Mobile app,145.44,4.761904716,13.2352,7.6
+342-65-4817,South,Newtown,Member,Male,Health and Wellness,91.8,3,22.032,297.432,1/28/2023 0:00,16:47:00,Credit Card,260.4,4.761904716,22.032,9.9
+343-61-3544,East,McCordsville,Member,Male,Automotive,31.67,10,25.336,342.036,1/29/2023 0:00,11:48:00,Mobile app,266.7,4.761904716,25.336,8.6
+343-75-9322,East,McCordsville,Member,Female,Automotive,16.85,8,10.784,145.584,1/9/2023 0:00,16:34:00,Mobile app,94.8,4.761904716,10.784,4.1
+343-87-0864,South,Newtown,Member,Male,Health and Wellness,80.88,1,6.4704,87.3504,1/3/2023 0:00,10:30:00,Cash,75.88,4.761904716,6.4704,7.1
+345-08-4992,West,Yorktown,Not member,Male,Groceries,38.99,6,18.7152,252.6552,3/8/2023 0:00,15:37:00,Cash,203.94,4.761904716,18.7152,7.7
+345-68-9016,South,Newtown,Member,Female,Automotive,36.67,8,23.4688,316.8288,1/2/2023 0:00,16:19:00,Cash,253.36,4.761904716,23.4688,5.6
+346-12-3257,East,McCordsville,Member,Male,Sports and Outdoors,24.24,9,17.4528,235.6128,3/4/2023 0:00,16:28:00,Mobile app,173.16,4.761904716,17.4528,8
+346-84-3103,East,McCordsville,Member,Female,Sports and Outdoors,18.22,5,7.288,98.388,3/2/2023 0:00,19:26:00,Mobile app,66.1,4.761904716,7.288,4.3
+347-56-2442,West,Yorktown,Not member,Male,Groceries,70.82,1,5.6656,76.4856,2/22/2023 0:00,15:33:00,Mobile app,65.82,4.761904716,5.6656,4.1
+347-72-6115,East,McCordsville,Member,Female,Automotive,95.74,7,53.6144,723.7944,1/16/2023 0:00,18:03:00,Credit Card,635.18,4.761904716,53.6144,6.2
+349-97-8902,East,McCordsville,Member,Male,Electronics,62.89,2,10.0624,135.8424,1/17/2023 0:00,10:37:00,Credit Card,115.78,4.761904716,10.0624,8.9
+351-62-0822,East,McCordsville,Member,Female,Clothing and Apparel,19.48,4,6.2336,84.1536,2/6/2023 0:00,18:07:00,Credit Card,57.92,4.761904716,6.2336,4.5
+354-25-5821,East,McCordsville,Member,Female,Automotive,74.12,6,35.5776,480.2976,2/8/2023 0:00,13:03:00,Mobile app,414.72,4.761904716,35.5776,5.6
+354-39-5160,West,Yorktown,Member,Female,Groceries,39.42,6,18.9216,255.4416,2/18/2023 0:00,15:39:00,Mobile app,206.52,4.761904716,18.9216,9.8
+355-34-6244,East,McCordsville,Not member,Male,Electronics,77.39,2,12.3824,167.1624,1/13/2023 0:00,19:55:00,Cash,144.78,4.761904716,12.3824,8.1
+355-53-5943,West,Yorktown,Member,Female,Sports and Outdoors,73.84,6,35.4432,478.4832,2/25/2023 0:00,14:36:00,Credit Card,413.04,4.761904716,35.4432,5.8
+356-44-8813,East,McCordsville,Not member,Male,Groceries,42.48,3,10.1952,137.6352,1/20/2023 0:00,13:45:00,Cash,112.44,4.761904716,10.1952,7.7
+358-88-9262,South,Newtown,Member,Female,Electronics,92.48,6,44.3904,599.2704,2/1/2023 0:00,18:43:00,Credit Card,524.88,4.761904716,44.3904,5.1
+359-90-3665,East,McCordsville,Member,Female,Clothing and Apparel,23.08,4,7.3856,99.7056,1/14/2023 0:00,18:03:00,Cash,72.32,4.761904716,7.3856,9.5
+359-94-5395,East,McCordsville,Not member,Male,Health and Wellness,97.78,1,7.8224,105.6024,3/15/2023 0:00,10:50:00,Cash,92.78,4.761904716,7.8224,9.8
+360-39-5055,South,Newtown,Member,Male,Automotive,53.91,5,21.564,291.114,3/9/2023 0:00,10:17:00,Mobile app,244.55,4.761904716,21.564,6.6
+361-59-0574,East,McCordsville,Member,Male,Automotive,95.53,8,61.1392,825.3792,3/15/2023 0:00,14:48:00,Credit Card,724.24,4.761904716,61.1392,6.5
+361-85-2571,West,Yorktown,Not member,Female,Automotive,94.48,5,37.792,510.192,3/30/2023 0:00,10:18:00,Mobile app,447.4,4.761904716,37.792,7.4
+362-58-8315,South,Newtown,Not member,Male,Clothing and Apparel,81.52,5,32.608,440.208,3/25/2023 0:00,10:23:00,Mobile app,382.6,4.761904716,32.608,9.9
+364-33-8584,East,McCordsville,Member,Female,Electronics,22.63,5,9.052,122.202,3/8/2023 0:00,15:27:00,Mobile app,88.15,4.761904716,9.052,8.5
+364-34-2972,South,Newtown,Member,Male,Sports and Outdoors,101.82,3,24.4368,329.8968,3/30/2023 0:00,20:37:00,Mobile app,290.46,4.761904716,24.4368,6.7
+365-16-4334,East,McCordsville,Not member,Female,Electronics,31.43,8,20.1152,271.5552,2/24/2023 0:00,14:26:00,Credit Card,211.44,4.761904716,20.1152,8.9
+365-64-0515,West,Yorktown,Not member,Female,Sports and Outdoors,51.95,5,20.78,280.53,2/12/2023 0:00,10:25:00,Credit Card,234.75,4.761904716,20.78,7.1
+366-43-6862,East,McCordsville,Not member,Male,Sports and Outdoors,57.89,4,18.5248,250.0848,3/25/2023 0:00,16:32:00,Credit Card,211.56,4.761904716,18.5248,6.7
+366-93-0948,West,Yorktown,Member,Male,Sports and Outdoors,71.35,1,5.708,77.058,1/31/2023 0:00,10:46:00,Cash,66.35,4.761904716,5.708,9.7
+369-82-2676,East,McCordsville,Not member,Male,Sports and Outdoors,80.66,5,32.264,435.564,1/15/2023 0:00,18:22:00,Credit Card,378.3,4.761904716,32.264,7.8
+370-41-7321,East,McCordsville,Member,Male,Health and Wellness,61.69,9,44.4168,599.6268,2/27/2023 0:00,17:24:00,Cash,510.21,4.761904716,44.4168,8.4
+370-96-0655,South,Newtown,Not member,Female,Clothing and Apparel,54.32,6,26.0736,351.9936,1/9/2023 0:00,13:46:00,Credit Card,295.92,4.761904716,26.0736,7.1
+371-85-5789,East,McCordsville,Not member,Male,Health and Wellness,92.98,3,22.3152,301.2552,3/5/2023 0:00,10:40:00,Credit Card,263.94,4.761904716,22.3152,5.1
+372-26-1506,South,Newtown,Not member,Female,Clothing and Apparel,28.82,5,11.528,155.628,1/28/2023 0:00,19:24:00,Credit Card,119.1,4.761904716,11.528,5.4
+372-62-5264,South,Newtown,Not member,Female,Electronics,57.6,9,41.472,559.872,1/16/2023 0:00,14:42:00,Mobile app,473.4,4.761904716,41.472,7.6
+372-94-8041,West,Yorktown,Not member,Male,Health and Wellness,20.26,6,9.7248,131.2848,2/15/2023 0:00,18:03:00,Credit Card,91.56,4.761904716,9.7248,9.8
+373-09-4567,South,Newtown,Not member,Male,Electronics,82.56,10,66.048,891.648,3/14/2023 0:00,20:35:00,Credit Card,775.6,4.761904716,66.048,6.9
+373-14-0504,West,Yorktown,Member,Female,Automotive,76.63,2,12.2608,165.5208,2/12/2023 0:00,14:33:00,Credit Card,143.26,4.761904716,12.2608,8.8
+373-73-7910,West,Yorktown,Not member,Male,Automotive,91.31,7,51.1336,690.3036,2/8/2023 0:00,10:37:00,Credit Card,604.17,4.761904716,51.1336,5.3
+373-88-1424,South,Newtown,Member,Male,Groceries,40.81,5,16.324,220.374,2/6/2023 0:00,18:44:00,Credit Card,179.05,4.761904716,16.324,7.9
+374-17-3652,East,McCordsville,Member,Female,Electronics,47.82,9,34.4304,464.8104,2/5/2023 0:00,15:26:00,Cash,385.38,4.761904716,34.4304,8.9
+374-38-5555,East,McCordsville,Not member,Female,Clothing and Apparel,68.71,5,27.484,371.034,2/7/2023 0:00,19:30:00,Credit Card,318.55,4.761904716,27.484,8.5
+375-72-3056,East,McCordsville,Not member,Male,Automotive,68.06,3,16.3344,220.5144,1/19/2023 0:00,15:58:00,Credit Card,189.18,4.761904716,16.3344,7
+376-02-8238,East,McCordsville,Not member,Male,Groceries,98.87,8,63.2768,854.2368,2/2/2023 0:00,18:42:00,Credit Card,750.96,4.761904716,63.2768,8.3
+376-56-3573,South,Newtown,Not member,Female,Clothing and Apparel,100.42,4,32.1344,433.8144,2/2/2023 0:00,13:23:00,Credit Card,381.68,4.761904716,32.1344,6.4
+377-79-7592,South,Newtown,Member,Female,Sports and Outdoors,49.84,9,35.8848,484.4448,1/14/2023 0:00,14:00:00,Cash,403.56,4.761904716,35.8848,7.5
+378-07-7001,East,McCordsville,Member,Male,Sports and Outdoors,53.09,3,12.7416,172.0116,2/10/2023 0:00,18:23:00,Cash,144.27,4.761904716,12.7416,7.8
+378-24-2715,East,McCordsville,Not member,Male,Groceries,58.44,2,9.3504,126.2304,1/20/2023 0:00,20:38:00,Credit Card,106.88,4.761904716,9.3504,4.1
+379-17-6588,South,Newtown,Not member,Male,Clothing and Apparel,64.61,10,51.688,697.788,3/14/2023 0:00,11:07:00,Credit Card,596.1,4.761904716,51.688,5.3
+380-60-5336,West,Yorktown,Not member,Female,Sports and Outdoors,45.26,10,36.208,488.808,2/24/2023 0:00,18:06:00,Cash,402.6,4.761904716,36.208,5
+380-94-4661,South,Newtown,Member,Male,Sports and Outdoors,70.94,4,22.7008,306.4608,2/7/2023 0:00,13:05:00,Cash,263.76,4.761904716,22.7008,6.9
+381-20-0914,West,Yorktown,Member,Female,Clothing and Apparel,25.01,9,18.0072,243.0972,1/12/2023 0:00,15:48:00,Cash,180.09,4.761904716,18.0072,5.7
+382-03-4532,West,Yorktown,Member,Female,Health and Wellness,23.33,1,1.8664,25.1964,2/2/2023 0:00,18:50:00,Mobile app,18.33,4.761904716,1.8664,4.3
+382-25-8917,South,Newtown,Not member,Male,Clothing and Apparel,47.08,6,22.5984,305.0784,1/29/2023 0:00,12:25:00,Mobile app,252.48,4.761904716,22.5984,8.9
+384-59-6655,West,Yorktown,Member,Female,Electronics,103.66,9,74.6352,1007.5752,2/19/2023 0:00,15:07:00,Credit Card,887.94,4.761904716,74.6352,8.4
+386-27-7606,South,Newtown,Member,Female,Groceries,86.2,7,48.272,651.672,3/23/2023 0:00,15:59:00,Cash,568.4,4.761904716,48.272,8.1
+387-49-4215,East,McCordsville,Member,Female,Automotive,53.5,3,12.84,173.34,1/8/2023 0:00,12:50:00,Mobile app,145.5,4.761904716,12.84,6.7
+388-76-2555,East,McCordsville,Not member,Male,Automotive,18.69,6,8.9712,121.1112,2/13/2023 0:00,13:59:00,Mobile app,82.14,4.761904716,8.9712,6.3
+389-25-3394,South,Newtown,Not member,Male,Sports and Outdoors,16.81,5,6.724,90.774,2/17/2023 0:00,18:06:00,Mobile app,59.05,4.761904716,6.724,9.4
+389-70-2397,South,Newtown,Not member,Female,Health and Wellness,88.66,5,35.464,478.764,2/21/2023 0:00,10:26:00,Mobile app,418.3,4.761904716,35.464,7.2
+390-17-5806,South,Newtown,Member,Female,Electronics,43.42,1,3.4736,46.8936,2/2/2023 0:00,16:33:00,Mobile app,38.42,4.761904716,3.4736,8.6
+390-31-6381,South,Newtown,Not member,Male,Electronics,32.22,3,7.7328,104.3928,1/7/2023 0:00,12:37:00,Mobile app,81.66,4.761904716,7.7328,7.3
+390-80-5128,East,McCordsville,Member,Female,Health and Wellness,24.15,1,1.932,26.082,1/28/2023 0:00,17:58:00,Cash,19.15,4.761904716,1.932,9.5
+393-65-2792,South,Newtown,Not member,Male,Electronics,94.48,10,75.584,1020.384,1/6/2023 0:00,12:46:00,Credit Card,894.8,4.761904716,75.584,9.6
+394-30-3170,East,McCordsville,Member,Female,Automotive,93.43,8,59.7952,807.2352,3/22/2023 0:00,19:35:00,Credit Card,707.44,4.761904716,59.7952,4.3
+394-41-0748,South,Newtown,Member,Female,Clothing and Apparel,59.07,9,42.5304,574.1604,1/27/2023 0:00,14:55:00,Credit Card,486.63,4.761904716,42.5304,9.5
+394-43-4238,East,McCordsville,Member,Male,Groceries,22.77,5,9.108,122.958,2/15/2023 0:00,12:42:00,Cash,88.85,4.761904716,9.108,5.4
+394-55-6384,South,Newtown,Member,Female,Automotive,75.19,9,54.1368,730.8468,1/25/2023 0:00,13:38:00,Credit Card,631.71,4.761904716,54.1368,6.7
+396-90-2219,East,McCordsville,Not member,Female,Sports and Outdoors,19.96,8,12.7744,172.4544,2/23/2023 0:00,12:29:00,Mobile app,119.68,4.761904716,12.7744,8.6
+397-25-8725,West,Yorktown,Member,Female,Health and Wellness,44.62,9,32.1264,433.7064,1/13/2023 0:00,17:54:00,Cash,356.58,4.761904716,32.1264,6.8
+399-46-5918,South,Newtown,Not member,Female,Sports and Outdoors,90.98,8,58.2272,786.0672,2/28/2023 0:00,19:01:00,Credit Card,687.84,4.761904716,58.2272,8.2
+399-69-4630,South,Newtown,Not member,Male,Sports and Outdoors,27.21,6,13.0608,176.3208,3/7/2023 0:00,10:23:00,Cash,133.26,4.761904716,13.0608,8.6
+400-45-1220,East,McCordsville,Not member,Female,Health and Wellness,18.5,10,14.8,199.8,2/27/2023 0:00,11:06:00,Cash,135,4.761904716,14.8,4.8
+400-60-7251,West,Yorktown,Not member,Male,Groceries,79.07,1,6.3256,85.3956,2/10/2023 0:00,12:50:00,Credit Card,74.07,4.761904716,6.3256,9.9
+400-80-4065,South,Newtown,Member,Male,Health and Wellness,73.55,4,23.536,317.736,2/15/2023 0:00,20:21:00,Cash,274.2,4.761904716,23.536,9.2
+400-89-4171,South,Newtown,Not member,Female,Automotive,85.97,8,55.0208,742.7808,1/28/2023 0:00,13:05:00,Credit Card,647.76,4.761904716,55.0208,9.3
+401-09-4232,South,Newtown,Member,Male,Groceries,91.69,5,36.676,495.126,2/11/2023 0:00,18:38:00,Credit Card,433.45,4.761904716,36.676,9.4
+401-18-8016,East,McCordsville,Member,Female,Automotive,103.13,1,8.2504,111.3804,1/21/2023 0:00,17:36:00,Mobile app,98.13,4.761904716,8.2504,8.9
+404-91-5964,West,Yorktown,Not member,Male,Sports and Outdoors,79.58,7,44.5648,601.6248,2/4/2023 0:00,16:09:00,Cash,522.06,4.761904716,44.5648,9
+405-31-3305,West,Yorktown,Member,Male,Clothing and Apparel,48.13,10,38.504,519.804,2/2/2023 0:00,18:31:00,Cash,431.3,4.761904716,38.504,5.5
+406-46-7107,West,Yorktown,Not member,Female,Groceries,101.52,6,48.7296,657.8496,1/11/2023 0:00,11:52:00,Mobile app,579.12,4.761904716,48.7296,4.5
+407-63-8975,West,Yorktown,Not member,Male,Electronics,78.88,6,37.8624,511.1424,3/23/2023 0:00,19:16:00,Credit Card,443.28,4.761904716,37.8624,4.4
+408-26-9866,South,Newtown,Not member,Female,Automotive,78.98,7,44.2288,597.0888,3/2/2023 0:00,16:42:00,Credit Card,517.86,4.761904716,44.2288,4.1
+408-66-6712,South,Newtown,Member,Female,Health and Wellness,52.71,6,25.3008,341.5608,2/16/2023 0:00,14:19:00,Credit Card,286.26,4.761904716,25.3008,4.4
+409-33-9708,West,Yorktown,Not member,Female,Clothing and Apparel,103.48,2,16.5568,223.5168,2/19/2023 0:00,10:12:00,Credit Card,196.96,4.761904716,16.5568,9.2
+409-49-6995,South,Newtown,Member,Female,Electronics,52.27,6,25.0896,338.7096,2/5/2023 0:00,10:17:00,Mobile app,283.62,4.761904716,25.0896,8.8
+410-67-1709,West,Yorktown,Member,Female,Clothing and Apparel,68.88,8,44.0832,595.1232,1/20/2023 0:00,17:48:00,Credit Card,511.04,4.761904716,44.0832,9.9
+411-77-0180,West,Yorktown,Member,Male,Sports and Outdoors,77.2,7,43.232,583.632,3/26/2023 0:00,20:14:00,Credit Card,505.4,4.761904716,43.232,4.3
+413-20-6708,South,Newtown,Member,Female,Clothing and Apparel,56.47,1,4.5176,60.9876,3/18/2023 0:00,15:52:00,Credit Card,51.47,4.761904716,4.5176,8.5
+414-12-7047,East,McCordsville,Not member,Male,Electronics,24.79,8,15.8656,214.1856,1/18/2023 0:00,12:04:00,Credit Card,158.32,4.761904716,15.8656,8.7
+416-13-5917,South,Newtown,Not member,Female,Electronics,102.03,5,40.812,550.962,1/30/2023 0:00,16:24:00,Credit Card,485.15,4.761904716,40.812,9.3
+416-17-9926,West,Yorktown,Member,Female,Sports and Outdoors,79.22,10,63.376,855.576,1/1/2023 0:00,14:42:00,Credit Card,742.2,4.761904716,63.376,4.3
+418-02-5978,East,McCordsville,Not member,Female,Health and Wellness,89.09,9,64.1448,865.9548,2/11/2023 0:00,10:54:00,Credit Card,756.81,4.761904716,64.1448,8
+418-05-0656,East,McCordsville,Not member,Female,Clothing and Apparel,30.56,7,17.1136,231.0336,2/2/2023 0:00,20:42:00,Mobile app,178.92,4.761904716,17.1136,7.1
+420-04-7590,East,McCordsville,Not member,Male,Groceries,104.7,3,25.128,339.228,3/18/2023 0:00,11:29:00,Credit Card,299.1,4.761904716,25.128,4.7
+420-11-4919,South,Newtown,Member,Female,Electronics,76.39,5,30.556,412.506,2/17/2023 0:00,19:57:00,Cash,356.95,4.761904716,30.556,5.5
+420-18-8989,West,Yorktown,Member,Female,Automotive,56.52,8,36.1728,488.3328,2/2/2023 0:00,15:47:00,Mobile app,412.16,4.761904716,36.1728,9.6
+420-97-3340,West,Yorktown,Not member,Female,Electronics,76.68,3,18.4032,248.4432,3/28/2023 0:00,15:30:00,Cash,215.04,4.761904716,18.4032,9.2
+421-95-9805,West,Yorktown,Not member,Female,Sports and Outdoors,33.96,1,2.7168,36.6768,2/7/2023 0:00,10:18:00,Cash,28.96,4.761904716,2.7168,6.2
+422-29-8786,West,Yorktown,Not member,Female,Groceries,72.09,5,28.836,389.286,1/3/2023 0:00,16:47:00,Cash,335.45,4.761904716,28.836,9.1
+423-64-4619,West,Yorktown,Member,Female,Health and Wellness,20.55,9,14.796,199.746,3/7/2023 0:00,13:12:00,Mobile app,139.95,4.761904716,14.796,5
+423-80-0988,South,Newtown,Not member,Male,Automotive,81.4,2,13.024,175.824,1/30/2023 0:00,19:42:00,Credit Card,152.8,4.761904716,13.024,6.5
+425-85-2085,East,McCordsville,Member,Male,Health and Wellness,59.86,5,23.944,323.244,3/29/2023 0:00,16:48:00,Credit Card,274.3,4.761904716,23.944,9.8
+426-39-2418,South,Newtown,Not member,Male,Sports and Outdoors,66.41,7,37.1896,502.0596,1/14/2023 0:00,10:02:00,Mobile app,429.87,4.761904716,37.1896,9.8
+427-45-9297,East,McCordsville,Member,Female,Groceries,45.73,7,25.6088,345.7188,3/12/2023 0:00,11:01:00,Credit Card,285.11,4.761904716,25.6088,5.4
+428-83-5800,South,Newtown,Member,Female,Electronics,26.08,3,6.2592,84.4992,2/9/2023 0:00,10:25:00,Mobile app,63.24,4.761904716,6.2592,7.3
+430-02-3888,East,McCordsville,Not member,Male,Sports and Outdoors,51.02,6,24.4896,330.6096,2/7/2023 0:00,15:55:00,Mobile app,276.12,4.761904716,24.4896,7.1
+430-53-4718,East,McCordsville,Member,Male,Health and Wellness,80.37,8,51.4368,694.3968,1/28/2023 0:00,15:46:00,Credit Card,602.96,4.761904716,51.4368,8.4
+430-60-3493,West,Yorktown,Member,Female,Groceries,99.88,7,55.9328,755.0928,2/3/2023 0:00,14:38:00,Credit Card,664.16,4.761904716,55.9328,4.2
+431-66-2305,East,McCordsville,Not member,Female,Sports and Outdoors,93.25,9,67.14,906.39,2/15/2023 0:00,20:51:00,Credit Card,794.25,4.761904716,67.14,7.6
+433-08-7822,South,Newtown,Not member,Female,Health and Wellness,83.89,7,46.9784,634.2084,1/5/2023 0:00,19:48:00,Credit Card,552.23,4.761904716,46.9784,7.5
+433-75-6987,East,McCordsville,Member,Female,Health and Wellness,60.97,7,34.1432,460.9332,3/5/2023 0:00,19:06:00,Credit Card,391.79,4.761904716,34.1432,8.9
+434-35-9162,East,McCordsville,Member,Male,Electronics,28.34,4,9.0688,122.4288,2/4/2023 0:00,18:53:00,Credit Card,93.36,4.761904716,9.0688,7.4
+434-83-9547,South,Newtown,Member,Male,Electronics,43.47,8,27.8208,375.5808,1/23/2023 0:00,11:51:00,Mobile app,307.76,4.761904716,27.8208,7.7
+435-13-4908,West,Yorktown,Member,Male,Clothing and Apparel,91.68,8,58.6752,792.1152,1/24/2023 0:00,18:04:00,Credit Card,693.44,4.761904716,58.6752,7.2
+436-54-4512,West,Yorktown,Member,Female,Electronics,96.61,1,7.7288,104.3388,3/20/2023 0:00,19:44:00,Mobile app,91.61,4.761904716,7.7288,9.8
+437-53-3084,East,McCordsville,Not member,Male,Clothing and Apparel,104.89,2,16.7824,226.5624,2/26/2023 0:00,11:48:00,Credit Card,199.78,4.761904716,16.7824,7.1
+437-58-8131,East,McCordsville,Not member,Female,Clothing and Apparel,78.52,2,12.5632,169.6032,1/15/2023 0:00,13:41:00,Credit Card,147.04,4.761904716,12.5632,4.6
+438-01-4015,East,McCordsville,Member,Female,Automotive,54.49,4,17.4368,235.3968,3/21/2023 0:00,15:25:00,Credit Card,197.96,4.761904716,17.4368,6.6
+438-23-1242,East,McCordsville,Not member,Male,Sports and Outdoors,80.88,7,45.2928,611.4528,1/24/2023 0:00,10:38:00,Credit Card,531.16,4.761904716,45.2928,8.9
+439-54-7422,West,Yorktown,Not member,Female,Sports and Outdoors,56.19,4,17.9808,242.7408,3/18/2023 0:00,17:15:00,Cash,204.76,4.761904716,17.9808,4.7
+440-59-5691,South,Newtown,Member,Female,Health and Wellness,42.15,7,23.604,318.654,2/8/2023 0:00,13:12:00,Cash,260.05,4.761904716,23.604,7.7
+441-94-7118,West,Yorktown,Member,Male,Sports and Outdoors,76.95,1,6.156,83.106,2/4/2023 0:00,12:14:00,Mobile app,71.95,4.761904716,6.156,7.3
+442-44-6497,South,Newtown,Member,Male,Groceries,60.57,3,14.5368,196.2468,1/8/2023 0:00,11:42:00,Cash,166.71,4.761904716,14.5368,5.9
+442-48-3607,West,Yorktown,Member,Male,Electronics,28.48,2,4.5568,61.5168,3/14/2023 0:00,11:21:00,Cash,46.96,4.761904716,4.5568,7.9
+443-59-0061,West,Yorktown,Member,Male,Electronics,72.45,10,57.96,782.46,2/3/2023 0:00,11:25:00,Credit Card,674.5,4.761904716,57.96,4.2
+443-60-9639,South,Newtown,Member,Female,Groceries,65.87,1,5.2696,71.1396,1/24/2023 0:00,13:24:00,Mobile app,60.87,4.761904716,5.2696,5.5
+443-82-0585,West,Yorktown,Member,Female,Health and Wellness,82.68,4,26.4576,357.1776,2/1/2023 0:00,19:54:00,Mobile app,310.72,4.761904716,26.4576,8.4
+445-30-9252,West,Yorktown,Not member,Male,Automotive,30.7,3,7.368,99.468,1/17/2023 0:00,17:59:00,Credit Card,77.1,4.761904716,7.368,6.1
+446-47-6729,South,Newtown,Not member,Male,Clothing and Apparel,104.82,2,16.7712,226.4112,1/2/2023 0:00,18:09:00,Cash,199.64,4.761904716,16.7712,6.7
+447-15-7839,West,Yorktown,Member,Female,Automotive,27.24,10,21.792,294.192,2/9/2023 0:00,11:00:00,Mobile app,222.4,4.761904716,21.792,4.2
+448-34-8700,East,McCordsville,Member,Male,Groceries,41.91,7,23.4696,316.8396,2/10/2023 0:00,13:51:00,Credit Card,258.37,4.761904716,23.4696,6.7
+448-61-3783,West,Yorktown,Not member,Female,Sports and Outdoors,95.02,8,60.8128,820.9728,3/21/2023 0:00,16:08:00,Credit Card,720.16,4.761904716,60.8128,4.5
+448-81-5016,West,Yorktown,Not member,Male,Health and Wellness,64.77,2,10.3632,139.9032,3/11/2023 0:00,12:01:00,Cash,119.54,4.761904716,10.3632,5.8
+449-16-6770,West,Yorktown,Not member,Male,Health and Wellness,55.79,5,22.316,301.266,2/19/2023 0:00,14:53:00,Cash,253.95,4.761904716,22.316,5.3
+449-27-2918,East,McCordsville,Member,Female,Automotive,44.12,1,3.5296,47.6496,3/26/2023 0:00,11:02:00,Cash,39.12,4.761904716,3.5296,9.6
+450-28-2866,South,Newtown,Member,Male,Electronics,22.44,5,8.976,121.176,1/15/2023 0:00,19:25:00,Mobile app,87.2,4.761904716,8.976,8.1
+450-42-3339,South,Newtown,Not member,Male,Health and Wellness,89.61,10,71.688,967.788,2/9/2023 0:00,18:58:00,Credit Card,846.1,4.761904716,71.688,8.8
+451-28-5717,South,Newtown,Member,Female,Groceries,88.17,6,42.3216,571.3416,3/20/2023 0:00,11:23:00,Mobile app,499.02,4.761904716,42.3216,7.3
+451-73-2711,South,Newtown,Not member,Male,Electronics,89.83,1,7.1864,97.0164,1/14/2023 0:00,15:20:00,Credit Card,84.83,4.761904716,7.1864,8.8
+452-04-8808,East,McCordsville,Not member,Male,Sports and Outdoors,92.08,7,51.5648,696.1248,1/26/2023 0:00,15:17:00,Credit Card,609.56,4.761904716,51.5648,5.5
+453-12-7053,South,Newtown,Not member,Male,Clothing and Apparel,50.74,3,12.1776,164.3976,3/10/2023 0:00,17:38:00,Cash,137.22,4.761904716,12.1776,6.5
+453-33-6436,West,Yorktown,Not member,Female,Groceries,98.12,8,62.7968,847.7568,2/7/2023 0:00,10:09:00,Credit Card,744.96,4.761904716,62.7968,6.8
+453-63-6187,East,McCordsville,Not member,Male,Sports and Outdoors,32.5,3,7.8,105.3,3/1/2023 0:00,15:40:00,Credit Card,82.5,4.761904716,7.8,6.5
+457-12-0244,South,Newtown,Member,Female,Automotive,40.22,6,19.3056,260.6256,3/14/2023 0:00,13:49:00,Credit Card,211.32,4.761904716,19.3056,6.5
+457-13-1708,East,McCordsville,Member,Male,Clothing and Apparel,70.23,10,56.184,758.484,1/8/2023 0:00,19:07:00,Credit Card,652.3,4.761904716,56.184,5.2
+457-94-0464,East,McCordsville,Member,Male,Sports and Outdoors,92.87,9,66.8664,902.6964,1/31/2023 0:00,20:32:00,Credit Card,790.83,4.761904716,66.8664,5.6
+458-10-8612,South,Newtown,Not member,Male,Health and Wellness,69.08,7,38.6848,522.2448,1/20/2023 0:00,12:27:00,Credit Card,448.56,4.761904716,38.6848,7.6
+458-41-1477,South,Newtown,Not member,Female,Health and Wellness,51.26,6,24.6048,332.1648,3/8/2023 0:00,17:11:00,Cash,277.56,4.761904716,24.6048,9.5
+458-61-0011,East,McCordsville,Not member,Male,Electronics,65.3,4,20.896,282.096,2/20/2023 0:00,18:43:00,Mobile app,241.2,4.761904716,20.896,5.8
+459-45-2396,West,Yorktown,Member,Female,Electronics,104.6,3,25.104,338.904,2/25/2023 0:00,18:45:00,Mobile app,298.8,4.761904716,25.104,5.8
+459-50-7686,West,Yorktown,Not member,Female,Sports and Outdoors,28.46,6,13.6608,184.4208,1/13/2023 0:00,19:14:00,Credit Card,140.76,4.761904716,13.6608,6.4
+460-35-4390,West,Yorktown,Not member,Male,Groceries,35.68,3,8.5632,115.6032,1/22/2023 0:00,11:00:00,Credit Card,92.04,4.761904716,8.5632,9.1
+460-93-5834,West,Yorktown,Not member,Male,Automotive,50.58,7,28.3248,382.3848,1/13/2023 0:00,10:03:00,Mobile app,319.06,4.761904716,28.3248,5
+462-67-9126,West,Yorktown,Not member,Male,Groceries,78.22,6,37.5456,506.8656,1/21/2023 0:00,17:44:00,Mobile app,439.32,4.761904716,37.5456,7.2
+462-78-5240,South,Newtown,Not member,Female,Sports and Outdoors,31.61,2,5.0576,68.2776,3/19/2023 0:00,14:35:00,Mobile app,53.22,4.761904716,5.0576,4.2
+466-61-5506,East,McCordsville,Member,Female,Sports and Outdoors,95.7,6,45.936,620.136,2/26/2023 0:00,10:52:00,Mobile app,544.2,4.761904716,45.936,5.3
+468-01-2051,East,McCordsville,Not member,Male,Electronics,67.08,7,37.5648,507.1248,3/6/2023 0:00,13:46:00,Credit Card,434.56,4.761904716,37.5648,5.4
+468-88-0009,West,Yorktown,Member,Male,Groceries,70.94,4,22.7008,306.4608,3/24/2023 0:00,10:29:00,Mobile app,263.76,4.761904716,22.7008,6
+468-99-7231,South,Newtown,Not member,Female,Groceries,49.01,8,31.3664,423.4464,3/3/2023 0:00,17:36:00,Mobile app,352.08,4.761904716,31.3664,8.8
+470-31-3286,East,McCordsville,Not member,Male,Health and Wellness,19.82,3,4.7568,64.2168,3/1/2023 0:00,11:30:00,Cash,44.46,4.761904716,4.7568,8.7
+470-32-9057,West,Yorktown,Member,Male,Electronics,56.34,5,22.536,304.236,3/28/2023 0:00,15:31:00,Cash,256.7,4.761904716,22.536,9.1
+471-06-8611,South,Newtown,Not member,Female,Electronics,57.42,1,4.5936,62.0136,2/6/2023 0:00,10:22:00,Cash,52.42,4.761904716,4.5936,6.3
+471-41-2823,South,Newtown,Not member,Male,Electronics,104.79,2,16.7664,226.3464,3/7/2023 0:00,20:37:00,Credit Card,199.58,4.761904716,16.7664,8
+472-15-9636,West,Yorktown,Not member,Male,Groceries,55.93,8,35.7952,483.2352,3/22/2023 0:00,19:36:00,Credit Card,407.44,4.761904716,35.7952,9.2
+474-33-8305,South,Newtown,Member,Male,Clothing and Apparel,72.39,7,40.5384,547.2684,3/23/2023 0:00,13:23:00,Credit Card,471.73,4.761904716,40.5384,6.9
+477-24-6490,East,McCordsville,Not member,Female,Health and Wellness,104.71,6,50.2608,678.5208,2/26/2023 0:00,16:52:00,Credit Card,598.26,4.761904716,50.2608,7.9
+477-59-2456,South,Newtown,Not member,Female,Clothing and Apparel,50.44,7,28.2464,381.3264,1/23/2023 0:00,11:15:00,Mobile app,318.08,4.761904716,28.2464,9.2
+478-06-7835,West,Yorktown,Not member,Male,Clothing and Apparel,94.69,1,7.5752,102.2652,1/11/2023 0:00,11:20:00,Credit Card,89.69,4.761904716,7.5752,4.9
+479-26-8945,East,McCordsville,Member,Female,Automotive,21.49,2,3.4384,46.4184,2/5/2023 0:00,11:32:00,Credit Card,32.98,4.761904716,3.4384,4.6
+480-63-2856,South,Newtown,Not member,Male,Electronics,24.25,8,15.52,209.52,1/23/2023 0:00,18:37:00,Credit Card,154,4.761904716,15.52,6.6
+482-17-1179,West,Yorktown,Member,Male,Sports and Outdoors,16.94,3,4.0656,54.8856,1/19/2023 0:00,12:47:00,Cash,35.82,4.761904716,4.0656,8.1
+483-71-1164,South,Newtown,Not member,Female,Health and Wellness,86.3,6,41.424,559.224,3/8/2023 0:00,16:43:00,Credit Card,487.8,4.761904716,41.424,5.3
+484-22-8230,South,Newtown,Member,Female,Clothing and Apparel,56.89,7,31.8584,430.0884,1/8/2023 0:00,20:08:00,Mobile app,363.23,4.761904716,31.8584,4.5
+485-30-8700,West,Yorktown,Not member,Female,Automotive,38.26,5,15.304,206.604,3/18/2023 0:00,16:10:00,Cash,166.3,4.761904716,15.304,4.2
+487-79-6868,East,McCordsville,Member,Female,Groceries,17.29,9,12.4488,168.0588,3/26/2023 0:00,19:28:00,Cash,110.61,4.761904716,12.4488,8
+488-25-4221,South,Newtown,Member,Female,Electronics,35.41,1,2.8328,38.2428,2/22/2023 0:00,10:36:00,Cash,30.41,4.761904716,2.8328,8.4
+489-64-4354,South,Newtown,Not member,Male,Clothing and Apparel,21.28,1,1.7024,22.9824,3/9/2023 0:00,15:36:00,Mobile app,16.28,4.761904716,1.7024,5
+489-82-1237,West,Yorktown,Not member,Female,Sports and Outdoors,98.88,7,55.3728,747.5328,1/5/2023 0:00,11:51:00,Credit Card,657.16,4.761904716,55.3728,7.3
+490-29-1201,West,Yorktown,Not member,Female,Automotive,20.34,1,1.6272,21.9672,1/6/2023 0:00,11:09:00,Mobile app,15.34,4.761904716,1.6272,6.5
+490-95-0021,East,McCordsville,Member,Female,Electronics,38.21,10,30.568,412.668,1/8/2023 0:00,14:25:00,Credit Card,332.1,4.761904716,30.568,6
+491-38-3499,West,Yorktown,Member,Male,Clothing and Apparel,60.45,1,4.836,65.286,2/26/2023 0:00,17:46:00,Cash,55.45,4.761904716,4.836,4.9
+493-65-6248,South,Newtown,Member,Female,Automotive,41.98,10,33.584,453.384,1/1/2023 0:00,19:48:00,Cash,369.8,4.761904716,33.584,7
+497-36-0989,West,Yorktown,Not member,Male,Clothing and Apparel,56.94,3,13.6656,184.4856,2/15/2023 0:00,15:21:00,Mobile app,155.82,4.761904716,13.6656,7.9
+497-37-6538,West,Yorktown,Not member,Male,Automotive,63.91,7,35.7896,483.1596,1/17/2023 0:00,15:15:00,Credit Card,412.37,4.761904716,35.7896,9.7
+498-41-1961,East,McCordsville,Not member,Male,Health and Wellness,71.68,5,28.672,387.072,2/20/2023 0:00,18:01:00,Mobile app,333.4,4.761904716,28.672,7.6
+499-27-7781,East,McCordsville,Not member,Female,Electronics,58.21,8,37.2544,502.9344,3/14/2023 0:00,16:45:00,Credit Card,425.68,4.761904716,37.2544,5
+500-02-2261,South,Newtown,Not member,Female,Electronics,62.29,6,29.8992,403.6392,3/21/2023 0:00,17:04:00,Credit Card,343.74,4.761904716,29.8992,5.9
+501-61-1753,East,McCordsville,Not member,Female,Groceries,68.15,6,32.712,441.612,1/3/2023 0:00,20:24:00,Credit Card,378.9,4.761904716,32.712,9.8
+502-05-1910,West,Yorktown,Not member,Male,Health and Wellness,70.18,3,16.8432,227.3832,2/25/2023 0:00,20:35:00,Cash,195.54,4.761904716,16.8432,6.3
+503-07-0930,South,Newtown,Member,Male,Automotive,63.39,7,35.4984,479.2284,2/23/2023 0:00,19:49:00,Cash,408.73,4.761904716,35.4984,8.2
+503-21-4385,East,McCordsville,Member,Male,Health and Wellness,44.91,3,10.7784,145.5084,2/21/2023 0:00,12:40:00,Credit Card,119.73,4.761904716,10.7784,9.3
+504-35-8843,West,Yorktown,Not member,Male,Automotive,47.47,1,3.7976,51.2676,1/2/2023 0:00,16:57:00,Mobile app,42.47,4.761904716,3.7976,5.7
+505-02-0892,East,McCordsville,Member,Male,Health and Wellness,47.57,8,30.4448,411.0048,2/25/2023 0:00,14:12:00,Credit Card,340.56,4.761904716,30.4448,5.6
+509-10-0516,East,McCordsville,Not member,Male,Groceries,50.97,4,16.3104,220.1904,2/9/2023 0:00,12:02:00,Credit Card,183.88,4.761904716,16.3104,5.1
+509-29-3912,West,Yorktown,Member,Female,Automotive,43.72,9,31.4784,424.9584,3/20/2023 0:00,12:24:00,Credit Card,348.48,4.761904716,31.4784,4.2
+510-09-5628,West,Yorktown,Member,Female,Clothing and Apparel,24.66,10,19.728,266.328,3/15/2023 0:00,18:20:00,Cash,196.6,4.761904716,19.728,7.2
+510-79-0415,East,McCordsville,Member,Female,Automotive,28.08,6,13.4784,181.9584,1/24/2023 0:00,19:20:00,Credit Card,138.48,4.761904716,13.4784,4.9
+510-95-6347,East,McCordsville,Member,Female,Electronics,53.52,3,12.8448,173.4048,3/5/2023 0:00,18:17:00,Credit Card,145.56,4.761904716,12.8448,4
+511-54-3087,East,McCordsville,Not member,Male,Automotive,93.45,1,7.476,100.926,2/25/2023 0:00,16:36:00,Cash,88.45,4.761904716,7.476,9.5
+512-91-0811,South,Newtown,Not member,Male,Health and Wellness,94.75,1,7.58,102.33,2/6/2023 0:00,20:05:00,Cash,89.75,4.761904716,7.58,6.6
+512-98-1403,West,Yorktown,Member,Female,Sports and Outdoors,31.48,3,7.5552,101.9952,3/21/2023 0:00,10:40:00,Credit Card,79.44,4.761904716,7.5552,4.7
+514-37-2845,East,McCordsville,Not member,Male,Clothing and Apparel,104.25,2,16.68,225.18,3/20/2023 0:00,13:02:00,Mobile app,198.5,4.761904716,16.68,9
+516-77-6464,South,Newtown,Member,Female,Health and Wellness,15.16,5,6.064,81.864,2/24/2023 0:00,13:08:00,Credit Card,50.8,4.761904716,6.064,4.1
+518-17-2983,West,Yorktown,Not member,Female,Clothing and Apparel,53.63,4,17.1616,231.6816,2/4/2023 0:00,15:44:00,Credit Card,194.52,4.761904716,17.1616,7.6
+518-71-6847,East,McCordsville,Member,Male,Electronics,31.6,6,15.168,204.768,2/26/2023 0:00,15:10:00,Credit Card,159.6,4.761904716,15.168,4.9
+521-18-7827,South,Newtown,Member,Male,Groceries,44.39,5,17.756,239.706,1/22/2023 0:00,20:46:00,Cash,196.95,4.761904716,17.756,8.7
+522-57-8364,West,Yorktown,Member,Male,Clothing and Apparel,56.34,8,36.0576,486.7776,1/31/2023 0:00,10:00:00,Credit Card,410.72,4.761904716,36.0576,7.6
+523-38-0215,South,Newtown,Not member,Male,Groceries,42,1,3.36,45.36,3/6/2023 0:00,13:29:00,Cash,37,4.761904716,3.36,7.9
+525-09-8450,East,McCordsville,Not member,Male,Sports and Outdoors,77.13,10,61.704,833.004,1/31/2023 0:00,15:12:00,Credit Card,721.3,4.761904716,61.704,4.2
+525-88-7307,East,McCordsville,Member,Male,Automotive,80.82,1,6.4656,87.2856,1/31/2023 0:00,13:19:00,Mobile app,75.82,4.761904716,6.4656,5.8
+526-86-8552,South,Newtown,Member,Female,Groceries,26.82,10,21.456,289.656,1/7/2023 0:00,17:36:00,Mobile app,218.2,4.761904716,21.456,7.1
+527-09-6272,West,Yorktown,Member,Female,Sports and Outdoors,33.45,5,13.38,180.63,3/21/2023 0:00,10:17:00,Cash,142.25,4.761904716,13.38,9.1
+528-14-9470,West,Yorktown,Member,Male,Health and Wellness,96.3,1,7.704,104.004,2/14/2023 0:00,14:42:00,Credit Card,91.3,4.761904716,7.704,9.2
+528-87-5606,East,McCordsville,Member,Female,Sports and Outdoors,44.48,1,3.5584,48.0384,2/12/2023 0:00,19:43:00,Mobile app,39.48,4.761904716,3.5584,6.5
+529-56-3974,East,McCordsville,Member,Male,Sports and Outdoors,30.51,4,9.7632,131.8032,3/9/2023 0:00,17:03:00,Mobile app,102.04,4.761904716,9.7632,6.8
+530-90-9855,West,Yorktown,Member,Male,Groceries,52.59,8,33.6576,454.3776,1/1/2023 0:00,14:47:00,Mobile app,380.72,4.761904716,33.6576,5.7
+531-56-4728,West,Yorktown,Not member,Male,Groceries,85.08,3,20.4192,275.6592,2/11/2023 0:00,15:29:00,Mobile app,240.24,4.761904716,20.4192,5.4
+531-80-1784,West,Yorktown,Not member,Male,Sports and Outdoors,31.02,7,17.3712,234.5112,3/28/2023 0:00,17:38:00,Mobile app,182.14,4.761904716,17.3712,5.1
+532-59-7201,East,McCordsville,Member,Male,Automotive,84.93,6,40.7664,550.3464,1/31/2023 0:00,14:04:00,Mobile app,479.58,4.761904716,40.7664,5.5
+533-33-5337,East,McCordsville,Not member,Male,Sports and Outdoors,84.39,10,67.512,911.412,2/7/2023 0:00,20:24:00,Credit Card,793.9,4.761904716,67.512,6.2
+533-66-5566,East,McCordsville,Not member,Female,Groceries,56.07,7,31.3992,423.8892,1/12/2023 0:00,11:42:00,Mobile app,357.49,4.761904716,31.3992,7
+534-01-4457,West,Yorktown,Not member,Male,Electronics,86.71,6,41.6208,561.8808,1/27/2023 0:00,14:36:00,Cash,490.26,4.761904716,41.6208,8
+534-53-3526,West,Yorktown,Not member,Female,Automotive,99.76,4,31.9232,430.9632,2/11/2023 0:00,16:06:00,Credit Card,379.04,4.761904716,31.9232,7.8
+537-72-0426,South,Newtown,Member,Male,Clothing and Apparel,75.99,10,60.792,820.692,3/20/2023 0:00,16:28:00,Credit Card,709.9,4.761904716,60.792,5.7
+538-22-0304,South,Newtown,Not member,Male,Sports and Outdoors,69.95,10,55.96,755.46,3/24/2023 0:00,18:27:00,Credit Card,649.5,4.761904716,55.96,5.2
+539-21-7227,East,McCordsville,Not member,Female,Automotive,56.54,5,22.616,305.316,1/26/2023 0:00,17:45:00,Mobile app,257.7,4.761904716,22.616,4.2
+540-11-4336,West,Yorktown,Not member,Male,Electronics,29.94,9,21.5568,291.0168,1/11/2023 0:00,16:49:00,Cash,224.46,4.761904716,21.5568,5.6
+541-08-3113,South,Newtown,Not member,Male,Electronics,70.97,8,45.4208,613.1808,2/2/2023 0:00,20:29:00,Mobile app,527.76,4.761904716,45.4208,8.4
+541-48-8554,West,Yorktown,Not member,Male,Automotive,65.95,9,47.484,641.034,1/7/2023 0:00,12:08:00,Cash,548.55,4.761904716,47.484,6
+541-89-9860,South,Newtown,Member,Female,Clothing and Apparel,85.48,3,20.5152,276.9552,2/15/2023 0:00,12:31:00,Mobile app,241.44,4.761904716,20.5152,8.1
+542-41-0513,East,McCordsville,Member,Female,Sports and Outdoors,62.49,4,19.9968,269.9568,3/15/2023 0:00,11:57:00,Mobile app,229.96,4.761904716,19.9968,6.6
+544-32-5024,South,Newtown,Member,Female,Electronics,54.79,4,17.5328,236.6928,3/28/2023 0:00,19:16:00,Cash,199.16,4.761904716,17.5328,6.4
+544-55-9589,East,McCordsville,Member,Female,Sports and Outdoors,26.43,10,21.144,285.444,1/28/2023 0:00,11:51:00,Mobile app,214.3,4.761904716,21.144,6.2
+545-07-8534,South,Newtown,Not member,Female,Health and Wellness,63.32,2,10.1312,136.7712,2/14/2023 0:00,12:42:00,Credit Card,116.64,4.761904716,10.1312,6
+545-46-3100,East,McCordsville,Member,Female,Sports and Outdoors,15.59,3,3.7416,50.5116,3/12/2023 0:00,13:52:00,Cash,31.77,4.761904716,3.7416,8.7
+546-80-2899,West,Yorktown,Member,Male,Groceries,42.69,2,6.8304,92.2104,2/20/2023 0:00,15:29:00,Credit Card,75.38,4.761904716,6.8304,9.5
+548-46-9322,East,McCordsville,Not member,Male,Electronics,44.9,10,35.92,484.92,2/20/2023 0:00,15:24:00,Cash,399,4.761904716,35.92,5.9
+548-48-3156,West,Yorktown,Member,Female,Electronics,88.34,2,14.1344,190.8144,3/19/2023 0:00,13:37:00,Mobile app,166.68,4.761904716,14.1344,7.6
+549-03-9315,East,McCordsville,Not member,Male,Clothing and Apparel,99.87,8,63.9168,862.8768,2/12/2023 0:00,12:58:00,Credit Card,758.96,4.761904716,63.9168,8.7
+549-23-9016,South,Newtown,Member,Female,Electronics,19.87,2,3.1792,42.9192,2/13/2023 0:00,18:15:00,Cash,29.74,4.761904716,3.1792,8.9
+549-59-1358,West,Yorktown,Member,Male,Automotive,93.63,3,22.4712,303.3612,3/2/2023 0:00,17:36:00,Credit Card,265.89,4.761904716,22.4712,6
+549-84-7482,East,McCordsville,Not member,Female,Automotive,95.28,9,68.6016,926.1216,2/8/2023 0:00,11:15:00,Credit Card,812.52,4.761904716,68.6016,7.2
+549-96-4200,South,Newtown,Member,Male,Electronics,22.04,4,7.0528,95.2128,3/8/2023 0:00,20:15:00,Credit Card,68.16,4.761904716,7.0528,7
+550-84-8664,West,Yorktown,Not member,Male,Automotive,90.91,5,36.364,490.914,3/22/2023 0:00,14:33:00,Cash,429.55,4.761904716,36.364,8.6
+551-21-3069,South,Newtown,Not member,Female,Sports and Outdoors,28.07,9,20.2104,272.8404,2/1/2023 0:00,11:27:00,Mobile app,207.63,4.761904716,20.2104,4.9
+552-44-5977,East,McCordsville,Member,Male,Health and Wellness,67,8,42.88,578.88,1/3/2023 0:00,19:08:00,Cash,496,4.761904716,42.88,6.2
+554-42-2417,South,Newtown,Not member,Female,Automotive,100.44,10,80.352,1084.752,1/9/2023 0:00,13:45:00,Credit Card,954.4,4.761904716,80.352,5.2
+554-53-3790,East,McCordsville,Not member,Male,Automotive,42.02,6,20.1696,272.2896,3/22/2023 0:00,18:33:00,Mobile app,222.12,4.761904716,20.1696,4.5
+554-53-8700,South,Newtown,Member,Male,Groceries,61.11,2,9.7776,131.9976,2/2/2023 0:00,10:11:00,Mobile app,112.22,4.761904716,9.7776,6.3
+556-41-6224,South,Newtown,Not member,Male,Health and Wellness,38.64,8,24.7296,333.8496,2/15/2023 0:00,17:10:00,Cash,269.12,4.761904716,24.7296,9.3
+556-72-8512,South,Newtown,Not member,Male,Groceries,27.96,1,2.2368,30.1968,1/30/2023 0:00,20:47:00,Mobile app,22.96,4.761904716,2.2368,4.3
+556-86-3144,South,Newtown,Member,Female,Clothing and Apparel,79.29,1,6.3432,85.6332,1/13/2023 0:00,19:30:00,Mobile app,74.29,4.761904716,6.3432,5
+556-97-7101,South,Newtown,Not member,Female,Sports and Outdoors,68.22,2,10.9152,147.3552,1/1/2023 0:00,15:51:00,Mobile app,126.44,4.761904716,10.9152,8.5
+558-60-5016,West,Yorktown,Not member,Female,Groceries,38.3,9,27.576,372.276,3/4/2023 0:00,15:27:00,Credit Card,299.7,4.761904716,27.576,7.2
+558-80-4082,South,Newtown,Not member,Male,Sports and Outdoors,32.85,7,18.396,248.346,3/14/2023 0:00,17:20:00,Credit Card,194.95,4.761904716,18.396,6
+559-61-5987,East,McCordsville,Not member,Female,Health and Wellness,22.75,1,1.82,24.57,1/14/2023 0:00,10:38:00,Mobile app,17.75,4.761904716,1.82,8.6
+559-98-9873,West,Yorktown,Member,Female,Clothing and Apparel,58.65,7,32.844,443.394,2/10/2023 0:00,12:56:00,Credit Card,375.55,4.761904716,32.844,5.2
+560-30-5617,East,McCordsville,Not member,Female,Automotive,29.77,5,11.908,160.758,3/24/2023 0:00,18:27:00,Mobile app,123.85,4.761904716,11.908,8.5
+560-49-6611,West,Yorktown,Member,Female,Automotive,50.58,1,4.0464,54.6264,2/7/2023 0:00,14:13:00,Mobile app,45.58,4.761904716,4.0464,9.8
+562-12-5430,West,Yorktown,Member,Female,Clothing and Apparel,93.15,3,22.356,301.806,1/18/2023 0:00,10:11:00,Credit Card,264.45,4.761904716,22.356,7.9
+563-36-9814,West,Yorktown,Member,Male,Sports and Outdoors,81.82,1,6.5456,88.3656,2/13/2023 0:00,18:27:00,Credit Card,76.82,4.761904716,6.5456,7.2
+563-47-4072,East,McCordsville,Not member,Female,Health and Wellness,60.81,6,29.1888,394.0488,1/22/2023 0:00,11:52:00,Mobile app,334.86,4.761904716,29.1888,9.9
+563-91-7120,West,Yorktown,Not member,Female,Clothing and Apparel,66.77,5,26.708,360.558,3/8/2023 0:00,13:21:00,Mobile app,308.85,4.761904716,26.708,6.7
+565-17-3836,West,Yorktown,Member,Female,Health and Wellness,52.67,4,16.8544,227.5344,3/12/2023 0:00,14:21:00,Mobile app,190.68,4.761904716,16.8544,9.1
+565-67-6697,East,McCordsville,Member,Male,Groceries,32,9,23.04,311.04,3/2/2023 0:00,14:16:00,Mobile app,243,4.761904716,23.04,4.8
+565-80-5980,South,Newtown,Member,Female,Groceries,52.38,4,16.7616,226.2816,1/23/2023 0:00,10:25:00,Mobile app,189.52,4.761904716,16.7616,7.1
+565-91-4567,East,McCordsville,Not member,Male,Health and Wellness,15.75,8,10.08,136.08,3/15/2023 0:00,14:38:00,Credit Card,86,4.761904716,10.08,6.2
+566-19-5475,East,McCordsville,Not member,Male,Clothing and Apparel,52.97,7,29.6632,400.4532,1/7/2023 0:00,20:52:00,Mobile app,335.79,4.761904716,29.6632,6.2
+566-71-1091,West,Yorktown,Not member,Male,Clothing and Apparel,82.02,5,32.808,442.908,2/3/2023 0:00,15:59:00,Mobile app,385.1,4.761904716,32.808,5.5
+568-88-3448,West,Yorktown,Not member,Male,Health and Wellness,30,1,2.4,32.4,3/3/2023 0:00,15:09:00,Credit Card,25,4.761904716,2.4,5.5
+568-90-5112,South,Newtown,Not member,Male,Health and Wellness,71.14,4,22.7648,307.3248,3/19/2023 0:00,12:46:00,Cash,264.56,4.761904716,22.7648,5.6
+569-71-4390,East,McCordsville,Not member,Male,Automotive,26.87,2,4.2992,58.0392,1/25/2023 0:00,14:29:00,Credit Card,43.74,4.761904716,4.2992,6.9
+569-76-2760,West,Yorktown,Member,Female,Automotive,27.01,4,8.6432,116.6832,1/29/2023 0:00,18:15:00,Cash,88.04,4.761904716,8.6432,6.6
+571-94-0759,East,McCordsville,Member,Female,Electronics,79.6,10,63.68,859.68,1/8/2023 0:00,20:55:00,Credit Card,746,4.761904716,63.68,9.5
+573-10-3877,East,McCordsville,Member,Male,Health and Wellness,44.01,1,3.5208,47.5308,3/12/2023 0:00,16:46:00,Cash,39.01,4.761904716,3.5208,4.7
+573-58-9734,East,McCordsville,Not member,Female,Clothing and Apparel,35.37,3,8.4888,114.5988,3/28/2023 0:00,13:41:00,Credit Card,91.11,4.761904716,8.4888,5.1
+573-98-8548,South,Newtown,Member,Female,Clothing and Apparel,36.9,1,2.952,39.852,1/5/2023 0:00,12:40:00,Credit Card,31.9,4.761904716,2.952,9.1
+574-22-5561,South,Newtown,Member,Female,Clothing and Apparel,87.63,10,70.104,946.404,3/19/2023 0:00,17:08:00,Credit Card,826.3,4.761904716,70.104,7.9
+574-31-8277,East,McCordsville,Member,Male,Clothing and Apparel,38.63,1,3.0904,41.7204,3/20/2023 0:00,19:55:00,Mobile app,33.63,4.761904716,3.0904,5.6
+574-57-9721,South,Newtown,Not member,Male,Electronics,48.27,2,7.7232,104.2632,3/8/2023 0:00,16:53:00,Credit Card,86.54,4.761904716,7.7232,5.7
+574-80-1489,East,McCordsville,Member,Female,Electronics,67.85,4,21.712,293.112,2/25/2023 0:00,13:22:00,Credit Card,251.4,4.761904716,21.712,8.7
+575-30-8091,West,Yorktown,Not member,Male,Automotive,77.5,8,49.6,669.6,3/16/2023 0:00,19:25:00,Credit Card,580,4.761904716,49.6,9.2
+575-67-1508,West,Yorktown,Not member,Male,Sports and Outdoors,43.6,1,3.488,47.088,1/29/2023 0:00,11:26:00,Credit Card,38.6,4.761904716,3.488,6.7
+576-31-4774,East,McCordsville,Not member,Female,Health and Wellness,78.41,3,18.8184,254.0484,3/2/2023 0:00,13:10:00,Credit Card,220.23,4.761904716,18.8184,4
+577-34-7579,South,Newtown,Member,Male,Electronics,55.49,9,39.9528,539.3628,1/10/2023 0:00,17:16:00,Mobile app,454.41,4.761904716,39.9528,5.4
+578-80-7669,East,McCordsville,Not member,Male,Automotive,79.97,1,6.3976,86.3676,3/16/2023 0:00,16:58:00,Mobile app,74.97,4.761904716,6.3976,5.6
+582-52-8065,East,McCordsville,Not member,Female,Clothing and Apparel,59.31,9,42.7032,576.4932,2/22/2023 0:00,10:49:00,Mobile app,488.79,4.761904716,42.7032,8.9
+583-41-4548,South,Newtown,Not member,Male,Groceries,21.67,7,12.1352,163.8252,2/7/2023 0:00,11:36:00,Credit Card,116.69,4.761904716,12.1352,7.4
+583-72-1480,South,Newtown,Member,Male,Sports and Outdoors,42.06,4,13.4592,181.6992,1/31/2023 0:00,16:24:00,Credit Card,148.24,4.761904716,13.4592,9.7
+584-66-4073,South,Newtown,Not member,Male,Clothing and Apparel,61.5,1,4.92,66.42,3/13/2023 0:00,15:45:00,Credit Card,56.5,4.761904716,4.92,9.6
+584-86-7256,South,Newtown,Member,Male,Automotive,39.56,7,22.1536,299.0736,3/11/2023 0:00,16:07:00,Cash,241.92,4.761904716,22.1536,7.3
+585-03-5943,East,McCordsville,Not member,Male,Health and Wellness,23.11,10,18.488,249.588,3/13/2023 0:00,11:46:00,Credit Card,181.1,4.761904716,18.488,5.9
+585-11-6748,East,McCordsville,Member,Male,Automotive,101.8,3,24.432,329.832,3/15/2023 0:00,13:05:00,Mobile app,290.4,4.761904716,24.432,5.3
+585-86-8361,West,Yorktown,Not member,Female,Electronics,32.28,5,12.912,174.312,2/3/2023 0:00,10:31:00,Cash,136.4,4.761904716,12.912,8.6
+585-90-0249,West,Yorktown,Member,Male,Sports and Outdoors,78.26,1,6.2608,84.5208,1/27/2023 0:00,18:08:00,Credit Card,73.26,4.761904716,6.2608,9.7
+586-25-0848,West,Yorktown,Not member,Female,Automotive,17.34,7,9.7104,131.0904,3/4/2023 0:00,11:19:00,Cash,86.38,4.761904716,9.7104,6.7
+587-03-7455,South,Newtown,Member,Female,Clothing and Apparel,102.79,7,57.5624,777.0924,2/16/2023 0:00,17:30:00,Credit Card,684.53,4.761904716,57.5624,4.9
+587-73-4862,West,Yorktown,Member,Female,Health and Wellness,15.69,5,6.276,84.726,3/26/2023 0:00,11:07:00,Credit Card,53.45,4.761904716,6.276,7.6
+588-01-7461,South,Newtown,Not member,Female,Electronics,38.98,9,28.0656,378.8856,3/24/2023 0:00,10:43:00,Mobile app,305.82,4.761904716,28.0656,4.2
+588-47-8641,West,Yorktown,Member,Male,Clothing and Apparel,61.04,10,48.832,659.232,1/14/2023 0:00,19:30:00,Credit Card,560.4,4.761904716,48.832,4.4
+589-02-8023,West,Yorktown,Member,Male,Electronics,88.77,2,14.2032,191.7432,1/15/2023 0:00,10:54:00,Cash,167.54,4.761904716,14.2032,7
+590-83-4591,East,McCordsville,Member,Male,Sports and Outdoors,92.45,6,44.376,599.076,2/17/2023 0:00,14:40:00,Cash,524.7,4.761904716,44.376,8.8
+592-34-6155,South,Newtown,Not member,Male,Electronics,36.77,4,11.7664,158.8464,1/14/2023 0:00,14:43:00,Credit Card,127.08,4.761904716,11.7664,6.2
+592-46-1692,South,Newtown,Member,Female,Electronics,41.77,7,23.3912,315.7812,1/11/2023 0:00,20:10:00,Mobile app,257.39,4.761904716,23.3912,7.4
+593-08-5916,West,Yorktown,Not member,Female,Clothing and Apparel,20.5,1,1.64,22.14,3/19/2023 0:00,15:23:00,Cash,15.5,4.761904716,1.64,7.4
+593-14-4239,East,McCordsville,Not member,Female,Groceries,100.46,8,64.2944,867.9744,3/5/2023 0:00,19:40:00,Credit Card,763.68,4.761904716,64.2944,4.7
+593-65-1552,South,Newtown,Not member,Female,Groceries,74.81,4,23.9392,323.1792,1/28/2023 0:00,20:50:00,Cash,279.24,4.761904716,23.9392,5.9
+593-95-4461,South,Newtown,Member,Male,Groceries,79.86,1,6.3888,86.2488,3/24/2023 0:00,14:49:00,Mobile app,74.86,4.761904716,6.3888,6.9
+594-34-4444,West,Yorktown,Not member,Male,Sports and Outdoors,102.16,1,8.1728,110.3328,3/8/2023 0:00,20:38:00,Credit Card,97.16,4.761904716,8.1728,7.2
+595-11-5460,West,Yorktown,Not member,Male,Health and Wellness,101.58,2,16.2528,219.4128,3/15/2023 0:00,10:12:00,Cash,193.16,4.761904716,16.2528,5.1
+595-27-4851,West,Yorktown,Not member,Female,Clothing and Apparel,59.28,7,33.1968,448.1568,1/27/2023 0:00,18:05:00,Credit Card,379.96,4.761904716,33.1968,9.3
+595-86-2894,South,Newtown,Member,Male,Clothing and Apparel,101.98,4,32.6336,440.5536,2/6/2023 0:00,17:20:00,Credit Card,387.92,4.761904716,32.6336,9.4
+595-94-9924,West,Yorktown,Member,Female,Health and Wellness,32.73,5,13.092,176.742,3/26/2023 0:00,20:21:00,Cash,138.65,4.761904716,13.092,4.2
+596-42-3999,East,McCordsville,Not member,Male,Electronics,23.22,7,13.0032,175.5432,3/10/2023 0:00,14:04:00,Cash,127.54,4.761904716,13.0032,6.6
+597-78-7908,South,Newtown,Not member,Male,Clothing and Apparel,95.22,3,22.8528,308.5128,2/18/2023 0:00,19:39:00,Mobile app,270.66,4.761904716,22.8528,6.2
+598-06-7312,East,McCordsville,Member,Male,Clothing and Apparel,96.35,1,7.708,104.058,2/16/2023 0:00,15:42:00,Mobile app,91.35,4.761904716,7.708,6.8
+598-47-9715,South,Newtown,Not member,Male,Sports and Outdoors,89.07,4,28.5024,384.7824,3/7/2023 0:00,16:54:00,Credit Card,336.28,4.761904716,28.5024,4.4
+600-38-9738,South,Newtown,Member,Male,Automotive,76.92,5,30.768,415.368,1/17/2023 0:00,15:05:00,Cash,359.6,4.761904716,30.768,4.3
+602-16-6955,East,McCordsville,Not member,Female,Automotive,81.6,10,65.28,881.28,1/24/2023 0:00,18:10:00,Credit Card,766,4.761904716,65.28,6
+602-80-9671,South,Newtown,Member,Female,Groceries,20.95,6,10.056,135.756,2/9/2023 0:00,17:15:00,Cash,95.7,4.761904716,10.056,5.1
+603-07-0961,South,Newtown,Member,Male,Sports and Outdoors,79.79,5,31.916,430.866,1/10/2023 0:00,11:34:00,Mobile app,373.95,4.761904716,31.916,4.9
+604-70-6476,West,Yorktown,Member,Male,Clothing and Apparel,22.94,5,9.176,123.876,1/23/2023 0:00,14:04:00,Credit Card,89.7,4.761904716,9.176,6.8
+605-03-2706,West,Yorktown,Not member,Female,Health and Wellness,20.8,3,4.992,67.392,3/25/2023 0:00,18:02:00,Mobile app,47.4,4.761904716,4.992,9.5
+605-72-4132,South,Newtown,Not member,Female,Electronics,99.47,8,63.6608,859.4208,2/27/2023 0:00,15:12:00,Credit Card,755.76,4.761904716,63.6608,9.1
+605-83-1050,East,McCordsville,Not member,Male,Clothing and Apparel,32.18,2,5.1488,69.5088,3/15/2023 0:00,16:26:00,Credit Card,54.36,4.761904716,5.1488,4.3
+606-80-4905,South,Newtown,Member,Female,Automotive,24.15,6,11.592,156.492,1/29/2023 0:00,10:01:00,Cash,114.9,4.761904716,11.592,6.8
+607-65-2441,South,Newtown,Member,Male,Health and Wellness,86.95,10,69.56,939.06,3/10/2023 0:00,12:39:00,Credit Card,819.5,4.761904716,69.56,6
+607-76-6216,South,Newtown,Member,Female,Clothing and Apparel,97.49,5,38.996,526.446,3/2/2023 0:00,16:35:00,Cash,462.45,4.761904716,38.996,8.6
+608-04-3797,East,McCordsville,Member,Female,Health and Wellness,30.32,8,19.4048,261.9648,3/5/2023 0:00,20:24:00,Credit Card,202.56,4.761904716,19.4048,8.7
+608-05-3804,East,McCordsville,Member,Male,Sports and Outdoors,44.75,1,3.58,48.33,2/25/2023 0:00,20:19:00,Mobile app,39.75,4.761904716,3.58,6.1
+608-27-6295,East,McCordsville,Member,Male,Sports and Outdoors,57.89,6,27.7872,375.1272,1/19/2023 0:00,17:34:00,Cash,317.34,4.761904716,27.7872,9.8
+608-96-3517,East,McCordsville,Member,Female,Clothing and Apparel,96.54,4,30.8928,417.0528,3/23/2023 0:00,19:20:00,Cash,366.16,4.761904716,30.8928,4.8
+609-81-8548,West,Yorktown,Member,Female,Groceries,42.44,6,20.3712,275.0112,2/6/2023 0:00,13:55:00,Cash,224.64,4.761904716,20.3712,5.9
+610-46-4100,West,Yorktown,Not member,Male,Health and Wellness,33.95,7,19.012,256.662,3/3/2023 0:00,20:31:00,Cash,202.65,4.761904716,19.012,6
+612-36-5536,West,Yorktown,Member,Male,Electronics,85.96,8,55.0144,742.6944,2/17/2023 0:00,11:12:00,Credit Card,647.68,4.761904716,55.0144,7.4
+613-59-9758,South,Newtown,Not member,Female,Automotive,19.36,10,15.488,209.088,1/27/2023 0:00,14:28:00,Mobile app,143.6,4.761904716,15.488,5.4
+616-24-2851,East,McCordsville,Member,Female,Clothing and Apparel,22.87,4,7.3184,98.7984,3/22/2023 0:00,14:42:00,Credit Card,71.48,4.761904716,7.3184,6.5
+616-87-0016,East,McCordsville,Not member,Male,Clothing and Apparel,100.54,7,56.3024,760.0824,3/9/2023 0:00,14:36:00,Credit Card,668.78,4.761904716,56.3024,9.6
+617-15-4209,South,Newtown,Member,Male,Health and Wellness,20.37,2,3.2592,43.9992,3/16/2023 0:00,19:47:00,Mobile app,30.74,4.761904716,3.2592,7.2
+618-34-8551,West,Yorktown,Not member,Female,Automotive,98.18,2,15.7088,212.0688,1/16/2023 0:00,18:41:00,Cash,186.36,4.761904716,15.7088,8.5
+620-02-2046,South,Newtown,Not member,Male,Groceries,74.4,2,11.904,160.704,1/27/2023 0:00,19:48:00,Credit Card,138.8,4.761904716,11.904,9
+622-20-1945,South,Newtown,Not member,Female,Health and Wellness,44.42,1,3.5536,47.9736,1/18/2023 0:00,15:08:00,Mobile app,39.42,4.761904716,3.5536,8.4
+624-01-8356,East,McCordsville,Not member,Female,Groceries,54.01,10,43.208,583.308,1/27/2023 0:00,10:44:00,Cash,490.1,4.761904716,43.208,4.2
+626-43-7888,South,Newtown,Not member,Female,Clothing and Apparel,65.41,8,41.8624,565.1424,2/7/2023 0:00,12:23:00,Credit Card,483.28,4.761904716,41.8624,9.6
+627-95-3243,East,McCordsville,Member,Female,Groceries,82.68,9,59.5296,803.6496,2/4/2023 0:00,13:21:00,Credit Card,699.12,4.761904716,59.5296,9.8
+628-34-3388,South,Newtown,Not member,Male,Clothing and Apparel,32.38,6,15.5424,209.8224,1/5/2023 0:00,20:54:00,Cash,164.28,4.761904716,15.5424,7.9
+628-90-8624,East,McCordsville,Member,Male,Health and Wellness,87.58,10,70.064,945.864,3/14/2023 0:00,14:41:00,Credit Card,825.8,4.761904716,70.064,5
+629-42-4133,South,Newtown,Not member,Male,Health and Wellness,26.8,8,17.152,231.552,2/19/2023 0:00,19:24:00,Mobile app,174.4,4.761904716,17.152,8.3
+630-74-5166,West,Yorktown,Not member,Male,Automotive,67.13,6,32.2224,435.0024,3/22/2023 0:00,20:19:00,Mobile app,372.78,4.761904716,32.2224,7.4
+631-34-1880,South,Newtown,Member,Male,Electronics,29.31,3,7.0344,94.9644,1/8/2023 0:00,19:09:00,Cash,72.93,4.761904716,7.0344,4.3
+631-41-3108,West,Yorktown,Not member,Male,Groceries,51.33,7,28.7448,388.0548,3/3/2023 0:00,13:23:00,Cash,324.31,4.761904716,28.7448,7.4
+632-32-4574,East,McCordsville,Not member,Male,Automotive,80.92,8,51.7888,699.1488,3/20/2023 0:00,14:14:00,Credit Card,607.36,4.761904716,51.7888,5.5
+632-90-0281,South,Newtown,Not member,Female,Clothing and Apparel,42.55,10,34.04,459.54,3/8/2023 0:00,20:01:00,Cash,375.5,4.761904716,34.04,9.3
+633-09-3463,South,Newtown,Not member,Female,Sports and Outdoors,52.65,3,12.636,170.586,3/28/2023 0:00,12:58:00,Cash,142.95,4.761904716,12.636,9.5
+633-44-8566,West,Yorktown,Member,Male,Electronics,54.38,7,30.4528,411.1128,3/27/2023 0:00,20:35:00,Cash,345.66,4.761904716,30.4528,7.3
+633-91-1052,West,Yorktown,Not member,Female,Groceries,17.03,2,2.7248,36.7848,1/27/2023 0:00,15:51:00,Mobile app,24.06,4.761904716,2.7248,5.1
+634-97-8956,West,Yorktown,Not member,Male,Electronics,37.9,3,9.096,122.796,2/17/2023 0:00,17:27:00,Cash,98.7,4.761904716,9.096,9.1
+635-28-5728,West,Yorktown,Not member,Male,Health and Wellness,61,3,14.64,197.64,2/28/2023 0:00,19:33:00,Credit Card,168,4.761904716,14.64,4.8
+635-40-6220,West,Yorktown,Not member,Male,Health and Wellness,94.6,8,60.544,817.344,2/7/2023 0:00,11:28:00,Credit Card,716.8,4.761904716,60.544,6.6
+636-17-0325,East,McCordsville,Not member,Male,Health and Wellness,67.57,4,21.6224,291.9024,2/25/2023 0:00,18:37:00,Mobile app,250.28,4.761904716,21.6224,9.5
+636-48-8204,West,Yorktown,Not member,Male,Sports and Outdoors,39.56,5,15.824,213.624,2/17/2023 0:00,11:15:00,Credit Card,172.8,4.761904716,15.824,9.9
+636-98-3364,East,McCordsville,Member,Female,Sports and Outdoors,31.26,3,7.5024,101.2824,3/2/2023 0:00,12:36:00,Credit Card,78.78,4.761904716,7.5024,6.3
+638-60-7125,West,Yorktown,Not member,Female,Sports and Outdoors,104.56,8,66.9184,903.3984,2/14/2023 0:00,17:03:00,Credit Card,796.48,4.761904716,66.9184,5.2
+639-76-1242,South,Newtown,Not member,Male,Electronics,45.52,5,18.208,245.808,2/3/2023 0:00,15:19:00,Mobile app,202.6,4.761904716,18.208,4.5
+640-48-5028,East,McCordsville,Member,Female,Groceries,93.39,9,67.2408,907.7508,3/2/2023 0:00,12:40:00,Credit Card,795.51,4.761904716,67.2408,6.3
+640-49-2076,East,McCordsville,Not member,Male,Automotive,88.78,8,56.8192,767.0592,1/10/2023 0:00,14:49:00,Credit Card,670.24,4.761904716,56.8192,5.1
+641-43-2399,East,McCordsville,Not member,Male,Groceries,30.55,4,9.776,131.976,1/26/2023 0:00,20:23:00,Credit Card,102.2,4.761904716,9.776,5.7
+641-51-2661,South,Newtown,Member,Female,Electronics,92.1,10,73.68,994.68,2/12/2023 0:00,14:45:00,Credit Card,871,4.761904716,73.68,9.9
+641-62-7288,East,McCordsville,Not member,Male,Groceries,104.92,6,50.3616,679.8816,3/24/2023 0:00,13:33:00,Credit Card,599.52,4.761904716,50.3616,7.1
+641-96-3695,South,Newtown,Member,Female,Clothing and Apparel,48.46,6,23.2608,314.0208,2/7/2023 0:00,17:55:00,Credit Card,260.76,4.761904716,23.2608,8.5
+642-30-6693,East,McCordsville,Not member,Female,Automotive,59.51,6,28.5648,385.6248,3/17/2023 0:00,13:54:00,Credit Card,327.06,4.761904716,28.5648,7.8
+642-32-2990,West,Yorktown,Not member,Female,Electronics,15.96,10,12.768,172.368,2/2/2023 0:00,20:48:00,Credit Card,109.6,4.761904716,12.768,6
+642-61-4706,East,McCordsville,Member,Male,Electronics,98.4,2,15.744,212.544,3/30/2023 0:00,16:34:00,Mobile app,186.8,4.761904716,15.744,5.5
+643-38-7867,West,Yorktown,Not member,Male,Groceries,102.94,1,8.2352,111.1752,3/7/2023 0:00,11:44:00,Credit Card,97.94,4.761904716,8.2352,6.9
+645-44-1170,West,Yorktown,Member,Male,Groceries,63.07,9,45.4104,613.0404,1/19/2023 0:00,20:07:00,Credit Card,522.63,4.761904716,45.4104,4.3
+645-78-8093,West,Yorktown,Not member,Female,Automotive,98.14,2,15.7024,211.9824,1/20/2023 0:00,18:09:00,Credit Card,186.28,4.761904716,15.7024,4.1
+647-50-1224,West,Yorktown,Not member,Female,Clothing and Apparel,34.42,10,27.536,371.736,1/12/2023 0:00,16:23:00,Credit Card,294.2,4.761904716,27.536,8.9
+648-83-1321,West,Yorktown,Member,Male,Groceries,68.56,10,54.848,740.448,1/16/2023 0:00,17:59:00,Credit Card,635.6,4.761904716,54.848,4.3
+648-94-3045,South,Newtown,Not member,Male,Health and Wellness,63.95,10,51.16,690.66,2/7/2023 0:00,14:27:00,Credit Card,589.5,4.761904716,51.16,8.1
+649-11-3678,South,Newtown,Not member,Female,Electronics,27.93,9,20.1096,271.4796,2/26/2023 0:00,20:26:00,Mobile app,206.37,4.761904716,20.1096,5.5
+649-29-6775,East,McCordsville,Not member,Male,Clothing and Apparel,38.52,1,3.0816,41.6016,2/8/2023 0:00,15:31:00,Mobile app,33.52,4.761904716,3.0816,6.7
+650-98-6268,East,McCordsville,Member,Female,Electronics,25.87,3,6.2088,83.8188,3/20/2023 0:00,13:53:00,Cash,62.61,4.761904716,6.2088,8
+651-61-0874,South,Newtown,Not member,Male,Groceries,51.22,4,16.3904,221.2704,3/12/2023 0:00,20:04:00,Cash,184.88,4.761904716,16.3904,6.2
+651-88-7328,West,Yorktown,Not member,Female,Clothing and Apparel,70.74,9,50.9328,687.5928,1/1/2023 0:00,13:55:00,Credit Card,591.66,4.761904716,50.9328,7.7
+651-96-5970,West,Yorktown,Not member,Male,Clothing and Apparel,51.41,1,4.1128,55.5228,3/3/2023 0:00,20:06:00,Cash,46.41,4.761904716,4.1128,4
+652-43-6591,West,Yorktown,Not member,Female,Clothing and Apparel,102.29,8,65.4656,883.7856,3/9/2023 0:00,13:18:00,Credit Card,778.32,4.761904716,65.4656,6.2
+652-49-6720,South,Newtown,Member,Female,Sports and Outdoors,65.95,1,5.276,71.226,2/18/2023 0:00,11:40:00,Credit Card,60.95,4.761904716,5.276,5.9
+655-07-2265,West,Yorktown,Not member,Male,Sports and Outdoors,83.31,3,19.9944,269.9244,3/5/2023 0:00,16:38:00,Credit Card,234.93,4.761904716,19.9944,5.4
+655-85-5130,East,McCordsville,Member,Female,Clothing and Apparel,43.3,4,13.856,187.056,3/13/2023 0:00,19:22:00,Mobile app,153.2,4.761904716,13.856,5.7
+656-16-1063,East,McCordsville,Not member,Male,Automotive,51.42,3,12.3408,166.6008,1/4/2023 0:00,13:24:00,Cash,139.26,4.761904716,12.3408,4.4
+656-95-9349,West,Yorktown,Member,Female,Health and Wellness,73.93,7,41.4008,558.9108,3/11/2023 0:00,11:03:00,Cash,482.51,4.761904716,41.4008,4.6
+658-66-3967,South,Newtown,Not member,Male,Health and Wellness,58.19,7,32.5864,439.9164,1/14/2023 0:00,15:42:00,Credit Card,372.33,4.761904716,32.5864,5
+659-36-1684,South,Newtown,Member,Male,Automotive,62.12,7,34.7872,469.6272,1/12/2023 0:00,12:02:00,Cash,399.84,4.761904716,34.7872,6.5
+659-65-8956,East,McCordsville,Member,Male,Clothing and Apparel,56.36,1,4.5088,60.8688,1/16/2023 0:00,15:26:00,Credit Card,51.36,4.761904716,4.5088,5.2
+660-29-7083,South,Newtown,Not member,Male,Sports and Outdoors,60.87,10,48.696,657.396,1/15/2023 0:00,15:01:00,Mobile app,558.7,4.761904716,48.696,5.8
+662-47-5456,South,Newtown,Member,Male,Clothing and Apparel,40.19,10,32.152,434.052,3/17/2023 0:00,19:06:00,Cash,351.9,4.761904716,32.152,8.4
+662-72-2873,West,Yorktown,Not member,Female,Electronics,45.94,5,18.376,248.076,1/6/2023 0:00,13:58:00,Credit Card,204.7,4.761904716,18.376,9.9
+663-86-9076,South,Newtown,Member,Female,Electronics,73.54,8,47.0656,635.3856,1/8/2023 0:00,15:57:00,Credit Card,548.32,4.761904716,47.0656,8.5
+664-14-2882,South,Newtown,Member,Female,Groceries,15.53,5,6.212,83.862,1/30/2023 0:00,14:43:00,Cash,52.65,4.761904716,6.212,5.8
+665-32-9167,West,Yorktown,Member,Female,Health and Wellness,41.26,2,6.6016,89.1216,1/10/2023 0:00,17:15:00,Cash,72.52,4.761904716,6.6016,7.2
+665-63-9737,East,McCordsville,Not member,Male,Clothing and Apparel,57.42,3,13.7808,186.0408,2/27/2023 0:00,17:36:00,Credit Card,157.26,4.761904716,13.7808,7.5
+667-23-5919,West,Yorktown,Member,Female,Clothing and Apparel,101.7,5,40.68,549.18,1/14/2023 0:00,12:52:00,Credit Card,483.5,4.761904716,40.68,7
+667-92-0055,West,Yorktown,Member,Male,Health and Wellness,104.83,6,50.3184,679.2984,3/4/2023 0:00,15:02:00,Credit Card,598.98,4.761904716,50.3184,8.5
+668-90-8900,West,Yorktown,Not member,Female,Groceries,98.69,7,55.2664,746.0964,3/10/2023 0:00,18:44:00,Credit Card,655.83,4.761904716,55.2664,4.5
+669-54-1719,East,McCordsville,Member,Male,Sports and Outdoors,23.93,6,11.4864,155.0664,2/10/2023 0:00,12:45:00,Cash,113.58,4.761904716,11.4864,8.1
+670-71-7306,East,McCordsville,Not member,Male,Automotive,49.63,6,23.8224,321.6024,1/2/2023 0:00,20:08:00,Cash,267.78,4.761904716,23.8224,5.1
+670-79-6321,East,McCordsville,Member,Female,Groceries,99.59,7,55.7704,752.9004,1/17/2023 0:00,15:27:00,Credit Card,662.13,4.761904716,55.7704,4.9
+672-51-8681,South,Newtown,Member,Female,Sports and Outdoors,71.65,9,51.588,696.438,1/4/2023 0:00,18:19:00,Credit Card,599.85,4.761904716,51.588,9.7
+674-15-9296,West,Yorktown,Not member,Male,Automotive,42.14,5,16.856,227.556,1/8/2023 0:00,13:05:00,Credit Card,185.7,4.761904716,16.856,5
+674-56-6360,West,Yorktown,Not member,Male,Sports and Outdoors,100.15,1,8.012,108.162,3/22/2023 0:00,14:00:00,Mobile app,95.15,4.761904716,8.012,6
+676-10-2200,East,McCordsville,Member,Male,Clothing and Apparel,58.78,1,4.7024,63.4824,2/3/2023 0:00,20:13:00,Credit Card,53.78,4.761904716,4.7024,4.7
+676-39-6028,West,Yorktown,Member,Female,Sports and Outdoors,69.44,5,27.776,374.976,3/30/2023 0:00,17:04:00,Mobile app,322.2,4.761904716,27.776,6.6
+677-11-0152,South,Newtown,Not member,Female,Electronics,98.26,9,70.7472,955.0872,1/16/2023 0:00,18:08:00,Credit Card,839.34,4.761904716,70.7472,8.8
+678-79-0726,South,Newtown,Member,Female,Automotive,95.63,9,68.8536,929.5236,1/18/2023 0:00,15:28:00,Credit Card,815.67,4.761904716,68.8536,5.1
+679-22-6530,East,McCordsville,Not member,Female,Automotive,45.62,2,7.2992,98.5392,1/17/2023 0:00,10:01:00,Cash,81.24,4.761904716,7.2992,4.1
+685-64-1609,West,Yorktown,Member,Female,Clothing and Apparel,35.14,10,28.112,379.512,2/10/2023 0:00,12:28:00,Credit Card,301.4,4.761904716,28.112,9.2
+686-41-0932,East,McCordsville,Not member,Female,Clothing and Apparel,39.7,2,6.352,85.752,3/13/2023 0:00,19:48:00,Credit Card,69.4,4.761904716,6.352,8.2
+687-15-1097,South,Newtown,Member,Female,Health and Wellness,26.12,2,4.1792,56.4192,1/3/2023 0:00,19:17:00,Mobile app,42.24,4.761904716,4.1792,9.7
+687-47-8271,West,Yorktown,Not member,Male,Clothing and Apparel,103.98,10,83.184,1122.984,2/8/2023 0:00,16:20:00,Credit Card,989.8,4.761904716,83.184,8.7
+689-05-1884,West,Yorktown,Member,Male,Health and Wellness,53.63,10,42.904,579.204,3/4/2023 0:00,12:44:00,Mobile app,486.3,4.761904716,42.904,8.8
+689-16-9784,South,Newtown,Not member,Male,Electronics,51.77,6,24.8496,335.4696,3/11/2023 0:00,13:37:00,Mobile app,280.62,4.761904716,24.8496,6
+690-01-6631,East,McCordsville,Not member,Male,Clothing and Apparel,22.49,10,17.992,242.892,2/22/2023 0:00,18:35:00,Credit Card,174.9,4.761904716,17.992,6.6
+692-27-8933,East,McCordsville,Not member,Female,Automotive,62.95,6,30.216,407.916,2/24/2023 0:00,13:02:00,Mobile app,347.7,4.761904716,30.216,5.2
+692-92-5582,East,McCordsville,Member,Female,Electronics,59.84,3,14.3616,193.8816,2/20/2023 0:00,13:27:00,Cash,164.52,4.761904716,14.3616,5.9
+695-09-5146,East,McCordsville,Member,Female,Electronics,103.79,3,24.9096,336.2796,2/23/2023 0:00,20:00:00,Credit Card,296.37,4.761904716,24.9096,6.4
+695-28-6250,West,Yorktown,Not member,Female,Automotive,48.06,5,19.224,259.524,2/4/2023 0:00,16:38:00,Credit Card,215.3,4.761904716,19.224,7.7
+695-51-0018,East,McCordsville,Not member,Female,Automotive,39.84,4,12.7488,172.1088,2/10/2023 0:00,18:36:00,Mobile app,139.36,4.761904716,12.7488,7.4
+696-90-2548,West,Yorktown,Not member,Male,Automotive,30.84,3,7.4016,99.9216,3/10/2023 0:00,18:55:00,Credit Card,77.52,4.761904716,7.4016,6.6
+698-98-5964,West,Yorktown,Not member,Female,Electronics,86.21,10,68.968,931.068,1/17/2023 0:00,13:01:00,Credit Card,812.1,4.761904716,68.968,6.3
+699-01-4164,South,Newtown,Not member,Male,Health and Wellness,46.5,4,14.88,200.88,3/12/2023 0:00,19:58:00,Cash,166,4.761904716,14.88,8.2
+699-14-3026,South,Newtown,Not member,Male,Sports and Outdoors,90.39,7,50.6184,683.3484,3/25/2023 0:00,18:30:00,Credit Card,597.73,4.761904716,50.6184,4.1
+699-88-1972,East,McCordsville,Not member,Male,Health and Wellness,104.16,8,66.6624,899.9424,1/28/2023 0:00,17:47:00,Credit Card,793.28,4.761904716,66.6624,4.2
+700-81-1757,West,Yorktown,Not member,Female,Sports and Outdoors,31.31,5,12.524,169.074,1/18/2023 0:00,20:59:00,Cash,131.55,4.761904716,12.524,8.8
+701-23-5550,East,McCordsville,Member,Male,Groceries,43.81,4,14.0192,189.2592,3/19/2023 0:00,13:40:00,Credit Card,155.24,4.761904716,14.0192,4.9
+701-69-8742,East,McCordsville,Not member,Male,Automotive,39.37,10,31.496,425.196,3/16/2023 0:00,10:11:00,Credit Card,343.7,4.761904716,31.496,6.7
+702-72-0487,West,Yorktown,Not member,Female,Sports and Outdoors,51.61,2,8.2576,111.4776,2/26/2023 0:00,12:28:00,Cash,93.22,4.761904716,8.2576,6.6
+702-83-5291,South,Newtown,Member,Male,Clothing and Apparel,104.82,9,75.4704,1018.8504,3/27/2023 0:00,10:43:00,Credit Card,898.38,4.761904716,75.4704,6.6
+704-10-4056,South,Newtown,Member,Male,Health and Wellness,65.47,3,15.7128,212.1228,1/14/2023 0:00,10:55:00,Cash,181.41,4.761904716,15.7128,5.6
+704-11-6354,West,Yorktown,Member,Male,Groceries,63.9,8,40.896,552.096,1/6/2023 0:00,11:23:00,Mobile app,471.2,4.761904716,40.896,8.9
+704-20-4138,South,Newtown,Member,Female,Health and Wellness,34.67,7,19.4152,262.1052,3/11/2023 0:00,18:58:00,Cash,207.69,4.761904716,19.4152,8.1
+704-48-3927,West,Yorktown,Member,Male,Sports and Outdoors,93.67,10,74.936,1011.636,1/12/2023 0:00,14:50:00,Credit Card,886.7,4.761904716,74.936,7.3
+706-36-6154,West,Yorktown,Member,Male,Groceries,24.36,9,17.5392,236.7792,1/18/2023 0:00,18:43:00,Credit Card,174.24,4.761904716,17.5392,8.7
+707-32-7409,East,McCordsville,Member,Female,Automotive,100.54,4,32.1728,434.3328,2/26/2023 0:00,11:58:00,Credit Card,382.16,4.761904716,32.1728,4.5
+709-58-4068,East,McCordsville,Not member,Female,Clothing and Apparel,46.09,10,36.872,497.772,2/28/2023 0:00,14:42:00,Mobile app,410.9,4.761904716,36.872,7.3
+710-46-4433,East,McCordsville,Member,Female,Electronics,82.4,9,59.328,800.928,2/15/2023 0:00,14:15:00,Credit Card,696.6,4.761904716,59.328,4.5
+711-31-1234,East,McCordsville,Not member,Female,Sports and Outdoors,100.64,4,32.2048,434.7648,3/16/2023 0:00,18:51:00,Mobile app,382.56,4.761904716,32.2048,7.9
+712-39-0363,West,Yorktown,Member,Male,Electronics,46.66,6,22.3968,302.3568,1/2/2023 0:00,15:24:00,Credit Card,249.96,4.761904716,22.3968,5.6
+714-02-3114,South,Newtown,Not member,Female,Automotive,103.8,2,16.608,224.208,2/21/2023 0:00,11:39:00,Mobile app,197.6,4.761904716,16.608,7.7
+715-20-1673,East,McCordsville,Not member,Male,Sports and Outdoors,33.38,5,13.352,180.252,3/6/2023 0:00,20:57:00,Mobile app,141.9,4.761904716,13.352,9.4
+716-39-1409,East,McCordsville,Not member,Male,Health and Wellness,35.35,7,19.796,267.246,3/19/2023 0:00,18:19:00,Mobile app,212.45,4.761904716,19.796,8
+717-96-4189,South,Newtown,Not member,Female,Sports and Outdoors,40.49,6,19.4352,262.3752,2/2/2023 0:00,12:40:00,Mobile app,212.94,4.761904716,19.4352,4.1
+718-57-9773,South,Newtown,Not member,Female,Automotive,54.33,10,43.464,586.764,2/3/2023 0:00,16:40:00,Cash,493.3,4.761904716,43.464,9.4
+719-76-3868,South,Newtown,Member,Male,Electronics,99.26,4,31.7632,428.8032,3/12/2023 0:00,16:30:00,Mobile app,377.04,4.761904716,31.7632,8.6
+719-89-8991,West,Yorktown,Member,Female,Automotive,96.41,5,38.564,520.614,2/25/2023 0:00,16:03:00,Credit Card,457.05,4.761904716,38.564,7.1
+720-72-2436,West,Yorktown,Not member,Male,Electronics,71.52,4,22.8864,308.9664,3/2/2023 0:00,18:14:00,Credit Card,266.08,4.761904716,22.8864,6.9
+721-86-6247,West,Yorktown,Not member,Female,Groceries,68.42,8,43.7888,591.1488,3/11/2023 0:00,12:55:00,Credit Card,507.36,4.761904716,43.7888,7.4
+722-13-2115,South,Newtown,Member,Male,Automotive,47.85,1,3.828,51.678,3/14/2023 0:00,15:36:00,Cash,42.85,4.761904716,3.828,9.3
+725-32-9708,East,McCordsville,Member,Female,Clothing and Apparel,73.71,4,23.5872,318.4272,1/4/2023 0:00,19:01:00,Mobile app,274.84,4.761904716,23.5872,4.1
+725-54-0677,South,Newtown,Member,Male,Health and Wellness,90.6,7,50.736,684.936,3/2/2023 0:00,13:50:00,Credit Card,599.2,4.761904716,50.736,5.3
+725-67-2480,East,McCordsville,Member,Female,Clothing and Apparel,63.75,6,30.6,413.1,3/24/2023 0:00,18:14:00,Cash,352.5,4.761904716,30.6,5.9
+725-96-3778,South,Newtown,Member,Female,Groceries,94.25,8,60.32,814.32,1/20/2023 0:00,10:13:00,Credit Card,714,4.761904716,60.32,4.7
+726-27-2396,West,Yorktown,Not member,Female,Health and Wellness,82.5,5,33,445.5,1/24/2023 0:00,20:36:00,Credit Card,387.5,4.761904716,33,4.3
+726-29-6793,West,Yorktown,Member,Male,Sports and Outdoors,29.18,8,18.6752,252.1152,1/28/2023 0:00,20:54:00,Credit Card,193.44,4.761904716,18.6752,9.8
+727-02-1313,West,Yorktown,Member,Male,Electronics,36.84,1,2.9472,39.7872,2/9/2023 0:00,13:22:00,Mobile app,31.84,4.761904716,2.9472,7.7
+727-17-0390,West,Yorktown,Not member,Female,Electronics,68.61,5,27.444,370.494,3/16/2023 0:00,12:43:00,Credit Card,318.05,4.761904716,27.444,4.8
+727-46-3608,East,McCordsville,Member,Female,Electronics,25.01,9,18.0072,243.0972,2/6/2023 0:00,15:47:00,Credit Card,180.09,4.761904716,18.0072,4.1
+727-75-6477,South,Newtown,Not member,Male,Sports and Outdoors,33.84,4,10.8288,146.1888,3/29/2023 0:00,14:44:00,Mobile app,115.36,4.761904716,10.8288,6.4
+728-47-9078,South,Newtown,Member,Male,Electronics,64.59,4,20.6688,279.0288,1/19/2023 0:00,12:46:00,Mobile app,238.36,4.761904716,20.6688,9.8
+728-88-7867,South,Newtown,Member,Female,Groceries,80.53,4,25.7696,347.8896,3/19/2023 0:00,15:52:00,Credit Card,302.12,4.761904716,25.7696,8.3
+729-06-2010,East,McCordsville,Member,Male,Health and Wellness,85.47,9,61.5384,830.7684,1/6/2023 0:00,11:18:00,Credit Card,724.23,4.761904716,61.5384,9.2
+729-09-9681,West,Yorktown,Member,Male,Groceries,30.91,6,14.8368,200.2968,2/5/2023 0:00,10:16:00,Credit Card,155.46,4.761904716,14.8368,8.7
+729-46-7422,South,Newtown,Not member,Male,Electronics,40.89,1,3.2712,44.1612,2/23/2023 0:00,16:52:00,Cash,35.89,4.761904716,3.2712,7.9
+730-50-9884,South,Newtown,Not member,Female,Automotive,88.06,7,49.3136,665.7336,3/5/2023 0:00,14:31:00,Credit Card,581.42,4.761904716,49.3136,4
+730-61-8757,East,McCordsville,Member,Male,Health and Wellness,56.13,4,17.9616,242.4816,1/25/2023 0:00,10:11:00,Cash,204.52,4.761904716,17.9616,4
+730-70-9830,South,Newtown,Not member,Female,Groceries,75.11,6,36.0528,486.7128,3/14/2023 0:00,17:54:00,Credit Card,420.66,4.761904716,36.0528,5.2
+731-14-2199,West,Yorktown,Member,Female,Groceries,40.54,10,32.432,437.832,1/4/2023 0:00,13:34:00,Credit Card,355.4,4.761904716,32.432,7
+731-59-7531,East,McCordsville,Member,Male,Health and Wellness,77.57,8,49.6448,670.2048,3/30/2023 0:00,17:58:00,Mobile app,580.56,4.761904716,49.6448,4.6
+731-81-9469,South,Newtown,Member,Female,Automotive,94.8,10,75.84,1023.84,1/23/2023 0:00,13:00:00,Credit Card,898,4.761904716,75.84,5.4
+732-04-5373,East,McCordsville,Member,Male,Groceries,51.47,4,16.4704,222.3504,2/8/2023 0:00,10:53:00,Mobile app,185.88,4.761904716,16.4704,7
+732-67-5346,West,Yorktown,Not member,Male,Electronics,18.79,5,7.516,101.466,1/11/2023 0:00,19:07:00,Cash,68.95,4.761904716,7.516,7.8
+732-94-0499,South,Newtown,Not member,Female,Sports and Outdoors,46.65,10,37.32,503.82,1/13/2023 0:00,17:04:00,Cash,416.5,4.761904716,37.32,5.4
+733-01-9107,East,McCordsville,Not member,Male,Groceries,87.7,6,42.096,568.296,3/5/2023 0:00,18:14:00,Mobile app,496.2,4.761904716,42.096,7.4
+733-29-1227,South,Newtown,Not member,Male,Groceries,60.61,7,33.9416,458.2116,3/23/2023 0:00,12:41:00,Mobile app,389.27,4.761904716,33.9416,8.5
+733-33-4967,South,Newtown,Not member,Male,Sports and Outdoors,25.85,8,16.544,223.344,3/3/2023 0:00,19:17:00,Mobile app,166.8,4.761904716,16.544,6.3
+734-91-1155,East,McCordsville,Not member,Female,Sports and Outdoors,50.71,3,12.1704,164.3004,3/26/2023 0:00,10:34:00,Cash,137.13,4.761904716,12.1704,7.7
+735-06-4124,South,Newtown,Not member,Male,Electronics,53.61,1,4.2888,57.8988,2/25/2023 0:00,15:31:00,Mobile app,48.61,4.761904716,4.2888,4.4
+735-32-9839,South,Newtown,Member,Male,Clothing and Apparel,103.7,8,66.368,895.968,1/31/2023 0:00,10:36:00,Credit Card,789.6,4.761904716,66.368,8.5
+737-88-5876,West,Yorktown,Member,Male,Groceries,28.29,4,9.0528,122.2128,3/19/2023 0:00,11:52:00,Cash,93.16,4.761904716,9.0528,5.9
+740-11-5257,South,Newtown,Not member,Male,Sports and Outdoors,29.74,10,23.792,321.192,2/24/2023 0:00,16:44:00,Mobile app,247.4,4.761904716,23.792,7.1
+740-22-2500,South,Newtown,Not member,Female,Sports and Outdoors,89.05,3,21.372,288.522,1/23/2023 0:00,13:29:00,Mobile app,252.15,4.761904716,21.372,9.8
+741-73-3559,East,McCordsville,Not member,Male,Automotive,72.27,5,28.908,390.258,2/27/2023 0:00,17:27:00,Mobile app,336.35,4.761904716,28.908,6.9
+742-04-5161,West,Yorktown,Member,Male,Groceries,77.78,10,62.224,840.024,2/3/2023 0:00,17:24:00,Credit Card,727.8,4.761904716,62.224,7.3
+743-04-1105,East,McCordsville,Member,Male,Health and Wellness,102.22,9,73.5984,993.5784,3/30/2023 0:00,14:43:00,Credit Card,874.98,4.761904716,73.5984,6
+743-88-1662,South,Newtown,Not member,Male,Automotive,100.49,7,56.2744,759.7044,2/22/2023 0:00,18:17:00,Credit Card,668.43,4.761904716,56.2744,8.7
+744-02-5987,West,Yorktown,Member,Male,Groceries,83.38,6,40.0224,540.3024,1/10/2023 0:00,14:16:00,Credit Card,470.28,4.761904716,40.0224,5.8
+744-09-5786,East,McCordsville,Not member,Male,Sports and Outdoors,27.01,6,12.9648,175.0248,1/2/2023 0:00,18:50:00,Mobile app,132.06,4.761904716,12.9648,7.6
+744-16-7898,East,McCordsville,Not member,Female,Groceries,102.37,10,81.896,1105.596,1/15/2023 0:00,13:48:00,Credit Card,973.7,4.761904716,81.896,4.9
+744-82-9138,South,Newtown,Not member,Male,Clothing and Apparel,91.13,2,14.5808,196.8408,2/7/2023 0:00,17:59:00,Mobile app,172.26,4.761904716,14.5808,8.2
+745-71-3520,West,Yorktown,Member,Female,Sports and Outdoors,30.22,7,16.9232,228.4632,2/4/2023 0:00,10:23:00,Mobile app,176.54,4.761904716,16.9232,8.2
+745-74-0715,West,Yorktown,Not member,Male,Sports and Outdoors,63.03,2,10.0848,136.1448,3/10/2023 0:00,20:46:00,Credit Card,116.06,4.761904716,10.0848,8.8
+746-04-1077,East,McCordsville,Member,Female,Electronics,89.63,10,71.704,968.004,1/1/2023 0:00,11:36:00,Credit Card,846.3,4.761904716,71.704,9
+746-19-0921,South,Newtown,Not member,Male,Electronics,26.58,1,2.1264,28.7064,2/9/2023 0:00,10:02:00,Credit Card,21.58,4.761904716,2.1264,7.2
+746-54-5508,West,Yorktown,Not member,Male,Groceries,26.52,6,12.7296,171.8496,1/17/2023 0:00,12:48:00,Cash,129.12,4.761904716,12.7296,9.4
+746-68-6593,South,Newtown,Member,Female,Automotive,92.16,2,14.7456,199.0656,1/11/2023 0:00,14:29:00,Cash,174.32,4.761904716,14.7456,9.7
+746-94-0204,West,Yorktown,Not member,Male,Clothing and Apparel,88.24,9,63.5328,857.6928,1/29/2023 0:00,11:56:00,Credit Card,749.16,4.761904716,63.5328,7.4
+747-58-7183,East,McCordsville,Not member,Male,Clothing and Apparel,62.27,3,14.9448,201.7548,2/9/2023 0:00,20:31:00,Credit Card,171.81,4.761904716,14.9448,6.5
+748-45-2862,West,Yorktown,Member,Female,Groceries,33.31,4,10.6592,143.8992,3/7/2023 0:00,18:35:00,Mobile app,113.24,4.761904716,10.6592,8.2
+749-24-1565,West,Yorktown,Not member,Female,Health and Wellness,28.03,9,20.1816,272.4516,1/3/2023 0:00,12:02:00,Credit Card,207.27,4.761904716,20.1816,7.9
+749-81-8133,West,Yorktown,Not member,Female,Clothing and Apparel,99.67,4,31.8944,430.5744,3/11/2023 0:00,12:04:00,Mobile app,378.68,4.761904716,31.8944,6.8
+750-57-9686,South,Newtown,Not member,Female,Groceries,50.38,4,16.1216,217.6416,1/8/2023 0:00,13:48:00,Cash,181.52,4.761904716,16.1216,8.7
+750-67-8428,West,Yorktown,Member,Female,Health and Wellness,79.69,7,44.6264,602.4564,1/5/2023 0:00,13:08:00,Credit Card,522.83,4.761904716,44.6264,9.1
+751-15-6198,East,McCordsville,Not member,Male,Automotive,28.01,6,13.4448,181.5048,1/12/2023 0:00,16:45:00,Credit Card,138.06,4.761904716,13.4448,7.9
+751-41-9720,South,Newtown,Not member,Male,Groceries,102.5,10,82,1107,1/12/2023 0:00,16:18:00,Credit Card,975,4.761904716,82,8
+751-69-0068,South,Newtown,Not member,Male,Automotive,104.24,9,75.0528,1013.2128,3/19/2023 0:00,19:09:00,Credit Card,893.16,4.761904716,75.0528,9
+752-23-3760,East,McCordsville,Member,Female,Automotive,69.08,7,38.6848,522.2448,2/19/2023 0:00,19:29:00,Cash,448.56,4.761904716,38.6848,7.3
+755-12-3214,South,Newtown,Member,Female,Clothing and Apparel,49.22,5,19.688,265.788,3/5/2023 0:00,17:07:00,Cash,221.1,4.761904716,19.688,8.6
+756-01-7507,South,Newtown,Not member,Female,Health and Wellness,25.38,5,10.152,137.052,1/22/2023 0:00,18:56:00,Mobile app,101.9,4.761904716,10.152,6
+756-49-0168,West,Yorktown,Member,Male,Clothing and Apparel,24.7,1,1.976,26.676,2/8/2023 0:00,11:39:00,Credit Card,19.7,4.761904716,1.976,9.5
+756-93-1854,South,Newtown,Member,Female,Clothing and Apparel,88.35,2,14.136,190.836,2/2/2023 0:00,14:05:00,Cash,166.7,4.761904716,14.136,9.5
+759-29-9521,West,Yorktown,Member,Female,Clothing and Apparel,53.96,9,38.8512,524.4912,3/4/2023 0:00,11:27:00,Mobile app,440.64,4.761904716,38.8512,8
+759-98-4285,South,Newtown,Member,Female,Health and Wellness,90.87,7,50.8872,686.9772,2/27/2023 0:00,19:01:00,Credit Card,601.09,4.761904716,50.8872,8
+760-27-5490,South,Newtown,Not member,Male,Clothing and Apparel,20.62,8,13.1968,178.1568,1/20/2023 0:00,20:37:00,Credit Card,124.96,4.761904716,13.1968,9.1
+760-53-9233,West,Yorktown,Member,Male,Clothing and Apparel,46.28,3,11.1072,149.9472,3/26/2023 0:00,18:37:00,Cash,123.84,4.761904716,11.1072,8.5
+760-54-1821,East,McCordsville,Not member,Male,Groceries,18.59,9,13.3848,180.6948,3/15/2023 0:00,10:26:00,Mobile app,122.31,4.761904716,13.3848,5.8
+760-90-2357,West,Yorktown,Member,Male,Sports and Outdoors,79.51,6,38.1648,515.2248,3/20/2023 0:00,15:08:00,Credit Card,447.06,4.761904716,38.1648,5
+761-49-0439,East,McCordsville,Member,Female,Sports and Outdoors,17.1,8,10.944,147.744,1/19/2023 0:00,10:17:00,Credit Card,96.8,4.761904716,10.944,8.6
+764-44-8999,East,McCordsville,Not member,Female,Health and Wellness,19.76,2,3.1616,42.6816,2/18/2023 0:00,14:42:00,Credit Card,29.52,4.761904716,3.1616,4.3
+765-26-6951,West,Yorktown,Not member,Male,Automotive,77.61,6,37.2528,502.9128,1/1/2023 0:00,10:39:00,Cash,435.66,4.761904716,37.2528,6.9
+766-85-7061,East,McCordsville,Not member,Male,Health and Wellness,92.87,10,74.296,1002.996,3/29/2023 0:00,10:25:00,Credit Card,878.7,4.761904716,74.296,5.1
+767-05-1286,South,Newtown,Member,Female,Groceries,88.77,6,42.6096,575.2296,1/23/2023 0:00,12:10:00,Credit Card,502.62,4.761904716,42.6096,5.4
+767-54-1907,East,McCordsville,Member,Female,Clothing and Apparel,34.56,5,13.824,186.624,2/13/2023 0:00,16:59:00,Mobile app,147.8,4.761904716,13.824,6.9
+767-97-4650,East,McCordsville,Member,Female,Automotive,69.83,2,11.1728,150.8328,1/8/2023 0:00,11:59:00,Cash,129.66,4.761904716,11.1728,8
+770-42-8960,East,McCordsville,Not member,Male,Electronics,26.12,8,16.7168,225.6768,1/1/2023 0:00,19:31:00,Mobile app,168.96,4.761904716,16.7168,6.3
+775-72-1988,East,McCordsville,Not member,Male,Groceries,78.28,5,31.312,422.712,1/24/2023 0:00,15:05:00,Credit Card,366.4,4.761904716,31.312,8.4
+776-68-1096,East,McCordsville,Not member,Male,Groceries,49.12,3,11.7888,159.1488,3/18/2023 0:00,13:45:00,Cash,132.36,4.761904716,11.7888,7.9
+777-67-2495,East,McCordsville,Not member,Male,Groceries,73.97,3,17.7528,239.6628,2/22/2023 0:00,11:26:00,Credit Card,206.91,4.761904716,17.7528,8.7
+777-82-7220,East,McCordsville,Member,Male,Groceries,35.12,8,22.4768,303.4368,3/3/2023 0:00,13:01:00,Mobile app,240.96,4.761904716,22.4768,7.7
+778-34-2523,West,Yorktown,Member,Female,Sports and Outdoors,53.62,8,34.3168,463.2768,1/24/2023 0:00,10:57:00,Mobile app,388.96,4.761904716,34.3168,5
+778-71-5554,South,Newtown,Member,Male,Clothing and Apparel,20.43,1,1.6344,22.0644,1/25/2023 0:00,15:46:00,Cash,15.43,4.761904716,1.6344,6.1
+778-89-7974,South,Newtown,Not member,Male,Health and Wellness,75.21,6,36.1008,487.3608,3/30/2023 0:00,14:58:00,Mobile app,421.26,4.761904716,36.1008,7.4
+779-06-0012,South,Newtown,Member,Female,Groceries,93.61,1,7.4888,101.0988,1/19/2023 0:00,10:21:00,Mobile app,88.61,4.761904716,7.4888,7.7
+779-42-2410,East,McCordsville,Member,Male,Electronics,62.74,3,15.0576,203.2776,2/20/2023 0:00,13:06:00,Credit Card,173.22,4.761904716,15.0576,7.7
+781-84-8059,South,Newtown,Not member,Male,Clothing and Apparel,65.74,7,36.8144,496.9944,1/18/2023 0:00,16:23:00,Credit Card,425.18,4.761904716,36.8144,5
+782-95-9291,West,Yorktown,Member,Male,Electronics,97.29,5,38.916,525.366,2/20/2023 0:00,15:55:00,Cash,461.45,4.761904716,38.916,9
+783-09-1637,East,McCordsville,Not member,Female,Automotive,72.43,5,28.972,391.122,3/6/2023 0:00,18:13:00,Credit Card,337.15,4.761904716,28.972,6.3
+784-08-0310,South,Newtown,Member,Female,Electronics,26.04,4,8.3328,112.4928,1/13/2023 0:00,13:58:00,Mobile app,84.16,4.761904716,8.3328,7.6
+784-21-9238,South,Newtown,Member,Male,Automotive,15.17,1,1.2136,16.3836,2/7/2023 0:00,14:15:00,Mobile app,10.17,4.761904716,1.2136,5.9
+785-13-7708,East,McCordsville,Not member,Male,Electronics,78.06,7,43.7136,590.1336,1/14/2023 0:00,19:06:00,Cash,511.42,4.761904716,43.7136,4.2
+785-96-0615,East,McCordsville,Member,Female,Sports and Outdoors,40.74,8,26.0736,351.9936,2/17/2023 0:00,15:28:00,Credit Card,285.92,4.761904716,26.0736,4.9
+786-94-2700,West,Yorktown,Member,Male,Electronics,85.62,6,41.0976,554.8176,2/28/2023 0:00,20:18:00,Mobile app,483.72,4.761904716,41.0976,9.1
+787-15-1757,South,Newtown,Member,Male,Health and Wellness,49.07,4,15.7024,211.9824,2/18/2023 0:00,16:28:00,Credit Card,176.28,4.761904716,15.7024,8.4
+787-56-0757,South,Newtown,Member,Female,Electronics,85.36,4,27.3152,368.7552,2/23/2023 0:00,18:45:00,Cash,321.44,4.761904716,27.3152,8.3
+787-87-2010,West,Yorktown,Member,Male,Health and Wellness,60.5,4,19.36,261.36,1/20/2023 0:00,15:48:00,Cash,222,4.761904716,19.36,6.6
+788-07-8452,South,Newtown,Member,Female,Groceries,29.24,7,16.3744,221.0544,1/27/2023 0:00,17:38:00,Credit Card,169.68,4.761904716,16.3744,9.4
+788-21-5741,West,Yorktown,Not member,Male,Clothing and Apparel,50.38,3,12.0912,163.2312,2/17/2023 0:00,13:34:00,Cash,136.14,4.761904716,12.0912,7.2
+789-23-8625,East,McCordsville,Member,Male,Clothing and Apparel,98.22,3,23.5728,318.2328,1/24/2023 0:00,11:45:00,Mobile app,279.66,4.761904716,23.5728,7.2
+790-29-1172,East,McCordsville,Not member,Female,Electronics,62.34,3,14.9616,201.9816,3/10/2023 0:00,18:59:00,Cash,172.02,4.761904716,14.9616,7.9
+790-38-4466,South,Newtown,Not member,Female,Health and Wellness,15.99,5,6.396,86.346,1/23/2023 0:00,10:18:00,Cash,54.95,4.761904716,6.396,9.3
+793-10-3222,East,McCordsville,Member,Female,Health and Wellness,46.06,6,22.1088,298.4688,3/5/2023 0:00,13:30:00,Cash,246.36,4.761904716,22.1088,8.3
+794-32-2436,East,McCordsville,Member,Male,Sports and Outdoors,60.67,2,9.7072,131.0472,3/27/2023 0:00,15:08:00,Credit Card,111.34,4.761904716,9.7072,6
+794-42-3736,East,McCordsville,Not member,Male,Electronics,38.33,2,6.1328,82.7928,1/26/2023 0:00,14:41:00,Cash,66.66,4.761904716,6.1328,6.4
+795-49-7276,West,Yorktown,Not member,Male,Clothing and Apparel,42.15,4,13.488,182.088,3/23/2023 0:00,18:59:00,Credit Card,148.6,4.761904716,13.488,8.3
+796-12-2025,South,Newtown,Not member,Male,Clothing and Apparel,67.12,10,53.696,724.896,2/11/2023 0:00,16:19:00,Credit Card,621.2,4.761904716,53.696,5.9
+796-32-9050,West,Yorktown,Not member,Male,Electronics,56.28,6,27.0144,364.6944,1/19/2023 0:00,16:31:00,Mobile app,307.68,4.761904716,27.0144,6.5
+797-88-0493,West,Yorktown,Not member,Female,Health and Wellness,69.27,4,22.1664,299.2464,3/26/2023 0:00,13:54:00,Mobile app,257.08,4.761904716,22.1664,7.7
+799-71-1548,West,Yorktown,Member,Male,Sports and Outdoors,82.72,4,26.4704,357.3504,1/7/2023 0:00,16:11:00,Cash,310.88,4.761904716,26.4704,8.8
+800-09-8606,West,Yorktown,Member,Female,Groceries,92.37,5,36.948,498.798,1/29/2023 0:00,19:45:00,Mobile app,436.85,4.761904716,36.948,6.6
+801-88-0346,South,Newtown,Not member,Female,Clothing and Apparel,81.06,3,19.4544,262.6344,1/5/2023 0:00,20:30:00,Cash,228.18,4.761904716,19.4544,9.8
+802-43-8934,West,Yorktown,Not member,Male,Groceries,23.28,1,1.8624,25.1424,3/22/2023 0:00,15:05:00,Cash,18.28,4.761904716,1.8624,8.3
+802-70-5316,West,Yorktown,Member,Female,Automotive,97.13,6,46.6224,629.4024,3/6/2023 0:00,20:34:00,Mobile app,552.78,4.761904716,46.6224,8.3
+803-17-8013,West,Yorktown,Member,Female,Groceries,93.79,8,60.0256,810.3456,2/17/2023 0:00,17:09:00,Credit Card,710.32,4.761904716,60.0256,4.1
+803-83-5989,South,Newtown,Not member,Male,Groceries,60.73,6,29.1504,393.5304,2/24/2023 0:00,10:55:00,Credit Card,334.38,4.761904716,29.1504,7
+804-38-3935,West,Yorktown,Member,Male,Sports and Outdoors,98.78,3,23.7072,320.0472,1/30/2023 0:00,11:32:00,Cash,281.34,4.761904716,23.7072,5.9
+805-86-0265,West,Yorktown,Not member,Male,Groceries,98.96,9,71.2512,961.8912,3/20/2023 0:00,11:32:00,Credit Card,845.64,4.761904716,71.2512,9.8
+807-14-7833,West,Yorktown,Member,Female,Sports and Outdoors,22.42,10,17.936,242.136,2/22/2023 0:00,12:30:00,Credit Card,174.2,4.761904716,17.936,7
+807-34-3742,West,Yorktown,Not member,Male,Clothing and Apparel,57.38,1,4.5904,61.9704,3/26/2023 0:00,19:44:00,Mobile app,52.38,4.761904716,4.5904,5.8
+808-65-0703,South,Newtown,Not member,Male,Groceries,40.47,4,12.9504,174.8304,3/14/2023 0:00,17:22:00,Cash,141.88,4.761904716,12.9504,6.9
+809-46-1866,West,Yorktown,Not member,Male,Health and Wellness,63.15,4,20.208,272.808,1/23/2023 0:00,17:44:00,Mobile app,232.6,4.761904716,20.208,8.4
+809-69-9497,West,Yorktown,Not member,Female,Groceries,50.68,10,40.544,547.344,1/19/2023 0:00,19:30:00,Credit Card,456.8,4.761904716,40.544,5.7
+810-60-6344,South,Newtown,Not member,Female,Sports and Outdoors,45.86,8,29.3504,396.2304,2/7/2023 0:00,14:38:00,Cash,326.88,4.761904716,29.3504,6.5
+811-03-8790,West,Yorktown,Not member,Female,Sports and Outdoors,50.48,10,40.384,545.184,3/1/2023 0:00,10:22:00,Cash,454.8,4.761904716,40.384,4.8
+811-35-1094,East,McCordsville,Member,Male,Sports and Outdoors,55.45,6,26.616,359.316,2/6/2023 0:00,15:16:00,Cash,302.7,4.761904716,26.616,8.9
+815-04-6282,South,Newtown,Member,Female,Automotive,69.97,5,27.988,377.838,2/8/2023 0:00,12:52:00,Cash,324.85,4.761904716,27.988,6.5
+815-11-1168,West,Yorktown,Member,Male,Electronics,104.78,5,41.912,565.812,3/9/2023 0:00,19:09:00,Mobile app,498.9,4.761904716,41.912,5.4
+816-57-2053,West,Yorktown,Not member,Male,Automotive,65.87,2,10.5392,142.2792,3/9/2023 0:00,12:37:00,Credit Card,121.74,4.761904716,10.5392,8.7
+816-72-8853,West,Yorktown,Member,Female,Automotive,32.93,5,13.172,177.822,1/29/2023 0:00,15:48:00,Mobile app,139.65,4.761904716,13.172,5.9
+817-48-8732,West,Yorktown,Member,Female,Groceries,77.35,10,61.88,835.38,1/20/2023 0:00,15:55:00,Credit Card,723.5,4.761904716,61.88,5.4
+817-69-8206,East,McCordsville,Not member,Female,Sports and Outdoors,104.73,9,75.4056,1017.9756,3/2/2023 0:00,19:42:00,Credit Card,897.57,4.761904716,75.4056,6.5
+821-07-3596,South,Newtown,Not member,Female,Clothing and Apparel,21.45,4,6.864,92.664,3/7/2023 0:00,14:53:00,Credit Card,65.8,4.761904716,6.864,5.6
+821-14-9046,East,McCordsville,Member,Female,Clothing and Apparel,22.48,6,10.7904,145.6704,1/18/2023 0:00,15:04:00,Cash,104.88,4.761904716,10.7904,6.1
+824-88-3614,South,Newtown,Not member,Male,Health and Wellness,39.31,8,25.1584,339.6384,1/25/2023 0:00,15:00:00,Credit Card,274.48,4.761904716,25.1584,5.7
+825-94-5922,East,McCordsville,Not member,Male,Automotive,30.31,2,4.8496,65.4696,3/2/2023 0:00,19:26:00,Credit Card,50.62,4.761904716,4.8496,7.2
+826-58-8051,East,McCordsville,Not member,Male,Groceries,67.19,4,21.5008,290.2608,1/6/2023 0:00,19:46:00,Credit Card,248.76,4.761904716,21.5008,4.3
+827-26-2100,West,Yorktown,Member,Male,Groceries,38.84,9,27.9648,377.5248,3/21/2023 0:00,16:21:00,Credit Card,304.56,4.761904716,27.9648,8.8
+827-44-5872,East,McCordsville,Member,Female,Electronics,59.36,10,47.488,641.088,2/7/2023 0:00,11:28:00,Cash,543.6,4.761904716,47.488,6.1
+827-77-7633,West,Yorktown,Not member,Male,Automotive,103.09,9,74.2248,1002.0348,2/17/2023 0:00,19:41:00,Credit Card,882.81,4.761904716,74.2248,9.3
+828-46-6863,West,Yorktown,Member,Male,Electronics,103.53,6,49.6944,670.8744,1/23/2023 0:00,11:22:00,Cash,591.18,4.761904716,49.6944,4
+828-61-5674,West,Yorktown,Member,Male,Automotive,49.02,10,39.216,529.416,3/20/2023 0:00,19:57:00,Cash,440.2,4.761904716,39.216,9.6
+829-34-3910,West,Yorktown,Not member,Female,Health and Wellness,76.38,10,61.104,824.904,3/29/2023 0:00,19:21:00,Credit Card,713.8,4.761904716,61.104,5.7
+829-49-1914,South,Newtown,Member,Female,Electronics,83.31,10,66.648,899.748,3/5/2023 0:00,16:24:00,Credit Card,783.1,4.761904716,66.648,6.6
+830-58-2383,East,McCordsville,Not member,Male,Groceries,36.75,4,11.76,158.76,2/8/2023 0:00,15:26:00,Mobile app,127,4.761904716,11.76,8.6
+831-07-6050,West,Yorktown,Not member,Male,Sports and Outdoors,37.71,5,15.084,203.634,3/19/2023 0:00,11:30:00,Cash,163.55,4.761904716,15.084,9.9
+831-64-0259,East,McCordsville,Not member,Female,Clothing and Apparel,44.75,5,17.9,241.65,2/22/2023 0:00,10:43:00,Credit Card,198.75,4.761904716,17.9,9.6
+831-81-6575,East,McCordsville,Member,Female,Sports and Outdoors,80.59,9,58.0248,783.3348,2/23/2023 0:00,11:12:00,Credit Card,680.31,4.761904716,58.0248,8
+832-51-6761,West,Yorktown,Not member,Male,Electronics,38.88,8,24.8832,335.9232,1/19/2023 0:00,20:29:00,Credit Card,271.04,4.761904716,24.8832,9.6
+834-25-9262,South,Newtown,Not member,Female,Clothing and Apparel,86.68,4,27.7376,374.4576,1/6/2023 0:00,12:12:00,Mobile app,326.72,4.761904716,27.7376,9.1
+834-45-5519,East,McCordsville,Not member,Female,Sports and Outdoors,48,4,15.36,207.36,1/31/2023 0:00,20:48:00,Credit Card,172,4.761904716,15.36,7.6
+834-61-8124,West,Yorktown,Not member,Male,Sports and Outdoors,56.69,7,31.7464,428.5764,1/26/2023 0:00,18:22:00,Mobile app,361.83,4.761904716,31.7464,5.5
+834-83-1826,East,McCordsville,Member,Female,Groceries,87.04,5,34.816,470.016,2/25/2023 0:00,17:16:00,Cash,410.2,4.761904716,34.816,7.6
+835-16-0096,South,Newtown,Member,Male,Automotive,19.7,5,7.88,106.38,3/24/2023 0:00,13:48:00,Credit Card,73.5,4.761904716,7.88,8.5
+836-82-5858,East,McCordsville,Member,Male,Health and Wellness,74.37,9,53.5464,722.8764,1/26/2023 0:00,19:14:00,Credit Card,624.33,4.761904716,53.5464,4
+837-55-7229,East,McCordsville,Not member,Female,Clothing and Apparel,52.44,1,4.1952,56.6352,2/22/2023 0:00,18:19:00,Cash,47.44,4.761904716,4.1952,6.8
+838-02-1821,South,Newtown,Member,Female,Groceries,17.73,2,2.8368,38.2968,2/22/2023 0:00,12:10:00,Cash,25.46,4.761904716,2.8368,5.2
+838-78-4295,South,Newtown,Not member,Female,Health and Wellness,38.47,2,6.1552,83.0952,2/10/2023 0:00,15:43:00,Credit Card,66.94,4.761904716,6.1552,6.7
+840-19-2096,South,Newtown,Member,Male,Sports and Outdoors,92.91,5,37.164,501.714,3/14/2023 0:00,18:10:00,Credit Card,439.55,4.761904716,37.164,4.4
+840-76-5966,West,Yorktown,Member,Male,Automotive,17.76,2,2.8416,38.3616,1/8/2023 0:00,18:06:00,Credit Card,25.52,4.761904716,2.8416,7.8
+841-18-8232,East,McCordsville,Not member,Female,Electronics,76.2,1,6.096,82.296,1/5/2023 0:00,20:40:00,Cash,71.2,4.761904716,6.096,9.2
+841-35-6630,South,Newtown,Not member,Female,Sports and Outdoors,80.91,6,38.8368,524.2968,3/9/2023 0:00,18:21:00,Mobile app,455.46,4.761904716,38.8368,8.7
+842-29-4695,South,Newtown,Member,Male,Automotive,22.14,7,12.3984,167.3784,1/16/2023 0:00,12:07:00,Cash,119.98,4.761904716,12.3984,7.9
+842-40-8179,East,McCordsville,Member,Female,Electronics,82.2,10,65.76,887.76,2/11/2023 0:00,10:38:00,Credit Card,772,4.761904716,65.76,5.6
+843-01-4703,East,McCordsville,Member,Female,Groceries,40.38,9,29.0736,392.4936,1/5/2023 0:00,19:50:00,Cash,318.42,4.761904716,29.0736,9.6
+843-73-4724,West,Yorktown,Not member,Male,Clothing and Apparel,79.1,1,6.328,85.428,1/25/2023 0:00,11:05:00,Mobile app,74.1,4.761904716,6.328,9.2
+845-51-0542,East,McCordsville,Member,Male,Electronics,51.55,9,37.116,501.066,2/2/2023 0:00,15:34:00,Credit Card,418.95,4.761904716,37.116,6.4
+845-94-6841,South,Newtown,Member,Female,Electronics,77.88,9,56.0736,756.9936,1/8/2023 0:00,19:38:00,Credit Card,655.92,4.761904716,56.0736,4
+846-10-0341,West,Yorktown,Not member,Female,Clothing and Apparel,47.57,7,26.6392,359.6292,1/6/2023 0:00,11:51:00,Mobile app,297.99,4.761904716,26.6392,6.8
+847-38-7188,East,McCordsville,Not member,Female,Electronics,101.68,3,24.4032,329.4432,1/26/2023 0:00,19:56:00,Credit Card,290.04,4.761904716,24.4032,6.4
+848-07-1692,East,McCordsville,Not member,Female,Health and Wellness,62.22,2,9.9552,134.3952,1/12/2023 0:00,17:13:00,Credit Card,114.44,4.761904716,9.9552,8.3
+848-24-9445,South,Newtown,Member,Male,Health and Wellness,48.7,2,7.792,105.192,3/26/2023 0:00,18:03:00,Mobile app,87.4,4.761904716,7.792,4.9
+848-42-2560,West,Yorktown,Not member,Female,Clothing and Apparel,86.91,2,13.9056,187.7256,3/5/2023 0:00,17:43:00,Mobile app,163.82,4.761904716,13.9056,7.8
+848-62-7243,West,Yorktown,Not member,Male,Health and Wellness,29.89,9,21.5208,290.5308,3/15/2023 0:00,15:36:00,Mobile app,224.01,4.761904716,21.5208,7.4
+848-95-6252,South,Newtown,Member,Female,Groceries,91.27,1,7.3016,98.5716,2/20/2023 0:00,13:24:00,Credit Card,86.27,4.761904716,7.3016,7
+849-09-3807,West,Yorktown,Member,Female,Clothing and Apparel,93.34,7,52.2704,705.6504,2/18/2023 0:00,13:28:00,Credit Card,618.38,4.761904716,52.2704,6.6
+850-41-9669,West,Yorktown,Not member,Female,Sports and Outdoors,80.06,9,57.6432,778.1832,3/19/2023 0:00,13:25:00,Credit Card,675.54,4.761904716,57.6432,6.2
+851-28-6367,West,Yorktown,Member,Male,Automotive,20.5,10,16.4,221.4,3/23/2023 0:00,10:55:00,Credit Card,155,4.761904716,16.4,8
+851-98-3555,East,McCordsville,Not member,Female,Health and Wellness,87.88,5,35.152,474.552,3/24/2023 0:00,14:08:00,Cash,414.4,4.761904716,35.152,6.6
+852-62-7105,East,McCordsville,Not member,Female,Clothing and Apparel,88.25,10,70.6,953.1,1/12/2023 0:00,11:25:00,Credit Card,832.5,4.761904716,70.6,4.4
+852-82-2749,West,Yorktown,Not member,Male,Automotive,69.59,4,22.2688,300.6288,1/6/2023 0:00,13:35:00,Credit Card,258.36,4.761904716,22.2688,9.3
+853-23-2453,East,McCordsville,Member,Male,Health and Wellness,80.74,4,25.8368,348.7968,2/14/2023 0:00,14:35:00,Mobile app,302.96,4.761904716,25.8368,7.6
+856-22-8149,West,Yorktown,Not member,Female,Groceries,30.29,1,2.4232,32.7132,3/23/2023 0:00,10:13:00,Credit Card,25.29,4.761904716,2.4232,6.1
+856-66-2701,West,Yorktown,Member,Male,Groceries,58.3,3,13.992,188.892,1/25/2023 0:00,14:19:00,Credit Card,159.9,4.761904716,13.992,7.5
+857-16-3520,West,Yorktown,Member,Female,Clothing and Apparel,76.46,7,42.8176,578.0376,3/28/2023 0:00,16:06:00,Credit Card,500.22,4.761904716,42.8176,4.5
+857-67-9057,East,McCordsville,Not member,Male,Sports and Outdoors,27.95,10,22.36,301.86,2/6/2023 0:00,19:20:00,Credit Card,229.5,4.761904716,22.36,8.2
+859-71-0933,South,Newtown,Member,Female,Automotive,20.49,2,3.2784,44.2584,1/16/2023 0:00,15:10:00,Mobile app,30.98,4.761904716,3.2784,6.3
+859-97-6048,South,Newtown,Member,Male,Sports and Outdoors,89.25,2,14.28,192.78,3/26/2023 0:00,14:13:00,Cash,168.5,4.761904716,14.28,5.3
+860-73-6466,West,Yorktown,Member,Female,Automotive,44.47,2,7.1152,96.0552,3/2/2023 0:00,16:16:00,Cash,78.94,4.761904716,7.1152,5
+860-79-0874,South,Newtown,Member,Female,Clothing and Apparel,104.3,10,83.44,1126.44,2/15/2023 0:00,14:53:00,Credit Card,993,4.761904716,83.44,6.6
+861-77-0145,South,Newtown,Member,Male,Sports and Outdoors,86.97,10,69.576,939.276,3/3/2023 0:00,14:30:00,Credit Card,819.7,4.761904716,69.576,9.2
+862-17-9201,East,McCordsville,Not member,Female,Electronics,89.05,6,42.744,577.044,1/29/2023 0:00,10:48:00,Cash,504.3,4.761904716,42.744,7.7
+862-29-5914,South,Newtown,Not member,Female,Automotive,27.38,1,2.1904,29.5704,1/30/2023 0:00,17:08:00,Cash,22.38,4.761904716,2.1904,8.6
+862-59-8517,South,Newtown,Not member,Female,Electronics,95.24,6,45.7152,617.1552,1/27/2023 0:00,11:17:00,Mobile app,541.44,4.761904716,45.7152,6.2
+864-24-7918,West,Yorktown,Member,Female,Automotive,29.49,10,23.592,318.492,2/22/2023 0:00,15:15:00,Mobile app,244.9,4.761904716,23.592,8.1
+865-41-9075,West,Yorktown,Not member,Male,Electronics,16.53,7,9.2568,124.9668,1/28/2023 0:00,17:35:00,Mobile app,80.71,4.761904716,9.2568,8.1
+865-92-6136,West,Yorktown,Not member,Male,Electronics,57.75,3,13.86,187.11,3/23/2023 0:00,10:16:00,Credit Card,158.25,4.761904716,13.86,9.3
+866-05-7563,East,McCordsville,Member,Female,Sports and Outdoors,86.4,3,20.736,279.936,2/9/2023 0:00,19:43:00,Mobile app,244.2,4.761904716,20.736,4.8
+866-99-7614,South,Newtown,Not member,Male,Electronics,94.2,10,75.36,1017.36,2/11/2023 0:00,15:42:00,Credit Card,892,4.761904716,75.36,4.4
+867-47-1948,South,Newtown,Not member,Female,Groceries,20.8,10,16.64,224.64,1/9/2023 0:00,12:07:00,Mobile app,158,4.761904716,16.64,7.8
+868-06-0466,West,Yorktown,Member,Male,Sports and Outdoors,74.58,9,53.6976,724.9176,2/19/2023 0:00,19:38:00,Credit Card,626.22,4.761904716,53.6976,7.8
+868-52-7573,East,McCordsville,Not member,Female,Electronics,104.69,5,41.876,565.326,1/14/2023 0:00,12:09:00,Mobile app,498.45,4.761904716,41.876,9.9
+868-81-1752,East,McCordsville,Not member,Male,Groceries,27.02,9,19.4544,262.6344,2/7/2023 0:00,18:48:00,Mobile app,198.18,4.761904716,19.4544,6.8
+869-11-3082,East,McCordsville,Member,Male,Health and Wellness,101.16,4,32.3712,437.0112,1/27/2023 0:00,20:03:00,Cash,384.64,4.761904716,32.3712,8.4
+870-54-3162,West,Yorktown,Not member,Female,Automotive,37.25,5,14.9,201.15,1/27/2023 0:00,13:26:00,Mobile app,161.25,4.761904716,14.9,9
+870-72-4431,South,Newtown,Not member,Female,Health and Wellness,104.19,6,50.0112,675.1512,1/21/2023 0:00,14:42:00,Credit Card,595.14,4.761904716,50.0112,5.5
+870-76-1733,West,Yorktown,Member,Female,Electronics,19.23,5,7.692,103.842,2/1/2023 0:00,10:08:00,Cash,71.15,4.761904716,7.692,4.4
+871-39-9221,South,Newtown,Not member,Female,Sports and Outdoors,17.45,6,8.376,113.076,2/9/2023 0:00,13:11:00,Mobile app,74.7,4.761904716,8.376,4.1
+871-79-8483,East,McCordsville,Not member,Male,Clothing and Apparel,99.13,5,39.652,535.302,2/25/2023 0:00,19:39:00,Cash,470.65,4.761904716,39.652,4.8
+873-14-6353,West,Yorktown,Member,Male,Electronics,29.82,7,16.6992,225.4392,2/16/2023 0:00,10:33:00,Cash,173.74,4.761904716,16.6992,7.1
+873-51-0671,West,Yorktown,Member,Female,Automotive,26.98,7,15.1088,203.9688,1/10/2023 0:00,16:42:00,Credit Card,153.86,4.761904716,15.1088,5.1
+873-95-4984,East,McCordsville,Member,Female,Health and Wellness,81.9,7,45.864,619.164,2/15/2023 0:00,20:21:00,Mobile app,538.3,4.761904716,45.864,7.7
+875-31-8302,East,McCordsville,Not member,Male,Automotive,98.38,1,7.8704,106.2504,1/3/2023 0:00,13:07:00,Mobile app,93.38,4.761904716,7.8704,9.6
+875-46-5808,East,McCordsville,Member,Male,Health and Wellness,30.9,10,24.72,333.72,2/6/2023 0:00,14:51:00,Credit Card,259,4.761904716,24.72,8.7
+877-22-3308,West,Yorktown,Member,Male,Health and Wellness,20.87,10,16.696,225.396,3/13/2023 0:00,16:40:00,Mobile app,158.7,4.761904716,16.696,5.8
+878-30-2331,South,Newtown,Member,Female,Automotive,59.55,10,47.64,643.14,3/2/2023 0:00,11:22:00,Cash,545.5,4.761904716,47.64,7.1
+880-35-0356,West,Yorktown,Member,Female,Automotive,80.2,3,19.248,259.848,2/5/2023 0:00,11:51:00,Credit Card,225.6,4.761904716,19.248,4.8
+880-46-5796,West,Yorktown,Member,Male,Automotive,81.92,10,65.536,884.736,3/17/2023 0:00,19:53:00,Credit Card,769.2,4.761904716,65.536,5.6
+881-41-7302,South,Newtown,Not member,Female,Clothing and Apparel,69.99,1,5.5992,75.5892,1/26/2023 0:00,10:06:00,Cash,64.99,4.761904716,5.5992,4.5
+882-40-4577,West,Yorktown,Member,Male,Automotive,72.26,4,23.1232,312.1632,1/19/2023 0:00,15:28:00,Cash,269.04,4.761904716,23.1232,8
+883-17-4236,South,Newtown,Not member,Female,Automotive,19.39,2,3.1024,41.8824,3/2/2023 0:00,19:44:00,Cash,28.78,4.761904716,3.1024,7.2
+883-69-1285,East,McCordsville,Member,Male,Clothing and Apparel,54.92,2,8.7872,118.6272,3/6/2023 0:00,11:55:00,Cash,99.84,4.761904716,8.7872,7
+884-80-6021,West,Yorktown,Member,Female,Sports and Outdoors,78.47,10,62.776,847.476,3/23/2023 0:00,13:14:00,Credit Card,734.7,4.761904716,62.776,9.5
+885-17-6250,West,Yorktown,Not member,Female,Health and Wellness,84.74,1,6.7792,91.5192,3/6/2023 0:00,10:36:00,Credit Card,79.74,4.761904716,6.7792,7.3
+885-56-0389,South,Newtown,Member,Male,Clothing and Apparel,57.35,1,4.588,61.938,2/12/2023 0:00,17:49:00,Mobile app,52.35,4.761904716,4.588,4
+886-18-2897,West,Yorktown,Not member,Female,Electronics,61.56,5,24.624,332.424,3/22/2023 0:00,19:06:00,Cash,282.8,4.761904716,24.624,4.5
+886-54-6089,West,Yorktown,Not member,Female,Groceries,16.43,6,7.8864,106.4664,1/15/2023 0:00,17:24:00,Mobile app,68.58,4.761904716,7.8864,7.7
+886-77-9084,South,Newtown,Not member,Male,Sports and Outdoors,76.89,8,49.2096,664.3296,2/19/2023 0:00,11:33:00,Credit Card,575.12,4.761904716,49.2096,5.5
+887-42-0517,South,Newtown,Not member,Female,Automotive,88.14,7,49.3584,666.3384,1/10/2023 0:00,10:31:00,Cash,581.98,4.761904716,49.3584,6.6
+888-02-0338,West,Yorktown,Not member,Male,Sports and Outdoors,31.23,9,22.4856,303.5556,1/25/2023 0:00,20:24:00,Credit Card,236.07,4.761904716,22.4856,5.9
+889-04-9723,East,McCordsville,Member,Female,Electronics,94.14,4,30.1248,406.6848,1/7/2023 0:00,12:20:00,Cash,356.56,4.761904716,30.1248,7.8
+891-01-7034,East,McCordsville,Not member,Female,Sports and Outdoors,79.71,6,38.2608,516.5208,1/1/2023 0:00,19:07:00,Mobile app,448.26,4.761904716,38.2608,6.7
+891-58-8335,East,McCordsville,Member,Female,Automotive,34.61,7,19.3816,261.6516,3/11/2023 0:00,15:53:00,Mobile app,207.27,4.761904716,19.3816,6.5
+892-05-6689,West,Yorktown,Not member,Female,Groceries,33.32,5,13.328,179.928,3/11/2023 0:00,13:28:00,Credit Card,141.6,4.761904716,13.328,6.2
+894-41-5205,South,Newtown,Not member,Female,Electronics,48.18,8,30.8352,416.2752,1/19/2023 0:00,19:39:00,Cash,345.44,4.761904716,30.8352,8.3
+895-03-6665,East,McCordsville,Not member,Female,Clothing and Apparel,41.51,9,29.8872,403.4772,2/16/2023 0:00,10:52:00,Mobile app,328.59,4.761904716,29.8872,4.2
+895-66-0685,East,McCordsville,Member,Male,Electronics,23.08,3,5.5392,74.7792,3/5/2023 0:00,19:46:00,Credit Card,54.24,4.761904716,5.5392,8
+896-34-0956,West,Yorktown,Not member,Male,Clothing and Apparel,26.32,1,2.1056,28.4256,1/26/2023 0:00,12:43:00,Mobile app,21.32,4.761904716,2.1056,5.9
+898-04-2717,West,Yorktown,Not member,Male,Clothing and Apparel,81.4,9,58.608,791.208,3/19/2023 0:00,15:49:00,Credit Card,687.6,4.761904716,58.608,7.5
