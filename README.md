@@ -40,8 +40,6 @@ This project focuses on analyzing UniMarket sales data to identify top-performin
 Exploratory data analysis is conducted to answer key questions and meet the objectives of the project, providing deeper insights into sales performance and trends.
 
 ### 3.1 Product Analysis
-Identify the best-performing product lines and those that require improvement.
-
 #### The Electronics & Clothing and Apparel are  the top-performing product lines. 
 - Electronics generated the highest total sales at $62,889.78 with a gross income of $4,658.50 and an average customer rating of 7.11. It also ranks highest in quantity sold (952 units).
 - Clothing and Apparel ranked second in generating the highest total sales of $60,728.29 and a gross income of $4,498.39. It also maintains a strong customer rating of 7.03.
@@ -49,10 +47,16 @@ Identify the best-performing product lines and those that require improvement.
 While it generated a total sales of $54,807.82, there are rooms for major improvement in gross income and total sales. 
 
 ### 3.2 Sales Analysis
-Analyze sales trends to evaluate the effectiveness of current sales strategies and determine where adjustments are needed to boost sales.
 #### Peak Sales Time
-
-the most significant quantity of sales occurs in the evening. This trend suggests that evening hours serve as a critical sales window, and sales strategies could be optimized around this peak period, such as increasing marketing efforts or staffing during these hours.
+Most sales occured in the evening. This suggests that evening hours serve as a critical sales window, and sales strategies could be optimized around this peak period, such as increasing marketing efforts or staffing during these hours.
+#### Busy Days by Branch
+I found different trends across different branches on weekdays:
+- West Branch: The busiest day of the week is Friday.
+- East Branch: Thursday marks the busiest sales day.
+- South Branch: Both Sunday and Thursday are noted as peak sales days.
+These insights indicate that targeted promotions, inventory consideration, or special events could be more effectively aligned with these specific days to capitalize on peak sales periods.
+#### Peak Profit Month
+The month of December generated the most profit across all three branches. This peak profit is highly likely a result of the holiday season to celebrate Christmas and new year. The UniMarket may benefit from maintaining robust marketing campaigns and stock levels during this month.
 
 
 
