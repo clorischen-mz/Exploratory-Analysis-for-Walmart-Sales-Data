@@ -1,7 +1,7 @@
 # Exploratory Analysis for UniMarket Sales Data
 
 ## Overview
-This project focuses on analyzing UniMarket sales data to identify top-performing branches and products, as well as understanding sales trends and customer behavior. The goal is to uncover insights that can help optimize sales strategies. The sales dataset originated from Kaggle.com but then modified for me to practice SQL. The modified dataset consisted of sales transactions from six product lines in three UniMarket branches. All sales transactions occurred in October, November, and December 2023.
+This project focuses on analyzing UniMarket sales data to identify top-performing branches and products, as well as understanding sales trends and customer behavior. The goal is to uncover insights that can help optimize sales strategies. The sales dataset originated from the Kaggle Walmart Sales Forecasting Competition but then modified for me to practice SQL. The modified dataset consisted of sales transactions from six product lines in three UniMarket branches. All sales transactions occurred in October, November, and December 2023.
 
 ### Columns
 
@@ -25,15 +25,6 @@ This project focuses on analyzing UniMarket sales data to identify top-performin
 | `gross_income`            | Gross income generated                          | `DECIMAL(12, 4)` |
 | `rating`                  | Customer rating                                 | `FLOAT(2, 1)`    |
 
-### 1. Product Analysis
-Identify the best-performing product lines and those that require improvement.
-
-### 2. Sales Analysis
-Analyze sales trends to evaluate the effectiveness of current sales strategies and determine where adjustments are needed to boost sales.
-
-### 3. Customer Analysis
-Segment customers and analyze their purchase behaviors to uncover trends and determine the profitability at each segment.
-
 ## Methods
 
 ### 1. Data Wrangling
@@ -48,9 +39,24 @@ Segment customers and analyze their purchase behaviors to uncover trends and det
 ### 3. Exploratory Data Analysis (EDA)
 Exploratory data analysis is conducted to answer key questions and meet the objectives of the project, providing deeper insights into sales performance and trends.
 
-## Product Line Insights
-### The Electronics & Clothing and Apparel are top-performing product lines. 
+### 3.1 Product Analysis
+Identify the best-performing product lines and those that require improvement.
+
+#### The Electronics & Clothing and Apparel are  the top-performing product lines. 
 - Electronics generated the highest total sales at $62,889.78 with a gross income of $4,658.50 and an average customer rating of 7.11. It also ranks highest in quantity sold (952 units).
 - Clothing and Apparel ranked second in generating the highest total sales of $60,728.29 and a gross income of $4,498.39. It also maintains a strong customer rating of 7.03.
-### The Health and Wellness product line needs improvement.
+#### The Health and Wellness product line needs improvement.
 While it generated a total sales of $54,807.82, there are rooms for major improvement in gross income and total sales. 
+
+### 3.2 Sales Analysis
+Analyze sales trends to evaluate the effectiveness of current sales strategies and determine where adjustments are needed to boost sales.
+#### Peak Sales Time
+
+the most significant quantity of sales occurs in the evening. This trend suggests that evening hours serve as a critical sales window, and sales strategies could be optimized around this peak period, such as increasing marketing efforts or staffing during these hours.
+
+
+
+
+### 3.3 Customer Analysis
+Segment customers and analyze their purchase behaviors to uncover trends and determine the profitability at each segment.
+
