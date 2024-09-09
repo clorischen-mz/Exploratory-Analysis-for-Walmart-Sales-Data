@@ -1,7 +1,7 @@
 # Exploratory Analysis for UniMarket Sales Data
 
 ## Overview
-This project focuses on analyzing Meijer sales data to identify top-performing branches and products, as well as understanding sales trends and customer behavior. The goal is to uncover insights that can help optimize sales strategies. The sales dataset originated from Kaggle.com but then modified for me to practice SQL. The modified dataset consisted of sales transactions from six product lines in three Meijer branches. All sales transactions occurred in October, November, and December 2023.
+This project focuses on analyzing UniMarket sales data to identify top-performing branches and products, as well as understanding sales trends and customer behavior. The goal is to uncover insights that can help optimize sales strategies. The sales dataset originated from Kaggle.com but then modified for me to practice SQL. The modified dataset consisted of sales transactions from six product lines in three UniMarket branches. All sales transactions occurred in October, November, and December 2023.
 
 ### Columns
 
