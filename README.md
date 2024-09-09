@@ -39,14 +39,15 @@ This project focuses on analyzing UniMarket sales data to identify top-performin
 ### 3. Exploratory Data Analysis (EDA)
 Exploratory data analysis is conducted to answer key questions and meet the objectives of the project, providing deeper insights into sales performance and trends.
 
-### 3.1 Product Analysis
+## Insights
+### 1. Product Analysis
 #### The Electronics & Clothing and Apparel are  the top-performing product lines. 
 - Electronics generated the highest total sales at $62,889.78 with a gross income of $4,658.50 and an average customer rating of 7.11. It also ranks highest in quantity sold (952 units).
 - Clothing and Apparel ranked second in generating the highest total sales of $60,728.29 and a gross income of $4,498.39. It also maintains a strong customer rating of 7.03.
 #### The Health and Wellness product line needs improvement.
 While it generated a total sales of $54,807.82, there are rooms for major improvement in gross income and total sales. 
 
-### 3.2 Sales Analysis
+### 2. Sales Analysis
 #### Peak Sales Time
 Most sales occured in the evening. This suggests that evening hours serve as a critical sales window, and sales strategies could be optimized around this peak period, such as increasing marketing efforts or staffing during these hours.
 #### Busy Days by Branch
@@ -59,8 +60,6 @@ These insights indicate that targeted promotions, inventory consideration, or sp
 The month of December generated the most profit across all three branches. This peak profit is highly likely a result of the holiday season to celebrate Christmas and new year. The UniMarket may benefit from maintaining robust marketing campaigns and stock levels during this month.
 
 
-
-
-### 3.3 Customer Analysis
+### 3. Customer Analysis
 Segment customers and analyze their purchase behaviors to uncover trends and determine the profitability at each segment.
 
