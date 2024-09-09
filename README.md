@@ -24,3 +24,26 @@ This project focuses on analyzing Meijer sales data to identify top-performing b
 | `gross_margin_pct`        | Percentage of gross margin                      | `FLOAT(11, 9)`   |
 | `gross_income`            | Gross income generated                          | `DECIMAL(12, 4)` |
 | `rating`                  | Customer rating                                 | `FLOAT(2, 1)`    |
+
+### 1. Product Analysis
+Identify the best-performing product lines and those that require improvement.
+
+### 2. Sales Analysis
+Analyze sales trends to evaluate the effectiveness of current sales strategies and determine where adjustments are needed to boost sales.
+
+### 3. Customer Analysis
+Segment customers and analyze their purchase behaviors to uncover trends and determine the profitability at each segment.
+
+## Methods
+
+### 1. Data Wrangling
+- Perform an initial inspection of the data to detect missing or NULL values.
+- Replace or remove NULL values during database creation by enforcing `NOT NULL` constraints.
+
+### 2. Feature Engineering
+- **`time_of_day`**: Categorize sales into Morning, Afternoon, and Evening to identify peak sales periods.
+- **`day_name`**: Extract the day of the week (Mon, Tue, Wed, etc.) to determine when each branch is busiest.
+- **`month_name`**: Extract the month (Jan, Feb, Mar, etc.) to analyze which months have the highest sales and profits.
+
+### 3. Exploratory Data Analysis (EDA)
+Exploratory data analysis is conducted to answer key questions and meet the objectives of the project, providing deeper insights into sales performance and trends.
