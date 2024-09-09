@@ -59,7 +59,13 @@ These insights indicate that targeted promotions, inventory consideration, or sp
 #### Peak Profit Month
 The month of December generated the most profit across all three branches. This peak profit is highly likely a result of the holiday season to celebrate Christmas and new year. The UniMarket may benefit from maintaining robust marketing campaigns and stock levels during this month.
 
-
 ### 3. Customer Analysis
-Segment customers and analyze their purchase behaviors to uncover trends and determine the profitability at each segment.
+#### Customer Type
+​Customers with memberships at UniMarket tend to buy slightly more often than their non-member counterparts.​ This trend suggests that membership programs may enhance customer loyalty and encourage higher purchasing frequency, making membership a potentially profitable avenue to explore further.
+
+#### Peak Rating Time
+Examination of rating data reveals that the most ratings are provided by customers during the evening hours. This pattern implies that engagement, possibly due to more available time after work, allows customers to provide feedback on their shopping experiences. Businesses could leverage this insight by timing review requests to coincide with this peak period, thereby increasing the likelihood of receiving responses.
+
+#### Best Days for Ratings
+On analyzing average ratings by day of the week, Wednesdays, Saturdays, and Sundays emerged as the days with the best average ratings. This indicates customer satisfaction may peak during mid-week and the weekend, possibly due to promotional activities, special events, or an overall more relaxed shopping environment on these days. UniMarket should consider running promotions or marketing campaigns strategically on these days to maximize customer interaction and satisfaction.
 
