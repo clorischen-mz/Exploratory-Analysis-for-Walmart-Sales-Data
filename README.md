@@ -1,7 +1,7 @@
-# Exploratory Analysis for UniMarket Sales Data
+# Exploratory Analysis for Walmart Sales Data
 
 ## Overview
-This project focuses on analyzing UniMarket sales data to identify top-performing branches and products, as well as understanding sales trends and customer behavior. The goal is to uncover insights that can help optimize sales strategies. The sales dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting) but then modified for me to practice SQL. The modified dataset consisted of sales transactions from six product lines in three UniMarket branches. All sales transactions occurred in October, November, and December 2023.
+This project focuses on analyzing Walmart sales data to identify top-performing branches and products, as well as understanding sales trends and customer behavior. The goal is to uncover insights that can help optimize sales strategies. The sales dataset was a modified version of the dataset from the [Kaggle Walmart Sales Forecasting Competition](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting). The modified dataset consisted of sales transactions from six product lines in three Walmart branches. All sales transactions occurred in October, November, and December 2023.
 
 ### Columns
 
@@ -57,15 +57,15 @@ This project focuses on analyzing UniMarket sales data to identify top-performin
 > - South Branch: Both Sunday and Thursday are noted as peak sales days.
 These insights indicate that targeted promotions, inventory consideration, or special events could be more effectively aligned with these specific days to capitalize on peak sales periods.
 #### Peak Profit Month
-> The month of December generated the most profit across all three branches. This peak profit is highly likely a result of the holiday season to celebrate Christmas and new year. The UniMarket may benefit from maintaining robust marketing campaigns and stock levels during this month.
+> The month of December generated the most profit across all three branches. This peak profit is highly likely a result of the holiday season to celebrate Christmas and new year. The Walmart may benefit from maintaining robust marketing campaigns and stock levels during this month.
 
 ### 3. Customer Analysis
 #### Customer Type
-> ​Customers with memberships at UniMarket tend to buy slightly more often than their non-member counterparts.​ This trend suggests that membership programs may enhance customer loyalty and encourage higher purchasing frequency, making membership a potentially profitable avenue to explore further.
+> ​Customers with memberships at Walmart tend to buy slightly more often than their non-member counterparts.​ This trend suggests that membership programs may enhance customer loyalty and encourage higher purchasing frequency, making membership a potentially profitable avenue to explore further.
 
 #### Peak Rating Time
 > Examination of rating data reveals that the most ratings are provided by customers during the evening hours. This pattern implies that engagement, possibly due to more available time after work, allows customers to provide feedback on their shopping experiences. Businesses could leverage this insight by timing review requests to coincide with this peak period, thereby increasing the likelihood of receiving responses.
 
 #### Best Days for Ratings
-> On analyzing average ratings by day of the week, Wednesdays, Saturdays, and Sundays emerged as the days with the best average ratings. This indicates customer satisfaction may peak during mid-week and the weekend, possibly due to promotional activities, special events, or an overall more relaxed shopping environment on these days. UniMarket should consider running promotions or marketing campaigns strategically on these days to maximize customer interaction and satisfaction.
+> On analyzing average ratings by day of the week, Wednesdays, Saturdays, and Sundays emerged as the days with the best average ratings. This indicates customer satisfaction may peak during mid-week and the weekend, possibly due to promotional activities, special events, or an overall more relaxed shopping environment on these days. Walmart should consider running promotions or marketing campaigns strategically on these days to maximize customer interaction and satisfaction.
 
