@@ -57,7 +57,7 @@ This project focuses on analyzing Walmart sales data to identify top-performing 
 > - South Branch: Both Sunday and Thursday are noted as peak sales days.
 These insights indicate that targeted promotions, inventory consideration, or special events could be more effectively aligned with these specific days to capitalize on peak sales periods.
 #### Peak Profit Month
-> The month of December generated the most profit across all three branches. This peak profit is highly likely a result of the holiday season to celebrate Christmas and new year. The Walmart may benefit from maintaining robust marketing campaigns and stock levels during this month.
+> The month of December generated the most profit across all three branches. This peak profit is highly likely a result of the holiday season to celebrate Christmas and New Year. Walmart should maintain robust marketing campaigns and enough stock levels for the month of December.
 
 ### 3. Customer Analysis
 #### Customer Type
